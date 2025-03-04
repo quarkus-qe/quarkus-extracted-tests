@@ -18,12 +18,12 @@ runs:
             tagObj+="$tag"
             tagObj+='}'
             echo "There is no branch of this name, hence we need to extract tests: $tagObj"
-            echo "$tagObj," >> tags
+            (echo $tagObj ',') >> tags
           else
             echo "Branch $tag already exists in this project, no test extraction is needed."
           fi
         done
-        tags="$(cat tags | xargs)"
+        tags="$(cat tags)"
         if [[ -n ${tags} ]]; then
           tags="{\"include\":[${tags::-1}]}"
         fi
