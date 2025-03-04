@@ -23,7 +23,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        includes: ${{ fromJSON(needs.detect-releases.outputs.tags) }}
+        tag: ${{ fromJSON(needs.detect-releases.outputs.tags) }}
     steps:
       - uses: actions/checkout@v4
       - name: Install JDK 21
