@@ -14,6 +14,9 @@ runs:
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName'
         
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read i; do
+          # FIXME: remove next line
+          gh repo view quarkus-qe/quarkus-extracted-tests -b "$tag"
+        
           if [[ $(gh repo view quarkus-qe/quarkus-extracted-tests -b "$tag") != *$tag* ]]; then
             tagObj="{\"tag\": \"$tag\"}"
             if [ "${tags+set}" != set ]; then
