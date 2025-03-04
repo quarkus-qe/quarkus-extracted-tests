@@ -30,11 +30,12 @@ runs:
         else
           tags="{\"include\":[$tags]}"
         fi
+        echo "Collected tags output is: $tags"
         echo "tags=$tags" >> $GITHUB_OUTPUT
       env:
         GH_TOKEN: ${{ inputs.gh-token }}
         GH_REPO: ${{ github.repository }}
 outputs:
-  name:
+  tags:
     description: "Quarkus release tags for which no Git project branch exists."
     value: ${{ steps.detect.outputs.tags }}
