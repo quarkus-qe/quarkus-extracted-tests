@@ -31,9 +31,6 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 21
-      - uses: ./.github/actions/configure-git
-        with:
-          gh-token: ${{ secrets.QUARKUS_QE_GH_PUSH_TOKEN }}
       - uses: ./.github/actions/extract-tests
         with:
           tag: ${{ matrix.tag }}
