@@ -7,6 +7,7 @@ jobs:
     if: ${{ ! contains(github.ref, 'main') }}
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Install JDK {{ matrix.java }}
         uses: actions/setup-java@v4
         with:
