@@ -8,6 +8,7 @@ jobs:
     name: Detect new Quarkus releases
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: ./.github/actions/detect-new-releases
         id: detection
     outputs:
@@ -22,6 +23,7 @@ jobs:
       matrix:
         includes: ${{ fromJSON(needs.detect-releases.outputs.tags) }}
     steps:
+      - uses: actions/checkout@v4
       - name: Install JDK 21
         uses: actions/setup-java@v4
         with:
