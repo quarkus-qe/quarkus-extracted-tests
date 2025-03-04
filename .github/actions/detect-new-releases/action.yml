@@ -10,24 +10,20 @@ runs:
       id: detect
       shell: bash
       run: |
-        tags=""
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read tag; do
           echo "found release with tag name : $tag"
           branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
           if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
-            echo "There is no branch of this name, hence we need to extract tests"
             tagObj="{\"tag\": \"$tag\"}"
-            if [[ -z ${tags} ]]; then
-              tags="$tagObj"
-            else
-              tags="$tags,$tagObj"
-            fi
+            echo "There is no branch of this name, hence we need to extract tests: $tagObj"
+            echo "$tagObj," >> tags
           else
             echo "Branch $tag already exists in this project, no test extraction is needed."
           fi
         done
+        tags="$(cat tags | xargs)"
         if [[ -n ${tags} ]]; then
-          tags="{\"include\":[$tags]}"
+          tags="{\"include\":[${tags::-1}]}"
         fi
         echo "Collected tags output is: $tags"
         echo "tags=$tags" >> $GITHUB_OUTPUT
