@@ -1,0 +1,19 @@
+name: "PR"
+on:
+  - pull_request
+jobs:
+  validation:
+    name: Builds project without running tests
+    if: ${{ ! contains(github.ref, 'main') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install JDK {{ matrix.java }}
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 21
+          check-latest: true
+          cache: 'maven'
+      - name: Build with Maven
+        run: |
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextensions -Dintegration-tests
