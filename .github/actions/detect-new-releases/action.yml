@@ -1,0 +1,32 @@
+name: 'Detect new Quarkus releases'
+description: 'Detects newly released Quarkus versions'
+runs:
+  using: "composite"
+  steps:
+    - name: Detect new releases
+      id: detect
+      shell: bash
+      run: |
+        gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read i; do
+          if [[ $(gh repo view quarkus-qe/quarkus-extracted-tests -b "$tag") != *$tag* ]]; then
+            tagObj="{\"tag\": \"$tag\"}"
+            if [ "${tags+set}" != set ]; then
+              tags="$tagObj"
+            else
+              tags="$tags,$tagObj"
+            fi
+          fi
+        done
+        if [ "${tags+set}" != set ]; then
+          tags=""
+        else
+          tags="{\"include\":[$tags]}"
+        fi
+        echo "tags=$tags" >> $GITHUB_OUTPUT
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_REPO: ${{ github.repository }}
+outputs:
+  name:
+    description: "Quarkus release tags for which no Git project branch exists."
+    value: ${{ steps.detect.outputs.tags }}

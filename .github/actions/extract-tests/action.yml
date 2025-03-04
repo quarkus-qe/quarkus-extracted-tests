@@ -1,0 +1,19 @@
+name: 'Extract tests'
+description: 'Extracts tests for given Quarkus release tag name'
+inputs:
+  tag:
+    description: "Quarkus release tag"
+    required: true
+runs:
+  using: "composite"
+  steps:
+    - name: Extract tests for given tag
+      shell: bash
+      run: |
+        wget -q https://raw.githubusercontent.com/quarkus-qe/quarkus-test-extractor/refs/heads/main/extract-tests.sh
+        chmod +x extract-tests.sh
+        ./extract-tests.sh -p -b "$RELEASE_TAG"
+      env:
+        GH_TOKEN: ${{secrets.QUARKUS_QE_GH_PUSH_TOKEN}}
+        GH_REPO: ${{github.repository}}
+        RELEASE_TAG: ${{ inputs.tag }}
