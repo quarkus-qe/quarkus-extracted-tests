@@ -12,7 +12,7 @@ jobs:
       - uses: ./.github/actions/detect-new-releases
         id: detection
         with:
-          gh-token: ${{ secrets.GITHUB_TOKEN }}
+          gh-token: ${{ secrets.QUARKUS_QE_GH_PUSH_TOKEN }}
     outputs:
       tags: ${{ steps.detection.outputs.tags }}
   extract-tests:
@@ -36,7 +36,7 @@ jobs:
         id: install-jdk
       - uses: ./.github/actions/configure-git
         with:
-          gh-token: ${{ secrets.GITHUB_TOKEN }}
+          gh-token: ${{ secrets.QUARKUS_QE_GH_PUSH_TOKEN }}
       - uses: ./.github/actions/extract-tests
         with:
           tag: ${{ matrix.tag }}
