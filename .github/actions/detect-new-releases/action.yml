@@ -23,7 +23,7 @@ runs:
             echo "Branch $tag already exists in this project, no test extraction is needed."
           fi
         done
-        tags="$(cat tags)"
+        tags="$(cat tags | xargs -d)"
         if [[ -n ${tags} ]]; then
           tags="{\"include\":[${tags::-1}]}"
         fi
