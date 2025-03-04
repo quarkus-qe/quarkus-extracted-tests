@@ -9,7 +9,7 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Extract tests for given tag
+    - name: Extract tests for given tag and open PR
       shell: bash
       run: |
         wget -q https://raw.githubusercontent.com/quarkus-qe/quarkus-test-extractor/refs/heads/main/extract-tests.sh
