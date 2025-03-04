@@ -1,5 +1,8 @@
 name: 'Detect new Quarkus releases'
 description: 'Detects newly released Quarkus versions'
+inputs:
+  gh-token:
+    required: true
 runs:
   using: "composite"
   steps:
@@ -24,7 +27,7 @@ runs:
         fi
         echo "tags=$tags" >> $GITHUB_OUTPUT
       env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ inputs.gh-token }}
         GH_REPO: ${{ github.repository }}
 outputs:
   name:

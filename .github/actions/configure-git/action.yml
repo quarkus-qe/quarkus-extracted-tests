@@ -1,5 +1,8 @@
 name: 'Configure Git for push'
 description: 'Logs in using GH token and setup Git user'
+inputs:
+  gh-token:
+    required: true
 runs:
   using: "composite"
   steps:
@@ -10,5 +13,5 @@ runs:
         git config --local user.email "quarkus-qe@redhat.com"
         git config --local user.name "QuarkusQE"
       env:
-        GH_TOKEN: ${{secrets.QUARKUS_QE_GH_PUSH_TOKEN}}
-        GH_REPO: ${{github.repository}}
+        GH_TOKEN: ${{ inputs.gh-token }}
+        GH_REPO: ${{ github.repository }}

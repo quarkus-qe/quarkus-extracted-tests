@@ -11,8 +11,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/detect-new-releases
         id: detection
+        with:
+          gh-token: ${{ secrets.GITHUB_TOKEN }}
     outputs:
-      tags: ${{steps.detection.outputs.tags}}
+      tags: ${{ steps.detection.outputs.tags }}
   extract-tests:
     name: Extract tests from new Quarkus releases
     if: ${{ contains(needs.detect-releases.outputs.tags, 'tag') }}
@@ -33,6 +35,9 @@ jobs:
           cache: 'maven'
         id: install-jdk
       - uses: ./.github/actions/configure-git
+        with:
+          gh-token: ${{ secrets.GITHUB_TOKEN }}
       - uses: ./.github/actions/extract-tests
         with:
           tag: ${{ matrix.tag }}
+          gh-token: ${{ secrets.QUARKUS_QE_GH_PUSH_TOKEN }}

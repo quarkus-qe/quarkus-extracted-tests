@@ -4,6 +4,8 @@ inputs:
   tag:
     description: "Quarkus release tag"
     required: true
+  gh-token:
+    required: true
 runs:
   using: "composite"
   steps:
@@ -14,6 +16,6 @@ runs:
         chmod +x extract-tests.sh
         ./extract-tests.sh -p -b "$RELEASE_TAG"
       env:
-        GH_TOKEN: ${{secrets.QUARKUS_QE_GH_PUSH_TOKEN}}
-        GH_REPO: ${{github.repository}}
+        GH_TOKEN: ${{ inputs.gh-token }}
+        GH_REPO: ${{ github.repository }}
         RELEASE_TAG: ${{ inputs.tag }}
