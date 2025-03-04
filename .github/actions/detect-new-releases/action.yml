@@ -10,6 +10,9 @@ runs:
       id: detect
       shell: bash
       run: |
+        # FIXME: remove next line
+        gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName'
+        
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read i; do
           if [[ $(gh repo view quarkus-qe/quarkus-extracted-tests -b "$tag") != *$tag* ]]; then
             tagObj="{\"tag\": \"$tag\"}"
