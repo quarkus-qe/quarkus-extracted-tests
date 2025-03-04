@@ -14,9 +14,9 @@ runs:
           echo "found release with tag name : $tag"
           branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
           if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
-            tagObj='{"tag": "'
+            tagObj='{"tag": '
             tagObj+="$tag"
-            tagObj+='"}'
+            tagObj+='}'
             echo "There is no branch of this name, hence we need to extract tests: $tagObj"
             echo "$tagObj," >> tags
           else
