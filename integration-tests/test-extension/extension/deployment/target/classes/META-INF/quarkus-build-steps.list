@@ -1,0 +1,8 @@
+io.quarkus.extest.deployment.ClasspathEntryRecordingBuildStep
+io.quarkus.extest.deployment.ControllerConfigurationBuildStep
+io.quarkus.extest.deployment.HotReplacementProcessor
+io.quarkus.extest.deployment.MapBuildTimeConfigBuildStep
+io.quarkus.extest.deployment.PrefixConfigTestProcessor
+io.quarkus.extest.deployment.TestProcessor
+io.quarkus.extest.deployment.TestRecordProcessor
+io.quarkus.extest.deployment.UberJarConfigBuildStep

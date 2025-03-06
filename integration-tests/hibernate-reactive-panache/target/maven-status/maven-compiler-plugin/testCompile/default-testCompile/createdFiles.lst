@@ -1,0 +1,12 @@
+DefaultPackageWithFastJarPMT.class
+io/quarkus/it/panache/reactive/TestReactiveTransactionTest.class
+io/quarkus/it/panache/reactive/MockPersonRepository.class
+PackagelessCat.class
+io/quarkus/it/panache/reactive/PanacheMockingTest.class
+io/quarkus/it/panache/reactive/NoPagingPMT.class
+META-INF/panache-archive.marker
+io/quarkus/it/panache/reactive/PanacheFunctionalityInGraalITCase.class
+io/quarkus/it/panache/reactive/DuplicateMethodTest.class
+io/quarkus/it/panache/reactive/PanacheFunctionalityTest.class
+io/quarkus/it/panache/reactive/TransactionalUniAsserterTest.class
+io/quarkus/it/panache/reactive/DDLGenerationPMT.class

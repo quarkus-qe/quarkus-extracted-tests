@@ -1,0 +1,9 @@
+io/quarkus/it/security/webauthn/AdminResource.class
+io/quarkus/it/security/webauthn/MyWebAuthnSetup.class
+io/quarkus/it/security/webauthn/LoginResource.class
+META-INF/panache-archive.marker
+io/quarkus/it/security/webauthn/WebAuthnCredential.class
+io/quarkus/it/security/webauthn/PublicResource.class
+io/quarkus/it/security/webauthn/UserResource.class
+io/quarkus/it/security/webauthn/User.class
+io/quarkus/it/security/webauthn/WebAuthnCertificate.class

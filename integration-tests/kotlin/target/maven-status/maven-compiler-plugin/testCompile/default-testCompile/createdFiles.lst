@@ -1,0 +1,3 @@
+io/quarkus/kotlin/maven/it/KotlinCreateMavenProjectIT.class
+io/quarkus/kotlin/maven/it/KotlinDevModeIT.class
+io/quarkus/kotlin/maven/it/KotlinRemoteDevModeIT.class

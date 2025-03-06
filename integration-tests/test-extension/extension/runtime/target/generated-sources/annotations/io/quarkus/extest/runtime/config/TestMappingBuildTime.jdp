@@ -1,0 +1,6 @@
+io.quarkus.extest.runtime.config.TestMappingBuildTime.group=A nested Group.
+io.quarkus.extest.runtime.config.TestMappingBuildTime.groups=A List of Groups.
+io.quarkus.extest.runtime.config.TestMappingBuildTime.missing=An Optional missing Group.
+io.quarkus.extest.runtime.config.TestMappingBuildTime.optionalGroups=An Optional List of Groups.
+io.quarkus.extest.runtime.config.TestMappingBuildTime.present=An Optional present Group.
+io.quarkus.extest.runtime.config.TestMappingBuildTime.value=A String value.

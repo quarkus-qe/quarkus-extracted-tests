@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-tenancy/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-tenancy/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-tenancy/src/test/java/io/quarkus/it/keycloak/KeycloakRealmResourceManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-tenancy/src/test/java/io/quarkus/it/keycloak/ServicePublicKeyTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-tenancy/src/test/java/io/quarkus/it/keycloak/TestSecurityLazyAuthTest.java

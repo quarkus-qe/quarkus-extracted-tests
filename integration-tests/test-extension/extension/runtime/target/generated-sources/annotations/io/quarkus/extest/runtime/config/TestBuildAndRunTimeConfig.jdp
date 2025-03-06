@@ -1,0 +1,8 @@
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.allValues=A nested config group with all supported value types
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.btSBV=A config object with ctor(String)
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.btSBVWithDefault=A config object with ctor(String) and default value
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.btStringOpt=A config string
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.btStringOptWithDefault=A config string with default value
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.mapOfNumbers=Map of Integer conversion with {@link ConvertWith}
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.myEnum=Enum object
+io.quarkus.extest.runtime.config.TestBuildAndRunTimeConfig.myEnums=Enum list of objects

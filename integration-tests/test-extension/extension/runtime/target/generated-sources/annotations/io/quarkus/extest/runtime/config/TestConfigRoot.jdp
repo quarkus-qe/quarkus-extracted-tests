@@ -1,0 +1,2 @@
+io.quarkus.extest.runtime.config.TestConfigRoot.dsaKeyLocation=resource location of the DSAPublicKey encoded bytes
+io.quarkus.extest.runtime.config.TestConfigRoot.validateBuildConfig=Should the TestProcessor\#checkConfig method validate the buildTimeConfig

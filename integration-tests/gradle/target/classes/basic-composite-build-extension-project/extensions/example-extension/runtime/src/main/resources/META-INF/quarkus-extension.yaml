@@ -1,0 +1,12 @@
+---
+name: Quarkus Example Extension
+artifact: io.quarkus:quarkus-integration-test-gradle-plugin:3.8.6.1
+metadata:
+  config:
+    - "quarkus.example.extension."
+  keywords:
+    - "logzio"
+    - "logging"
+  categories:
+    - "logging"
+description: "Quarkus example extension"
