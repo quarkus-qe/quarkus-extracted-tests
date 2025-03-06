@@ -1,0 +1,4 @@
+io/quarkus/it/undertow/elytron/OpenApiServlet.class
+io/quarkus/it/undertow/elytron/RootResource.class
+io/quarkus/it/undertow/elytron/GreetingServlet.class
+io/quarkus/it/undertow/elytron/AnnotationSecurityServlet.class

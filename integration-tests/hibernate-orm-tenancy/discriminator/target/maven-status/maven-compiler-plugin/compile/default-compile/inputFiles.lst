@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/fruit/CustomTenantResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/fruit/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/fruit/FruitResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/inventory/InventoryResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/inventory/InventoryTenantResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/main/java/io/quarkus/it/hibernate/multitenancy/inventory/Plane.java
