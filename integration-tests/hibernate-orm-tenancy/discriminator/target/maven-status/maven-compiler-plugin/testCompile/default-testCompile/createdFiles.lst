@@ -1,0 +1,4 @@
+io/quarkus/it/hibernate/multitenancy/fruit/HibernateTenancyFunctionalityTest.class
+io/quarkus/it/hibernate/multitenancy/inventory/HibernateNamedPersistenceUnitTestInGraalITCase.class
+io/quarkus/it/hibernate/multitenancy/fruit/HibernateTenancyFunctionalityInGraalITCase.class
+io/quarkus/it/hibernate/multitenancy/inventory/HibernateNamedPersistenceUnitTest.class
