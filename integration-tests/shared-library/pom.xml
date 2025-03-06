@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-main-tests</artifactId>
+    <version>3.18.3</version>
+    <relativePath>../../</relativePath>
+  </parent>
+  <artifactId>quarkus-integration-test-shared-library</artifactId>
+  <name>Quarkus - Integration Tests - Shared library</name>
+  <description>An example/test of a componentized application. This is indexed at build time by Quarkus
+        and components it provides should be included as normal.</description>
+  <dependencies>
+    <dependency>
+      <groupId>jakarta.servlet</groupId>
+      <artifactId>jakarta.servlet-api</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>jakarta.ws.rs</groupId>
+      <artifactId>jakarta.ws.rs-api</artifactId>
+    </dependency>
+  </dependencies>
+</project>

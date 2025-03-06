@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/src/main/java/io/quarkus/grpc/examples/hello/HelloWorldNewService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/Greeter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/GreeterBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/GreeterClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/GreeterGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/HelloWorldProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/target/generated-sources/grpc/examples/MutinyGreeterGrpc.java
