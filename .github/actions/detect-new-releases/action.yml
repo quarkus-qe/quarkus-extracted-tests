@@ -11,15 +11,18 @@ runs:
       shell: bash
       run: |
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read tag; do
-          branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
-          if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
-            tagObj=''
-            tagObj+="$tag"
-            tagObj+=','
-            echo "There is no branch of this name, hence we need to extract tests: $tagObj"
-            echo -n "$tagObj" >> tags
-          else
-            echo "Branch $tag already exists in this project, no test extraction is needed."
+          # extraction of tests for 3.8.x is not supported 
+          if [[ $tag != '3.8.'* ]]; then
+            branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
+            if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
+              tagObj=''
+              tagObj+="$tag"
+              tagObj+=','
+              echo "There is no branch of this name, hence we need to extract tests: $tagObj"
+              echo -n "$tagObj" >> tags
+            else
+              echo "Branch $tag already exists in this project, no test extraction is needed."
+            fi
           fi
         done
         tags="$(cat tags | xargs -0)"
