@@ -1,0 +1,13 @@
+io/quarkus/it/cache/GetIfPresentResource.class
+io/quarkus/it/cache/ExpensiveResource.class
+io/quarkus/it/cache/RestClientResource.class
+io/quarkus/it/cache/TreeResource.class
+io/quarkus/it/cache/Tree.class
+io/quarkus/it/cache/CaffeineResource$MyBulkCacheLoader.class
+io/quarkus/it/cache/CaffeineResource.class
+io/quarkus/it/cache/SunriseRestClient.class
+io/quarkus/it/cache/CaffeineResource$MyCacheLoader.class
+io/quarkus/it/cache/SunriseRestServerResource.class
+META-INF/panache-archive.marker
+io/quarkus/it/cache/ExpensiveResource$ExpensiveResponse.class
+io/quarkus/it/cache/CaffeineResource$Result.class

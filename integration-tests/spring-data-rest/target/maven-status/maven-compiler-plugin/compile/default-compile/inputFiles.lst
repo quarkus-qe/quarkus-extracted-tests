@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-data-rest/src/main/java/io/quarkus/it/spring/data/rest/Author.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-data-rest/src/main/java/io/quarkus/it/spring/data/rest/AuthorsRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-data-rest/src/main/java/io/quarkus/it/spring/data/rest/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-data-rest/src/main/java/io/quarkus/it/spring/data/rest/BooksRepository.java

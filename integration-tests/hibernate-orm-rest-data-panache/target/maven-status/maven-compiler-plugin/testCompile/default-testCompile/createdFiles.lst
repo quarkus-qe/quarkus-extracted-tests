@@ -1,0 +1,4 @@
+io/quarkus/it/hibernate/orm/rest/data/panache/TestResources.class
+META-INF/panache-archive.marker
+io/quarkus/it/hibernate/orm/rest/data/panache/HibernateOrmRestDataPanacheTest.class
+io/quarkus/it/hibernate/orm/rest/data/panache/HibernateOrmRestDataPanacheIT.class

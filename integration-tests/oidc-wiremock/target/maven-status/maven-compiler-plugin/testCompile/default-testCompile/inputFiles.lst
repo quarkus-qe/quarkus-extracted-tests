@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/AnnotationBasedTenantTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/BearerOpaqueTokenAuthorizationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/BearerOpaqueTokenAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/BearerTokenOidcRecoveredTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/CodeFlowAuthorizationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/CodeFlowAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/TestUtils.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-wiremock/src/test/java/io/quarkus/it/keycloak/WiremockTestResource.java

@@ -1,0 +1,2 @@
+io.quarkus.extest.runtime.config.NestedConfig.nestedValue=A nested string value
+io.quarkus.extest.runtime.config.NestedConfig.oov=A nested ObjectOfValue value

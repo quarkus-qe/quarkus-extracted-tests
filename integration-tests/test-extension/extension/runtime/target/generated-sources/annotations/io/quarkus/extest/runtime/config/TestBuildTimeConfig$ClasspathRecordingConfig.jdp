@@ -1,0 +1,2 @@
+io.quarkus.extest.runtime.config.TestBuildTimeConfig.ClasspathRecordingConfig.recordFile=Path to the file to which classpath entry records will be appended.\n\n@see RecordedClasspathEntries\#get(Path, RecordedClasspathEntries.Phase, String)
+io.quarkus.extest.runtime.config.TestBuildTimeConfig.ClasspathRecordingConfig.resources=Names of resources for which classpath entries should be recorded.\n\n@see RecordedClasspathEntries\#get(Path, RecordedClasspathEntries.Phase, String)

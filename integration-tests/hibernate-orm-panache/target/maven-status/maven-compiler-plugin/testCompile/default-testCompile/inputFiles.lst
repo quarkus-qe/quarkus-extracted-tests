@@ -1,0 +1,16 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/DefaultPackageWithFastJarPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/PackagelessCat.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/DDLGenerationPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/DuplicateMethodTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/JacksonTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/MockPersonRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/NoPagingPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/PanacheFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/PanacheFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/PanacheMockingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/PanacheRepositoryBaseTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/TestResources.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/TestTransactionOnSingleMethodTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/TestTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/TransactionalPanacheEntityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache/src/test/java/io/quarkus/it/panache/TransactionalRepositoryTest.java

@@ -1,0 +1,10 @@
+io/quarkus/it/mailer/TextEmail.class
+io/quarkus/it/mailer/Header.class
+io/quarkus/it/mailer/FakeMailerTestResource.class
+io/quarkus/it/mailer/HtmlEmail.class
+io/quarkus/it/mailer/MailerTest$1.class
+io/quarkus/it/mailer/Attachment.class
+io/quarkus/it/mailer/MailerTest.class
+io/quarkus/it/mailer/Recipient.class
+io/quarkus/it/mailer/MailerIT.class
+io/quarkus/it/mailer/MailerTest$2.class

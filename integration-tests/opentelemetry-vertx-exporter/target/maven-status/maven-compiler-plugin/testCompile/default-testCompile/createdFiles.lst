@@ -1,0 +1,15 @@
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcNoTLSWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcWithTLSWithTrustAllWithCompressionTest$Profile.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpNoTLSWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/OtelCollectorLifecycleManager.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpWithTLSWithTrustAllWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcNoTLSNoCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcWithTLSWithTrustAllWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/Traces.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpWithTLSWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpWithTLSWithTrustAllWithCompressionTest$Profile.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpNoTLSNoCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcWithTLSWithCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/grpc/GrpcWithTLSNoCompressionTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/AbstractExporterTest.class
+io/quarkus/it/opentelemetry/vertx/exporter/http/HttpWithTLSNoCompressionTest.class

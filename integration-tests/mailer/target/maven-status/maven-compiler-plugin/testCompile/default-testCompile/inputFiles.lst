@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/Attachment.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/FakeMailerTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/Header.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/HtmlEmail.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailerIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/Recipient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/TextEmail.java

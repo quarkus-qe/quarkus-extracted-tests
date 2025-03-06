@@ -1,0 +1,15 @@
+io/quarkus/it/opentelemetry/OpenTelemetryTest.class
+io/quarkus/it/opentelemetry/EndUserDisabledTest.class
+io/quarkus/it/opentelemetry/util/InjectionResource.class
+io/quarkus/it/opentelemetry/OpenTelemetryIT.class
+io/quarkus/it/opentelemetry/util/EndUserResource.class
+io/quarkus/it/opentelemetry/OpenTelemetryInjectionsTest.class
+io/quarkus/it/opentelemetry/OpenTelemetryTest$2.class
+io/quarkus/it/opentelemetry/AbstractEndUserTest.class
+io/quarkus/it/opentelemetry/StaticResourceTest$1.class
+io/quarkus/it/opentelemetry/EndUserEnabledTest.class
+io/quarkus/it/opentelemetry/OpenTelemetryInjectionsTest$1.class
+io/quarkus/it/opentelemetry/util/EndUserProfile.class
+io/quarkus/it/opentelemetry/StaticResourceTest.class
+io/quarkus/it/opentelemetry/util/SocketClient.class
+io/quarkus/it/opentelemetry/OpenTelemetryTest$1.class

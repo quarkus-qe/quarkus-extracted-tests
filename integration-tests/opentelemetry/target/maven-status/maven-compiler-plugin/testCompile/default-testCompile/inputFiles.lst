@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/AbstractEndUserTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/EndUserDisabledTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/EndUserEnabledTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryInjectionsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/StaticResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/util/EndUserProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/util/EndUserResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/util/InjectionResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/test/java/io/quarkus/it/opentelemetry/util/SocketClient.java

@@ -1,0 +1,9 @@
+io/quarkus/it/cache/TreeITCase.class
+io/quarkus/it/cache/CaffeineTestCase.class
+io/quarkus/it/cache/CacheITCase.class
+io/quarkus/it/cache/TreeTestCase.class
+META-INF/panache-archive.marker
+io/quarkus/it/cache/CacheTestCase.class
+io/quarkus/it/cache/CaffeineITCase.class
+io/quarkus/it/cache/RestClientTestCase.class
+io/quarkus/it/cache/RestClientITCase.class
