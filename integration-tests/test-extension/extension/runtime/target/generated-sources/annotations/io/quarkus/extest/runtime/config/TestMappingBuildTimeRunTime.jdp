@@ -1,0 +1,2 @@
+io.quarkus.extest.runtime.config.TestMappingBuildTimeRunTime.group=A nested Group.
+io.quarkus.extest.runtime.config.TestMappingBuildTimeRunTime.value=A String value

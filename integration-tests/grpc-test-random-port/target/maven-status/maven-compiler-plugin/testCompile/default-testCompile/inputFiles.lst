@@ -1,0 +1,13 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-test-random-port/src/test/java/io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsTestBase.java

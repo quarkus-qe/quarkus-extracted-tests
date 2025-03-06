@@ -1,0 +1,3 @@
+io/quarkus/it/kafka/SslKafkaConsumerITCase.class
+io/quarkus/it/kafka/SslKafkaConsumerTest.class
+io/quarkus/it/kafka/KafkaSSLTestResource.class

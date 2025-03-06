@@ -1,0 +1,4 @@
+io.quarkus.extest.runtime.config.TestMappingRunTime.doNotRecord=Record values from env test
+io.quarkus.extest.runtime.config.TestMappingRunTime.group=A nested Group.
+io.quarkus.extest.runtime.config.TestMappingRunTime.recordProfiled=Record values with named profile
+io.quarkus.extest.runtime.config.TestMappingRunTime.value=A String value.

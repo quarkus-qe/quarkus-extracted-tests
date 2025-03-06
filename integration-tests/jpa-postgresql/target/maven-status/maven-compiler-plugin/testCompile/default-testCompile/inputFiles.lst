@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/ImageMetricsITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/JPAFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/JPAReflectionInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-postgresql/src/test/java/io/quarkus/it/jpa/postgresql/OverrideJdbcUrlBuildTimeConfigSource.java

@@ -1,0 +1,4 @@
+io/quarkus/it/infinispan/client/InfinispanClientFunctionalityTest.class
+io/quarkus/it/infinispan/client/InfinispanClientFunctionalityIT.class
+io/quarkus/it/infinispan/client/HealthCheckIT.class
+io/quarkus/it/infinispan/client/HealthCheckTest.class

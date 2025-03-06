@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/BasicTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/BasicTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/ClientWithCustomObjectMapperTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/InjectMockTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/InjectMockWithInterceptorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/QuarkusMockTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/RequestEncodingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/RestClientInTestMethodWithContextTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/ShouldNotUseMockTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostTestCase.java

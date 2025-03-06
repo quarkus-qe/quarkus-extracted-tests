@@ -1,0 +1,3 @@
+io.quarkus.extest.runtime.config.PrefixConfig.map=
+io.quarkus.extest.runtime.config.PrefixConfig.nested=
+io.quarkus.extest.runtime.config.PrefixConfig.prop=

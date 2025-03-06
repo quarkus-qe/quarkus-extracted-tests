@@ -1,0 +1,13 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/MultipartResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/MultipartResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/BaseExternalWrongHostTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostTestResourceUsingHostnameVerifier.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostTestResourceUsingVerifyHost.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingHostnameVerifierIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingHostnameVerifierTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client/src/test/java/io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingVerifyHostTestCase.java

@@ -1,0 +1,16 @@
+io.quarkus.extest.runtime.config.AllValuesConfig.doublePrimitive=a double primitive
+io.quarkus.extest.runtime.config.AllValuesConfig.expandedDefault=A configuration item that has a default value that is an expression
+io.quarkus.extest.runtime.config.AllValuesConfig.longList=A List of long values
+io.quarkus.extest.runtime.config.AllValuesConfig.longPrimitive=a long primitive
+io.quarkus.extest.runtime.config.AllValuesConfig.longValue=a long value
+io.quarkus.extest.runtime.config.AllValuesConfig.nestedConfigMap=A map of config group objects
+io.quarkus.extest.runtime.config.AllValuesConfig.oov=A config object with a static of(String) method
+io.quarkus.extest.runtime.config.AllValuesConfig.oovWithDefault=A config object with a static of(String) method and default value
+io.quarkus.extest.runtime.config.AllValuesConfig.optDoubleValue=an optional double value
+io.quarkus.extest.runtime.config.AllValuesConfig.optLongValue=an optional long value
+io.quarkus.extest.runtime.config.AllValuesConfig.optionalLongValue=an optional long value
+io.quarkus.extest.runtime.config.AllValuesConfig.ovo=A config object with a static valueOf(String) method
+io.quarkus.extest.runtime.config.AllValuesConfig.ovoWithDefault=A config object with a static of(String) method and default value
+io.quarkus.extest.runtime.config.AllValuesConfig.stringList=A List of string values
+io.quarkus.extest.runtime.config.AllValuesConfig.stringListMap=A map of property lists
+io.quarkus.extest.runtime.config.AllValuesConfig.stringMap=A map of properties

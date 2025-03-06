@@ -1,0 +1,3 @@
+io/quarkus/it/mongodb/rest/data/panache/MongoDbRestDataPanacheTest.class
+io/quarkus/it/mongodb/rest/data/panache/MongoDbRestDataPanacheIT.class
+META-INF/panache-archive.marker

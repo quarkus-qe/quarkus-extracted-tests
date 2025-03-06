@@ -1,0 +1,5 @@
+io/quarkus/it/spring/data/rest/AuthorsRepository.class
+io/quarkus/it/spring/data/rest/Author.class
+io/quarkus/it/spring/data/rest/BooksRepository.class
+META-INF/panache-archive.marker
+io/quarkus/it/spring/data/rest/Book.class

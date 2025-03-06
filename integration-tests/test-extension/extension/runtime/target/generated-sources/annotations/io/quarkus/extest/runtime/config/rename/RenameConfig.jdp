@@ -1,0 +1,5 @@
+io.quarkus.extest.runtime.config.rename.RenameConfig.inBoth=
+io.quarkus.extest.runtime.config.rename.RenameConfig.onlyInNew=
+io.quarkus.extest.runtime.config.rename.RenameConfig.onlyInOld=
+io.quarkus.extest.runtime.config.rename.RenameConfig.prop=
+io.quarkus.extest.runtime.config.rename.RenameConfig.withDefault=
