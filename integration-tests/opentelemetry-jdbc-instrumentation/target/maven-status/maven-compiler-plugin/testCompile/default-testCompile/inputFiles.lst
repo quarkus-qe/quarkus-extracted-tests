@@ -1,0 +1,13 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/Db2LifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/Db2OpenTelemetryJdbcInstrumentationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/Db2OpenTelemetryJdbcInstrumentationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/MariaDbLifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/MariaDbOpenTelemetryJdbcInstrumentationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/MariaDbOpenTelemetryJdbcInstrumentationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryJdbcInstrumentationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/OracleLifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/OracleOpenTelemetryJdbcInstrumentationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/OracleOpenTelemetryJdbcInstrumentationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/PostgreSqlLifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/PostgresOpenTelemetryJdbcInstrumentationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/test/java/io/quarkus/it/opentelemetry/PostgresOpenTelemetryJdbcInstrumentationTest.java

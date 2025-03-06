@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-integration-test-jpa-mapping-xml</artifactId>
+    <version>3.15.3.1</version>
+  </parent>
+  <artifactId>quarkus-integration-test-jpa-xml-legacy-library-b</artifactId>
+  <version>3.15.3.1</version>
+  <name>Quarkus - Integration Tests - JPA - XML mapping - Legacy Library B</name>
+  <properties>
+    <quarkus.native.builder-image.pull>missing</quarkus.native.builder-image.pull>
+    <quarkus.build.skip>${skipTests}</quarkus.build.skip>
+    <native.surefire.skip>${skipTests}</native.surefire.skip>
+    <gpg.skip>true</gpg.skip>
+    <maven.deploy.skip>true</maven.deploy.skip>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-hibernate-orm</artifactId>
+    </dependency>
+  </dependencies>
+  <build>
+    <resources>
+      <resource>
+        <filtering>false</filtering>
+        <directory>src/main/resources</directory>
+      </resource>
+    </resources>
+  </build>
+</project>
