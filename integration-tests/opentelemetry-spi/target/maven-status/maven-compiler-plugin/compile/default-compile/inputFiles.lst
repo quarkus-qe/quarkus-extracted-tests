@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/CustomSPISampler.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/CustomSPISamplerProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/SimpleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/TraceData.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/TracedService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/output/SpanDataModuleSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/main/java/io/quarkus/it/opentelemetry/spi/output/SpanDataSerializer.java

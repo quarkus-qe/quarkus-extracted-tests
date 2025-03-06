@@ -1,0 +1,8 @@
+io/quarkus/it/hibernate/multitenancy/fruit/FruitResource.class
+io/quarkus/it/hibernate/multitenancy/inventory/Plane.class
+io/quarkus/it/hibernate/multitenancy/inventory/InventoryResource.class
+io/quarkus/it/hibernate/multitenancy/fruit/CustomTenantResolver.class
+io/quarkus/it/hibernate/multitenancy/fruit/FruitResource$Error.class
+io/quarkus/it/hibernate/multitenancy/inventory/InventoryTenantResolver.class
+io/quarkus/it/hibernate/multitenancy/fruit/Fruit.class
+io/quarkus/it/hibernate/multitenancy/fruit/FruitResource$ErrorMapper.class

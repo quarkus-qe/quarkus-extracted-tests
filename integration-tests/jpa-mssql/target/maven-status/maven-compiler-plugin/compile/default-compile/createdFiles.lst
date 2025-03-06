@@ -1,0 +1,4 @@
+io/quarkus/it/jpa/mssql/Person.class
+io/quarkus/it/jpa/mssql/DialectEndpoint.class
+io/quarkus/it/jpa/mssql/SequencedAddress.class
+io/quarkus/it/jpa/mssql/JPAFunctionalityTestEndpoint.class

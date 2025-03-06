@@ -1,0 +1,3 @@
+io/quarkus/grpc/external/proto/ExternalProtoTestBase.class
+io/quarkus/grpc/external/proto/ExternalProtoTest.class
+io/quarkus/grpc/external/proto/VertxExternalProtoTest.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-integration-test-test-extension</artifactId>
+    <version>3.19.2</version>
+  </parent>
+  <artifactId>quarkus-integration-test-test-extension-extension-parent</artifactId>
+  <packaging>pom</packaging>
+  <name>Quarkus - Integration Tests - Test Extension - Extension</name>
+  <modules>
+    <module>deployment</module>
+    <module>runtime</module>
+  </modules>
+  <properties>
+    <enforcer.skip>true</enforcer.skip>
+    <maven.deploy.skip>true</maven.deploy.skip>
+  </properties>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.sonatype.plugins</groupId>
+        <artifactId>nexus-staging-maven-plugin</artifactId>
+        <version>1.6.13</version>
+        <configuration>
+          <skipNexusStagingDeployMojo>true</skipNexusStagingDeployMojo>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

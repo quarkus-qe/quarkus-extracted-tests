@@ -1,0 +1,2 @@
+io/quarkus/it/opentelemetry/minimal/HelloService.class
+io/quarkus/it/opentelemetry/minimal/HelloService$InMemoryMetricExporterProducer.class

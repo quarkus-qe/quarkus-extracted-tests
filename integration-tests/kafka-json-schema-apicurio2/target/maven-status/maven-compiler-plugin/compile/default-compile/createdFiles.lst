@@ -1,0 +1,3 @@
+io/quarkus/it/kafka/jsonschema/JsonSchemaKafkaCreator.class
+io/quarkus/it/kafka/jsonschema/Pet.class
+io/quarkus/it/kafka/jsonschema/JsonSchemaEndpoint.class

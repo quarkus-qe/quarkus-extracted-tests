@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/DialectInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/DialectTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/JPAFunctionalityTest.java

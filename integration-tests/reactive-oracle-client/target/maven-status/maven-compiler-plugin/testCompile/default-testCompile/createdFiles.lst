@@ -1,0 +1,5 @@
+io/quarkus/it/reactive/oracle/client/HealthCheckIT.class
+io/quarkus/it/reactive/oracle/client/NativeFruitsEndpointIT.class
+io/quarkus/it/reactive/oracle/client/HealthCheckTest.class
+io/quarkus/it/reactive/oracle/client/HotReloadFruitResource.class
+io/quarkus/it/reactive/oracle/client/FruitsEndpointTest.class
