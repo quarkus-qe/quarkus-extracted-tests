@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/AccessTokenPropagationService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/CustomAccessTokenRequestFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/FrontendResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/JwtTokenPropagationService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/OidcConfigSource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/main/java/io/quarkus/it/keycloak/ServiceAccountService.java
