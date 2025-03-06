@@ -11,8 +11,9 @@ runs:
       shell: bash
       run: |
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read tag; do
-          # extraction of tests for 3.8.x is not supported
+          tag=$(echo $tag | xargs)
           echo 'Found release with tag name' $tag
+          # extraction of tests for 3.8.x is not supported
           if [[ $tag != '3.8.'* ]]; then
             branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
             if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
