@@ -1,0 +1,5 @@
+io/quarkus/it/reactive/mssql/client/HotReloadFruitResource.class
+io/quarkus/it/reactive/mssql/client/FruitsEndpointTest.class
+io/quarkus/it/reactive/mssql/client/HealthCheckIT.class
+io/quarkus/it/reactive/mssql/client/HealthCheckTest.class
+io/quarkus/it/reactive/mssql/client/NativeFruitsEndpointIT.class

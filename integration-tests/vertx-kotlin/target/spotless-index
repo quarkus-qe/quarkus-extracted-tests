@@ -1,0 +1,5 @@
+X7JiNVmMMVnDduMIt+Zeb1epOvwG49N+ZxmJ+d/5VDY=
+src/main/kotlin/io/quarkus/it/vertx/kotlin/MessageConsumers.kt 2025-03-06T19:23:33.547912727Z
+src/main/kotlin/io/quarkus/it/vertx/kotlin/SuspendMessageConsumers.kt 2025-03-06T19:23:33.547912727Z
+src/test/kotlin/io/quarkus/it/vertx/kotlin/KotlinConsumeEventTest.kt 2025-03-06T19:23:33.547912727Z
+src/test/kotlin/io/quarkus/it/vertx/kotlin/KotlinSuspendConsumeEventTest.kt 2025-03-06T19:23:33.547912727Z
