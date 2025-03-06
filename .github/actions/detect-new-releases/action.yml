@@ -16,6 +16,7 @@ runs:
         git config --local user.name "QuarkusQE"
         refs=$(git ls-remote)
         echo "Currently this project has following refs: $refs"
+        touch tags
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read tag; do
           tag=$(echo $tag | xargs)
           echo 'Found release with tag name' $tag
