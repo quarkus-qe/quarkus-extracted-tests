@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Address.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Animal.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Customer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Human.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/JPAFunctionalityTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/NotAnEntityNotReferenced.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/SequencedAddress.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/Status.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/main/java/io/quarkus/it/jpa/db2/WorkAddress.java
