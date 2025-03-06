@@ -15,7 +15,8 @@ runs:
           echo 'Found release with tag name' $tag
           # extraction of tests for 3.8.x is not supported
           if [[ $tag != '3.8.'* ]]; then
-            branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
+            branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag | xargs)"
+            echo 'Request to find a branch with the same name as the tag returned following result:' $branchNamedAsTagReadme
             if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
               tagObj='"'
               tagObj+="$tag"
