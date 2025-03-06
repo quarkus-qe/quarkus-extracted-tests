@@ -1,0 +1,134 @@
+Test extraction summary:
+
+=== UnmanagedDependencies:
+- Dependency 'io.smallrye.certs:smallrye-certificate-generator-junit5' is not managed by Quarkus BOM, going to use '0.9.2' version, this dependency is used at:
+  - project 'tests-quarkus-vertx-http' located at 'extensions/vertx-http'
+
+- Dependency 'org.apache.activemq:artemis-amqp-protocol' is not managed by Quarkus BOM, going to use '2.39.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-amqp' located at 'integration-tests/reactive-messaging-amqp'
+
+- Dependency 'io.quarkus:quarkus-reactive-datasource-deployment (test-jar type)' is not managed by Quarkus BOM, going to use '${quarkus.platform.version}' version, this dependency is used at:
+  - project 'tests-quarkus-reactive-oracle-client' located at 'extensions/reactive-oracle-client'
+
+- Dependency 'io.quarkus:quarkus-test-maven' is not managed by Quarkus BOM, going to use '${quarkus.community.version}' version, this dependency is used at:
+  - project 'quarkus-integration-test-test-extension-tests' located at 'integration-tests/test-extension/tests'
+
+- Dependency 'io.opentelemetry.proto:opentelemetry-proto' is not managed by Quarkus BOM, going to use '1.3.2-alpha' version, this dependency is used at:
+  - project 'quarkus-integration-test-opentelemetry-vertx-exporter' located at 'integration-tests/opentelemetry-vertx-exporter'
+
+- Dependency 'io.quarkiverse.artemis:quarkus-test-artemis' is not managed by Quarkus BOM, going to use '3.0.1' version, this dependency is used at:
+  - project 'quarkus-integration-test-virtual-threads-jms' located at 'integration-tests/virtual-threads/jms-virtual-threads'
+
+- Dependency 'io.quarkiverse.artemis:quarkus-artemis-jms' is not managed by Quarkus BOM, going to use '3.0.1' version, this dependency is used at:
+  - project 'quarkus-integration-test-virtual-threads-jms' located at 'integration-tests/virtual-threads/jms-virtual-threads'
+
+- Dependency 'org.assertj:assertj-core' is not managed by Quarkus BOM, going to use '3.27.3' version, this dependency is used at:
+  - project 'quarkus-integration-test-rest-client-reactive-http2' located at 'integration-tests/rest-client-reactive-http2'
+
+- Dependency 'io.quarkus:quarkus-rest-deployment (test-jar type)' is not managed by Quarkus BOM, going to use '${quarkus.platform.version}' version, this dependency is used at:
+  - project 'tests-quarkus-rest-servlet' located at 'extensions/resteasy-reactive/rest-servlet'
+
+- Dependency 'org.junit-pioneer:junit-pioneer' is not managed by Quarkus BOM, going to use '2.2.0' version, this dependency is used at:
+  - project 'tests-quarkus-rest-client' located at 'extensions/resteasy-reactive/rest-client'
+
+- Dependency 'org.apache.activemq:artemis-server' is not managed by Quarkus BOM, going to use '2.39.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-amqp' located at 'integration-tests/reactive-messaging-amqp'
+
+- Dependency 'io.quarkus:quarkus-devmode-test-utils' is not managed by Quarkus BOM, going to use '${quarkus.community.version}' version, this dependency is used at:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Dependency 'org.htmlunit:htmlunit' is not managed by Quarkus BOM, going to use '4.9.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-oidc-wiremock-providers' located at 'integration-tests/oidc-wiremock-providers'
+
+- Dependency 'org.wiremock:wiremock-standalone' is not managed by Quarkus BOM, going to use '3.11.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-rest-client-reactive' located at 'integration-tests/rest-client-reactive'
+
+- Dependency 'org.commonmark:commonmark' is not managed by Quarkus BOM, going to use '0.24.0' version, this dependency is used at:
+  - project 'tests-quarkus-messaging' located at 'extensions/smallrye-reactive-messaging'
+
+
+
+=== Projects that have configured a repository in their POM:
+- Repository 'Gradle releases repository' (with id 'gradle-dependencies' and URL 'https://repo.gradle.org/artifactory/libs-releases') was declared in POM of following projects:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Repository '<<no repository name found>>' (with id 'confluent' and URL 'https://packages.confluent.io/maven/') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kafka-json-schema-apicurio2' located at 'integration-tests/kafka-json-schema-apicurio2'
+
+
+
+=== Projects that have configured a plugin repository in their POM:
+none found
+
+=== Projects that have their own dependency managements
+- project 'quarkus-integration-test-container-image-invoker' located at 'integration-tests/container-image/maven-invoker-way' manages following dependencies: [com.google.j2objc:j2objc-annotations]
+
+
+=== Leaving aside SureFire and Failsafe plugins, following projects contains their own build plugins
+    (please note there probably nothing wrong about that, just revise their setup like
+     version or properties in relation to RHBQ, if not relevant, ignore them;
+     many plugins are specified in profiles and these are not listed here):
+- Build plugin 'quarkus-maven-plugin' (with version '${project.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kubernetes-service-binding-jdbc' located at 'integration-tests/kubernetes-service-binding-jdbc'
+
+- Build plugin 'maven-source-plugin' (with version '3.2.1') was declared in POM of following projects:
+  - project 'quarkus-parent' located at 'independent-projects/parent'
+
+- Build plugin 'scala-maven-plugin' (with version '${scala-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-scala' located at 'integration-tests/scala'
+
+- Build plugin 'properties-maven-plugin' (with version '${properties-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-virtual-threads-integration-tests-parent' located at 'integration-tests/virtual-threads'
+
+- Build plugin 'smallrye-certificate-generator-maven-plugin' (with version '${smallrye-certificate-generator.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-reactive-messaging-pulsar' located at 'integration-tests/reactive-messaging-pulsar'
+
+- Build plugin 'maven-invoker-plugin' (with version '${maven-invoker-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-istio-invoker' located at 'integration-tests/istio/maven-invoker-way'
+
+- Build plugin 'quarkus-extension-maven-plugin' (with version '${quarkus.platform.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-class-transformer' located at 'integration-tests/class-transformer/runtime'
+
+- Build plugin 'protobuf-maven-plugin' (with version '0.6.1') was declared in POM of following projects:
+  - project 'tests-quarkus-opentelemetry' located at 'extensions/opentelemetry'
+
+- Build plugin 'exec-maven-plugin' (with version '3.1.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-oidc-client' located at 'integration-tests/oidc-client'
+
+- Build plugin 'nexus-staging-maven-plugin' (with version '1.6.13') was declared in POM of following projects:
+  - project 'quarkus-integration-test-test-extension-extension-parent' located at 'integration-tests/test-extension/extension'
+
+- Build plugin 'maven-compiler-plugin' (with version '3.13.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kotlin-invoker' located at 'integration-tests/kotlin-maven-invoker'
+
+- Build plugin 'quarkus-maven-plugin' (with version '${quarkus-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-rest-client-reactive-http2' located at 'integration-tests/rest-client-reactive-http2'
+
+- Build plugin 'docker-maven-plugin' (with version '${docker-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-oidc-client' located at 'integration-tests/oidc-client'
+
+- Build plugin 'quarkus-platform-bom-maven-plugin' (with version '${quarkus-platform-bom-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-maven' located at 'integration-tests/maven'
+
+- Build plugin 'maven-resources-plugin' (with version '3.3.1') was declared in POM of following projects:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Build plugin 'build-helper-maven-plugin' (with version '3.6.0') was declared in POM of following projects:
+  - project 'tests-quarkus-websockets-next' located at 'extensions/websockets-next'
+
+- Build plugin 'buildnumber-maven-plugin' (with version '3.0.0') was declared in POM of following projects:
+  - project 'quarkus-parent' located at 'independent-projects/parent'
+
+- Build plugin 'maven-clean-plugin' (with version '3.2.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Build plugin 'kotlin-maven-plugin' (with version '${kotlin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kotlin-invoker' located at 'integration-tests/kotlin-maven-invoker'
+
+- Build plugin 'maven-jar-plugin' (with version '3.3.0') was declared in POM of following projects:
+  - project 'tests-quarkus-rest' located at 'extensions/resteasy-reactive/rest'
+
+- Build plugin 'jandex-maven-plugin' (with version '${jandex.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-jpa-xml-modern-library-b' located at 'integration-tests/jpa-mapping-xml/modern-library-b'
+
+

@@ -1,0 +1,25 @@
+---
+metadata:
+  built-with-quarkus-core: "3.19.1"
+  requires-quarkus-core: "[3.19,)"
+  minimum-java-version: "17"
+  capabilities:
+    provides:
+    - "io.quarkus.test-extension"
+  scm-url: "https://github.com/quarkus-qe/quarkus-extracted-tests"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-undertow"
+  - "io.quarkus:quarkus-vertx-http"
+  - "io.quarkus:quarkus-tls-registry"
+  - "io.quarkus:quarkus-mutiny"
+  - "io.quarkus:quarkus-smallrye-context-propagation"
+  - "io.quarkus:quarkus-vertx"
+  - "io.quarkus:quarkus-netty"
+  - "io.quarkus:quarkus-virtual-threads"
+  - "io.quarkus:quarkus-jaxb"
+  - "io.quarkus:quarkus-jaxp"
+  - "io.quarkus:quarkus-core"
+artifact: "io.quarkus:quarkus-integration-test-test-extension-extension::jar:3.19.1"
+name: "Quarkus - Integration Tests - Test Extension - Extension - Runtime"
+description: "Build parent to bring in required dependencies"
