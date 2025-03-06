@@ -17,9 +17,9 @@ runs:
           if [[ $tag != '3.8.'* ]]; then
             branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag)"
             if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
-              tagObj=''
+              tagObj='"'
               tagObj+="$tag"
-              tagObj+=','
+              tagObj+='",'
               echo "There is no branch of this name, hence we need to extract tests: $tagObj"
               echo -n "$tagObj" >> tags
             else
