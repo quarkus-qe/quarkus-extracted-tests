@@ -1,0 +1,14 @@
+io/quarkus/it/kafka/codecs/MovieDeserializer.class
+io/quarkus/it/kafka/codecs/PetCodec.class
+io/quarkus/it/kafka/KafkaConsumerManager.class
+io/quarkus/it/kafka/codecs/PersonDeserializer.class
+io/quarkus/it/kafka/codecs/PersonListDeserializer$1.class
+io/quarkus/it/kafka/codecs/MovieListDeserializer.class
+io/quarkus/it/kafka/codecs/MovieListDeserializer$1.class
+io/quarkus/it/kafka/codecs/Movie.class
+io/quarkus/it/kafka/codecs/PersonListDeserializer.class
+io/quarkus/it/kafka/codecs/Pet.class
+io/quarkus/it/kafka/KafkaEndpoint.class
+io/quarkus/it/kafka/codecs/CodecEndpoint.class
+io/quarkus/it/kafka/KafkaProducerManager.class
+io/quarkus/it/kafka/codecs/Person.class

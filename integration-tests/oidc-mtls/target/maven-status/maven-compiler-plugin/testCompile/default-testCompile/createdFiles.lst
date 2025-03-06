@@ -1,0 +1,3 @@
+io/quarkus/it/oidc/KeycloakTestResourceLifecycleManager.class
+io/quarkus/it/oidc/OidcMtlsTest.class
+io/quarkus/it/oidc/OidcMtlsIT.class
