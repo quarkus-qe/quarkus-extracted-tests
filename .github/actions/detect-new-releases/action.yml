@@ -10,21 +10,25 @@ runs:
       id: detect
       shell: bash
       run: |
+        echo "Setting up Git"
+        gh auth setup-git
+        git config --local user.email "quarkus-qe@redhat.com"
+        git config --local user.name "QuarkusQE"
+        refs=$(git ls-remote)
+        echo "Currently this project has following refs: $refs"
         gh release list -R quarkusio/quarkus --exclude-drafts --exclude-pre-releases -L 7 --json 'tagName' | jq '.[].tagName' | while read tag; do
           tag=$(echo $tag | xargs)
           echo 'Found release with tag name' $tag
           # extraction of tests for 3.8.x is not supported
           if [[ $tag != '3.8.'* ]]; then
-            branchNamedAsTagReadme="$(gh repo view quarkus-qe/quarkus-extracted-tests -b $tag | xargs -0)"
-            echo 'Request to find a branch with the same name as the tag returned following result:' $branchNamedAsTagReadme
-            if [[ "$branchNamedAsTagReadme" != *$tag* ]]; then
+            if echo "$refs" | grep -q "heads/$tag"; then
+              echo "Branch $tag already exists in this project, no test extraction is needed."
+            else
               tagObj='"'
               tagObj+="$tag"
               tagObj+='",'
               echo "There is no branch of this name, hence we need to extract tests: $tagObj"
               echo -n "$tagObj" >> tags
-            else
-              echo "Branch $tag already exists in this project, no test extraction is needed."
             fi
           fi
         done
