@@ -1,0 +1,13 @@
+---
+metadata:
+  built-with-quarkus-core: "3.18.4"
+  requires-quarkus-core: "[3.18,)"
+  minimum-java-version: "17"
+  scm-url: "https://github.com/quarkus-qe/quarkus-extracted-tests"
+  extension-dependencies:
+  - "io.quarkus:quarkus-core"
+artifact: "io.quarkus:quarkus-integration-test-class-transformer::jar:3.18.4"
+name: "Quarkus - Integration Tests - Class tranformer - Runtime"
+description: "An example deployment time processor that tests\n        out the class\
+  \ transformation ability by adding an additional\n        route to all JAX-RS endpoints.\n\
+  \n        This should probably be deleted once we have a proper test framework."

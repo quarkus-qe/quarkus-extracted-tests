@@ -1,0 +1,4 @@
+io/quarkus/virtual/rest/Greeting.class
+io/quarkus/virtual/rest/RestClientResource.class
+io/quarkus/virtual/rest/ServiceClient.class
+io/quarkus/virtual/rest/ServiceApi.class

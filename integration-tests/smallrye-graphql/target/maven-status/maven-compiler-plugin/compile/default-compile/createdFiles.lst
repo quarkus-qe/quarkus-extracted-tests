@@ -1,0 +1,14 @@
+io/quarkus/it/smallrye/graphql/BusinessException.class
+io/quarkus/it/smallrye/graphql/GreetingResource.class
+io/quarkus/it/smallrye/graphql/Greeting.class
+io/quarkus/it/smallrye/graphql/Farewell.class
+io/quarkus/it/smallrye/graphql/Salutation.class
+io/quarkus/it/smallrye/graphql/FaultTolerantService.class
+io/quarkus/it/smallrye/graphql/metricresources/TestRandom.class
+io/quarkus/it/smallrye/graphql/Welcome.class
+io/quarkus/it/smallrye/graphql/Greetings.class
+io/quarkus/it/smallrye/graphql/Hello.class
+io/quarkus/it/smallrye/graphql/TimeOfDay.class
+io/quarkus/it/smallrye/graphql/metricresources/TestPojo.class
+io/quarkus/it/smallrye/graphql/Morning.class
+io/quarkus/it/smallrye/graphql/metricresources/TestResource.class
