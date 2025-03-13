@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-db2-client/src/test/java/io/quarkus/it/reactive/db2/client/HealthCheckIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-db2-client/src/test/java/io/quarkus/it/reactive/db2/client/HealthCheckTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-db2-client/src/test/java/io/quarkus/it/reactive/db2/client/NativeQueryIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-db2-client/src/test/java/io/quarkus/it/reactive/db2/client/QueryTest.java
