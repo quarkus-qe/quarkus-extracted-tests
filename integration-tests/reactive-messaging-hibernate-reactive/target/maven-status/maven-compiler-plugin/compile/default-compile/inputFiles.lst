@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/FruitProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/KafkaEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/KafkaReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/PeopleProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/PeopleState.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-reactive/src/main/java/io/quarkus/it/kafka/Person.java

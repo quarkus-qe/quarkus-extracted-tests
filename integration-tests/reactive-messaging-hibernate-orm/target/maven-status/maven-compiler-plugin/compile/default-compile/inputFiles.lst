@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/KafkaEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/KafkaReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/fruit/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/fruit/FruitDto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/fruit/FruitProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/people/PeopleProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/people/PeopleState.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-hibernate-orm/src/main/java/io/quarkus/it/kafka/people/Person.java

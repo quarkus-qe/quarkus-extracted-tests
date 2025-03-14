@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/test/java/io/quarkus/it/hibernate/validator/ConfigMappingStartupValidatorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/test/java/io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/test/java/io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/test/java/io/quarkus/it/hibernate/validator/TextResourceTest.java

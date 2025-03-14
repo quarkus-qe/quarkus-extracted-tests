@@ -1,0 +1,8 @@
+#!/bin/sh
+
+CP="/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/grpc/protoc/target/quarkus-grpc-protoc-plugin-3.15.3.1.jar":"/home/runner/.m2/repository/com/google/protobuf/protobuf-java/3.25.5/protobuf-java-3.25.5.jar":"/home/runner/.m2/repository/com/salesforce/servicelibs/jprotoc/1.2.2/jprotoc-1.2.2.jar"
+ARGS=""
+JVMARGS=""
+
+"/usr/lib/jvm/temurin-21-jdk-amd64/bin/java" $JVMARGS -cp $CP io.quarkus.grpc.protoc.plugin.MutinyGrpcGenerator $ARGS
+

@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-registration/src/main/java/org/acme/ClientCallingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-registration/src/main/java/org/acme/MyServiceClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-registration/src/main/java/org/acme/services/BlueService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-registration/src/main/java/org/acme/services/RedService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-registration/src/main/java/org/acme/services/Registration.java

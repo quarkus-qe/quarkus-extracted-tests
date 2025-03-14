@@ -1,0 +1,17 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/AbsentConfigMapPropertiesPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/ConfigMapPropertiesIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/ConfigMapPropertiesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/CustomKubernetesMockServerTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/CustomKubernetesTestServerTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesClientSerializationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesClientSerializationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesClientTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesClientTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesNewClientTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesNewClientTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesTestServerOnProfileTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/KubernetesTestServerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/NamespacedConfigMapPropertiesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/OpenShiftTestServerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/SecretPropertiesIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/test/java/io/quarkus/it/kubernetes/client/SecretPropertiesTest.java

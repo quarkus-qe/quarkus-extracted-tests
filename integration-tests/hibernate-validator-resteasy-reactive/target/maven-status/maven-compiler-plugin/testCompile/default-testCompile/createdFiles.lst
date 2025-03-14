@@ -1,0 +1,7 @@
+io/quarkus/it/hibernate/validator/ConfigMappingStartupValidatorTest.class
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityInGraalITCase.class
+io/quarkus/it/hibernate/validator/TextResourceTest.class
+io/quarkus/it/hibernate/validator/ConfigMappingStartupValidatorTest$1.class
+io/quarkus/it/hibernate/validator/ConfigMappingStartupValidatorTest$ConfigWithValidation.class
+io/quarkus/it/hibernate/validator/ConfigMappingStartupValidatorTest$Profile.class
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityTest.class

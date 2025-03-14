@@ -1,0 +1,3 @@
+io/quarkus/elytron/security/ldap/it/ElytronLdapExtensionTestResources.class
+io/quarkus/elytron/security/ldap/it/ElytronSecurityLdapIT.class
+io/quarkus/elytron/security/ldap/it/ElytronSecurityLdapTest.class

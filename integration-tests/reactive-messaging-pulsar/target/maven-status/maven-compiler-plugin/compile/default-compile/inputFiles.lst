@@ -1,0 +1,14 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/main/java/io/quarkus/it/pulsar/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/main/java/io/quarkus/it/pulsar/FruitProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/main/java/io/quarkus/it/pulsar/PulsarEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/main/java/io/quarkus/it/pulsar/PulsarReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/Greeter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/GreeterBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/GreeterClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/GreeterGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/HelloWorldProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/target/generated-sources/grpc/examples/MutinyGreeterGrpc.java

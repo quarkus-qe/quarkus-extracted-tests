@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/test/java/io/quarkus/it/security/webauthn/test/NativeWebAuthnResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/test/java/io/quarkus/it/security/webauthn/test/RenardeCookieFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/test/java/io/quarkus/it/security/webauthn/test/WebAuthnResourceTest.java

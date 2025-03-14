@@ -1,0 +1,5 @@
+io/quarkus/virtual/rr/MyResource.class
+io/quarkus/virtual/rr/MyResourceWithVTOnClass.class
+io/quarkus/virtual/rr/FilteredResource.class
+io/quarkus/virtual/rr/Filters.class
+io/quarkus/virtual/rr/Counter.class

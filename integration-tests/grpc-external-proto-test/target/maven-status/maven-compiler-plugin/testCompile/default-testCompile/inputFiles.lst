@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/src/test/java/io/quarkus/grpc/external/proto/ExternalProtoTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/src/test/java/io/quarkus/grpc/external/proto/ExternalProtoTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/src/test/java/io/quarkus/grpc/external/proto/VertxExternalProtoTest.java

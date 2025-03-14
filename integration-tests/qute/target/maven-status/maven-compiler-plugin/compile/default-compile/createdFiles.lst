@@ -1,0 +1,11 @@
+io/quarkus/it/qute/BeerResource.class
+io/quarkus/it/qute/NotFoundExceptionMapper.class
+io/quarkus/it/qute/Brewery.class
+io/quarkus/it/qute/DefaultMethodResource$Name.class
+io/quarkus/it/qute/DefaultMethodResource$Something.class
+io/quarkus/it/qute/HelloResource.class
+io/quarkus/it/qute/DefaultMethodResource.class
+io/quarkus/it/qute/BeerResource$Templates.class
+io/quarkus/it/qute/DefaultMethodResource$hello.class
+io/quarkus/it/qute/Beer.class
+io/quarkus/it/qute/HelloRoutes.class

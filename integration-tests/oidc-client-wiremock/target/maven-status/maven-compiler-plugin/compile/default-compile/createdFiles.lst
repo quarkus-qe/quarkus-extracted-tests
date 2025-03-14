@@ -1,0 +1,7 @@
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/JwtBearerAuthenticationOidcClient.class
+io/quarkus/it/keycloak/OidcRequestCustomizer.class
+io/quarkus/it/keycloak/ProtectedResourceServiceOidcClient.class
+io/quarkus/it/keycloak/OidcClientRequestCustomFilter.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/ProtectedResourceServiceCrashTestClient.class

@@ -1,0 +1,6 @@
+io/quarkus/elytron/security/jdbc/it/ElytronSecurityJdbcResource.class
+io/quarkus/elytron/security/jdbc/it/PermissionsIdentityAugmentor$1.class
+io/quarkus/elytron/security/jdbc/it/WorkdayPermission.class
+io/quarkus/elytron/security/jdbc/it/WorkdayEvaluator.class
+io/quarkus/elytron/security/jdbc/it/PermissionsIdentityAugmentor$2.class
+io/quarkus/elytron/security/jdbc/it/PermissionsIdentityAugmentor.class

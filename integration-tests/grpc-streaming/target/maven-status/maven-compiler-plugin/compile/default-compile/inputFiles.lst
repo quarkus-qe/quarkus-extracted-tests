@@ -1,0 +1,16 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/main/java/io/quarkus/grpc/example/streaming/StreamingEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/main/java/io/quarkus/grpc/example/streaming/StreamingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/Empty.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/EmptyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/Item.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/ItemOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/MutinyStreamingGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/Streaming.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StreamingBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StreamingClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StreamingGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StreamingProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StringReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StringReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StringRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/target/generated-sources/grpc/io/grpc/examples/streaming/StringRequestOrBuilder.java

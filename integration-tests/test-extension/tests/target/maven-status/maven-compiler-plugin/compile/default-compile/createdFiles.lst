@@ -1,0 +1,5 @@
+io/quarkus/it/extension/FinalFieldReflectionTestEndpoint.class
+io/quarkus/it/extension/EnvironmentVariableTestEndpoint.class
+io/quarkus/it/extension/ClasspathTestEndpoint.class
+io/quarkus/it/extension/DummyMapping.class
+io/quarkus/it/extension/SystemPropertyTestEndpoint.class

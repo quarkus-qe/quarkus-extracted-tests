@@ -1,0 +1,4 @@
+io/quarkus/it/picocli/PicocliTest.class
+io/quarkus/it/picocli/PicocliTest$TestResource.class
+io/quarkus/it/picocli/BeforeEachLaunchTest.class
+io/quarkus/it/picocli/PicocliIT.class
