@@ -1,0 +1,16 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/BookDTO.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/MongoTestResources.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/MongodbPanacheMockingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/MongodbPanacheResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/NativeMongodbPanacheResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/ReflectionFreeSerializationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/reactive/NativeReactiveMongodbPanacheResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/reactive/ReactiveMongodbPanacheMockingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/reactive/ReactiveMongodbPanacheResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/reactive/transaction/ReactiveMongodbPanacheTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/reactive/transaction/ReactiveNativeMongodbPanacheTransactionIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/record/MongodbPanacheRecordIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/record/MongodbPanacheRecordTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/transaction/MongodbPanacheTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/transaction/NativeMongodbPanacheTransactionIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-panache/src/test/java/io/quarkus/it/mongodb/panache/transaction/PersonDTO.java

@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/test/java/io/quarkus/it/jpa/db2/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/test/java/io/quarkus/it/jpa/db2/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-db2/src/test/java/io/quarkus/it/jpa/db2/JPAFunctionalityTest.java

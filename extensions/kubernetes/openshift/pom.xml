@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-main-tests</artifactId>
+    <version>3.19.3</version>
+    <relativePath>../../../</relativePath>
+  </parent>
+  <artifactId>tests-quarkus-openshift</artifactId>
+  <version>3.19.3</version>
+  <name>Quarkus - Kubernetes - Openshift</name>
+  <description>Tests extracted from project Quarkus - Kubernetes - Openshift - Deployment</description>
+  <dependencies>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-openshift-deployment</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-openshift</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-container-image-openshift-deployment</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-kubernetes-deployment</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.dekorate</groupId>
+      <artifactId>openshift-annotations</artifactId>
+      <classifier>noapt</classifier>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <groupId>io.sundr</groupId>
+          <artifactId>*</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.sun</groupId>
+          <artifactId>tools</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>io.fabric8</groupId>
+          <artifactId>kubernetes-client</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-junit5-internal</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.smallrye.config</groupId>
+      <artifactId>smallrye-config-source-yaml</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+  <build />
+</project>
