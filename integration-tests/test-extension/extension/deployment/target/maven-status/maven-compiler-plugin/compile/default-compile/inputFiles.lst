@@ -1,0 +1,12 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/BuildTimeCustomConfigBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/ClasspathEntryRecordingBuildStep.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/ControllerConfigurationBuildStep.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/HotReplacementProcessor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/MapBuildTimeConfigBuildStep.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/PrefixConfigTestProcessor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/PublicKeyBuildItem.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/RuntimeServiceBuildItem.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/TestBeanBuildItem.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/TestProcessor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/TestRecordProcessor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension/deployment/src/main/java/io/quarkus/extest/deployment/UberJarConfigBuildStep.java
