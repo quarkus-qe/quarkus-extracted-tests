@@ -19,3 +19,19 @@ runs:
         GH_TOKEN: ${{ inputs.gh-token }}
         GH_REPO: ${{ github.repository }}
         RELEASE_TAG: ${{ inputs.tag }}
+    - name: Push new tag
+      shell: bash
+      run: |
+        cd /tmp/extracted-tests
+        IFS='.' read -ra ARR <<< "$RELEASE_TAG"
+        QUARKUS_STREAM="${ARR[0]}.${ARR[1]}"
+        gh auth setup-git
+        git config --local user.email "quarkus-qe@redhat.com"
+        git config --local user.name "QuarkusQE"
+        git fetch tags
+        git tag -f $QUARKUS_STREAM
+        git push origin tag $QUARKUS_STREAM -f
+      env:
+        GH_TOKEN: ${{ inputs.gh-token }}
+        GH_REPO: ${{ github.repository }}
+        RELEASE_TAG: ${{ inputs.tag }}
