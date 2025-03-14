@@ -28,7 +28,7 @@ runs:
         gh auth setup-git
         git config --local user.email "quarkus-qe@redhat.com"
         git config --local user.name "QuarkusQE"
-        git fetch tags
+        git fetch --tags
         git tag -f $QUARKUS_STREAM
         git push origin tag $QUARKUS_STREAM -f
       env:
