@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase/src/test/java/io/quarkus/it/liquibase/LiquibaseFunctionalityNativeIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase/src/test/java/io/quarkus/it/liquibase/LiquibaseFunctionalityPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase/src/test/java/io/quarkus/it/liquibase/LiquibaseFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase/src/test/java/io/quarkus/it/liquibase/LiquibaseTestResources.java

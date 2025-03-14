@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/AnnotationAddedByExtension.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/AnnotationCountingTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/Callback.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/CallbackInvokingInterceptor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/InjectableParameter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/MyContextProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/extension-that-defines-junit-test-extensions/runtime/src/main/java/org/acme/MyParameterResolver.java

@@ -1,0 +1,6 @@
+io/quarkus/it/opentelemetry/ReactiveBookResource.class
+io/quarkus/it/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/ExporterResource.class
+io/quarkus/it/opentelemetry/Book.class
+io/quarkus/it/opentelemetry/BookResource.class
+io/quarkus/it/opentelemetry/Config.class

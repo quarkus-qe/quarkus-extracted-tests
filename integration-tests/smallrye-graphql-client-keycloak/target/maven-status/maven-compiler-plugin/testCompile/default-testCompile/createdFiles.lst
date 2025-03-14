@@ -1,0 +1,3 @@
+io/quarkus/it/smallrye/graphql/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/smallrye/graphql/keycloak/GraphQLAuthExpiryIT.class
+io/quarkus/it/smallrye/graphql/keycloak/GraphQLAuthExpiryTest.class

@@ -1,0 +1,5 @@
+io/quarkus/it/jsonb/ModelWithSerializerDeserializerOnFieldResource.class
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnField.class
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnField$InnerSerializer.class
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnField$InnerDeserializer.class
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnField$Inner.class

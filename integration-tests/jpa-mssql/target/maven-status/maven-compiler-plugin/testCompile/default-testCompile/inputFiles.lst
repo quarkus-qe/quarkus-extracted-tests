@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mssql/src/test/java/io/quarkus/it/jpa/mssql/DialectInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mssql/src/test/java/io/quarkus/it/jpa/mssql/DialectTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mssql/src/test/java/io/quarkus/it/jpa/mssql/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mssql/src/test/java/io/quarkus/it/jpa/mssql/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mssql/src/test/java/io/quarkus/it/jpa/mssql/JPAFunctionalityTest.java

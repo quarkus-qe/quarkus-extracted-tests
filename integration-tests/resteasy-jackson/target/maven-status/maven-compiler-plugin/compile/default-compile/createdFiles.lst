@@ -1,0 +1,11 @@
+io/quarkus/it/resteasy/jackson/generics/MyData.class
+io/quarkus/it/resteasy/jackson/MessageResource.class
+io/quarkus/it/resteasy/jackson/BigKeysResource$Payload.class
+io/quarkus/it/resteasy/jackson/generics/ExtendedClass.class
+io/quarkus/it/resteasy/jackson/GreetingResource.class
+io/quarkus/it/resteasy/jackson/AbstractResource.class
+io/quarkus/it/resteasy/jackson/generics/BaseClass.class
+io/quarkus/it/resteasy/jackson/ConcreteClass.class
+io/quarkus/it/resteasy/jackson/BigKeysResource.class
+io/quarkus/it/resteasy/jackson/generics/GenericsResource.class
+io/quarkus/it/resteasy/jackson/Greeting.class

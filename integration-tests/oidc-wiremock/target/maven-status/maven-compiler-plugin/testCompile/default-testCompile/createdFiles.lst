@@ -1,0 +1,17 @@
+io/quarkus/it/keycloak/BearerOpaqueTokenAuthorizationInGraalITCase.class
+io/quarkus/it/keycloak/WiremockTestResource.class
+io/quarkus/it/keycloak/BearerTokenOidcRecoveredTest.class
+io/quarkus/it/keycloak/CodeFlowAuthorizationTest.class
+io/quarkus/it/keycloak/AnnotationBasedTenantTest$NoProactiveAuthTestProfile.class
+io/quarkus/it/keycloak/AnnotationBasedTenantTest.class
+io/quarkus/it/keycloak/BearerOpaqueTokenAuthorizationTest.class
+io/quarkus/it/keycloak/BearerTokenManagementInterfaceTest$ManagementInterfaceProfile.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest.class
+io/quarkus/it/keycloak/TestUtils.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.class
+io/quarkus/it/keycloak/StaticTenantIssuerResolverTest.class
+io/quarkus/it/keycloak/StaticTenantIssuerResolverTest$IssuerResolverProfile.class
+io/quarkus/it/keycloak/CodeFlowAuthorizationTest$1.class
+io/quarkus/it/keycloak/BearerTokenManagementInterfaceTest.class
+io/quarkus/it/keycloak/CustomOidcWiremockTestResource.class
+io/quarkus/it/keycloak/CodeFlowAuthorizationInGraalITCase.class

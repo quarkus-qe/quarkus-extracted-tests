@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/extension/ClasspathTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/extension/DummyMapping.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/extension/EnvironmentVariableTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/extension/FinalFieldReflectionTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/extension/SystemPropertyTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/testsupport/commandmode/CdiBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/testsupport/commandmode/DefaultBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/test-extension/tests/src/main/java/io/quarkus/it/testsupport/commandmode/MainApp.java
