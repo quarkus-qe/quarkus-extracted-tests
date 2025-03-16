@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security-jdbc/src/main/java/io/quarkus/elytron/security/jdbc/it/ElytronSecurityJdbcResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security-jdbc/src/main/java/io/quarkus/elytron/security/jdbc/it/JdbcPermissionChecker.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security-jdbc/src/main/java/io/quarkus/elytron/security/jdbc/it/PermissionsIdentityAugmentor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security-jdbc/src/main/java/io/quarkus/elytron/security/jdbc/it/WorkdayEvaluator.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security-jdbc/src/main/java/io/quarkus/elytron/security/jdbc/it/WorkdayPermission.java
