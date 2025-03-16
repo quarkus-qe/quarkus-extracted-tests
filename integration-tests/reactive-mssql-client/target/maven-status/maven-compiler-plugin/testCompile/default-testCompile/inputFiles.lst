@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mssql-client/src/test/java/io/quarkus/it/reactive/mssql/client/FruitsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mssql-client/src/test/java/io/quarkus/it/reactive/mssql/client/HealthCheckIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mssql-client/src/test/java/io/quarkus/it/reactive/mssql/client/HealthCheckTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mssql-client/src/test/java/io/quarkus/it/reactive/mssql/client/HotReloadFruitResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mssql-client/src/test/java/io/quarkus/it/reactive/mssql/client/NativeFruitsEndpointIT.java

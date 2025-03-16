@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "com.test";
+
+// codegen will ignore the line below
+
+package com.test;
+
+service MyJavaGenericServicesTest {
+  rpc DoTest(JavaGenericServices) returns (JavaGenericServices);
+}
+
+message JavaGenericServices {}
