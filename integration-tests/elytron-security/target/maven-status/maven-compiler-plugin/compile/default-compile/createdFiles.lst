@@ -1,0 +1,4 @@
+io/quarkus/it/elytron/X500PrincipalEndpoint.class
+io/quarkus/it/elytron/KeyFactoryEndpoint.class
+io/quarkus/it/elytron/X500PrincipalUtilUser.class
+io/quarkus/it/elytron/X500PrincipalUtilUser$1.class
