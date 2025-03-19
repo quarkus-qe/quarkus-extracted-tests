@@ -1,0 +1,7 @@
+qQMUpAT8xnAszJZyze/1UXSxACDhj9tYHzGvvW0EwNE=
+src/main/kotlin/io/quarkus/it/rest/CountriesClient.kt 2025-03-19T02:24:55.411607267Z
+src/main/kotlin/io/quarkus/it/rest/CountriesNotFoundException.kt 2025-03-19T02:24:55.411607267Z
+src/main/kotlin/io/quarkus/it/rest/CountriesResource.kt 2025-03-19T02:24:55.411607267Z
+src/main/kotlin/io/quarkus/it/rest/Country.kt 2025-03-19T02:24:55.411607267Z
+src/test/kotlin/io/quarkus/it/rest/client/BasicTest.kt 2025-03-19T02:24:55.412607275Z
+src/test/kotlin/io/quarkus/it/rest/client/BasicTestIT.kt 2025-03-19T02:24:55.412607275Z

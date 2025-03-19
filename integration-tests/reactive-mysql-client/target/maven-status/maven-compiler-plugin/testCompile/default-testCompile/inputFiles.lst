@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mysql-client/src/test/java/io/quarkus/it/reactive/mysql/client/FruitsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mysql-client/src/test/java/io/quarkus/it/reactive/mysql/client/HealthCheckIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mysql-client/src/test/java/io/quarkus/it/reactive/mysql/client/HealthCheckTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-mysql-client/src/test/java/io/quarkus/it/reactive/mysql/client/NativeFruitsEndpointIT.java

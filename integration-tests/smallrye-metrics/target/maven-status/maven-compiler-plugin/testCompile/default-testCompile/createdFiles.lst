@@ -1,0 +1,6 @@
+io/quarkus/it/metrics/MetricsITCase.class
+io/quarkus/it/metrics/MetricsTestCase.class
+io/quarkus/it/metrics/MetricsOnClassTestCase.class
+io/quarkus/it/metrics/MetricsInheritanceITCase.class
+io/quarkus/it/metrics/MetricsInheritanceTestCase.class
+io/quarkus/it/metrics/MetricsOnClassITCase.class
