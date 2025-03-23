@@ -1,0 +1,11 @@
+io/quarkus/it/vertx/CertificateRoleCnMappingIT.class
+io/quarkus/it/vertx/CertificateRoleSanRfc822MappingTest$CertSanTestProfile.class
+io/quarkus/it/vertx/CertificateRoleSanOtherNameMappingTest$CertSanTestProfile.class
+io/quarkus/it/vertx/CertificateRoleOuMappingTest$CertDnOuTestProfile.class
+io/quarkus/it/vertx/CertificateRoleCnMappingTest.class
+io/quarkus/it/vertx/CertificateRoleOuMappingTest.class
+io/quarkus/it/vertx/CertificateRoleSanRfc822MappingTest.class
+io/quarkus/it/vertx/CertificateRoleSanUriMappingTest$CertSanTestProfile.class
+io/quarkus/it/vertx/AbstractCertificateRoleMappingTest.class
+io/quarkus/it/vertx/CertificateRoleSanUriMappingTest.class
+io/quarkus/it/vertx/CertificateRoleSanOtherNameMappingTest.class

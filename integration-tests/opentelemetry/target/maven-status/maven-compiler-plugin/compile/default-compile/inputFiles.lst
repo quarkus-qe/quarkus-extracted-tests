@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/CustomSecurityIdentityAugmentor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/EndUserResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/PathTemplateResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/PingPongResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/SimpleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/TraceData.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/TracedService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataSerializer.java

@@ -1,0 +1,5 @@
+io/quarkus/it/opentelemetry/spi/OTelSpiTest.class
+io/quarkus/it/opentelemetry/spi/propagation/OpenTelemetryPropagatorsIT.class
+io/quarkus/it/opentelemetry/spi/OTelSpiIT.class
+io/quarkus/it/opentelemetry/spi/OTelSpiTest$1.class
+io/quarkus/it/opentelemetry/spi/propagation/OpenTelemetryPropagatorsTest.class
