@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-http2/src/test/java/io/quarkus/it/rest/client/http2/GreetingResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-http2/src/test/java/io/quarkus/it/rest/client/http2/ResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-http2/src/test/java/io/quarkus/it/rest/client/http2/ResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-http2/src/test/java/io/quarkus/it/rest/client/http2/multipart/MultipartResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-http2/src/test/java/io/quarkus/it/rest/client/http2/multipart/MultipartResourceTest.java
