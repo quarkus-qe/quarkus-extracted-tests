@@ -1,0 +1,5 @@
+org/acme/services/BlueService.class
+org/acme/MyServiceClient.class
+org/acme/services/RedService.class
+org/acme/services/Registration.class
+org/acme/ClientCallingResource.class

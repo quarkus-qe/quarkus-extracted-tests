@@ -1,0 +1,6 @@
+io/quarkus/gcp/function/test/BackgroundFunctionStorageTest.class
+io/quarkus/gcp/function/test/HttpFunctionTest.class
+io/quarkus/gcp/function/test/BackgroundFunctionStorageTest$StorageEvent.class
+io/quarkus/gcp/function/test/RawBackgroundFunctionPubSubTest.class
+io/quarkus/gcp/function/test/CloudEventStorageTest.class
+io/quarkus/gcp/function/test/service/GreetingService.class

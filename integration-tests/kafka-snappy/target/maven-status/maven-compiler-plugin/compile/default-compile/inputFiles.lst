@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/KafkaConsumerManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/KafkaEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/KafkaProducerManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/CodecEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/Movie.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/MovieDeserializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/PersonDeserializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/Pet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/main/java/io/quarkus/it/kafka/codecs/PetCodec.java
