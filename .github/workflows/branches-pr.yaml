@@ -15,6 +15,22 @@ jobs:
           java-version: 21
           check-latest: true
           cache: 'maven'
-      - name: Build with Maven
+      - name: Detect OS Architecture
+        id: detect-os-arch
         run: |
-          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextensions -Dintegration-tests
+          run: echo "detected-os-arch=$(arch | xargs)" >> "$GITHUB_OUTPUT"
+      - name: Build extensions managed dependencies
+        env:
+          DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
+        run: |
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextension-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
+      - name: Build integration tests managed dependencies
+        env:
+          DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
+        run: |
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dintegration-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
+      - name: Build with Maven
+        env:
+          DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
+        run: |
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextensions -Dintegration-tests -Dos.detected.arch=$DETECTED_OS_ARCH
