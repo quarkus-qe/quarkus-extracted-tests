@@ -20,7 +20,7 @@ jobs:
         run: |
           OS_ARCH_NAME=$(uname -m)
           echo "OS Architecture $OS_ARCH_NAME"
-          run: echo "detected-os-arch=$OS_ARCH_NAME" >> "$GITHUB_OUTPUT"
+          echo "detected-os-arch=$OS_ARCH_NAME" >> "$GITHUB_OUTPUT"
       - name: Build extensions managed dependencies
         env:
           DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
