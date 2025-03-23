@@ -18,7 +18,7 @@ jobs:
       - name: Detect OS Architecture
         id: detect-os-arch
         run: |
-          run: echo "detected-os-arch=$(uname -m | xargs)" >> "$GITHUB_OUTPUT"
+          run: echo "detected-os-arch=$(uname -m)" >> "$GITHUB_OUTPUT"
       - name: Build extensions managed dependencies
         env:
           DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
