@@ -1,0 +1,4 @@
+io/quarkiverse/acme/deployment/ExtensionProcessor.class
+io/quarkiverse/acme/deployment/AnnotationAdjuster.class
+io/quarkiverse/acme/deployment/ExtensionProcessor$$accessor.class
+META-INF/quarkus-build-steps.list
