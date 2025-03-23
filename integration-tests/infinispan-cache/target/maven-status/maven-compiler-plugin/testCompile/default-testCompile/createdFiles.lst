@@ -1,0 +1,3 @@
+io/quarkus/it/cache/infinispan/CacheTest.class
+io/quarkus/it/cache/infinispan/CacheIT.class
+io/quarkus/it/cache/infinispan/InfinspanCacheClientTestCase.class

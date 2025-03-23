@@ -1,0 +1,7 @@
+io/quarkus/awt/it/ImageDecodersIT.class
+io/quarkus/awt/it/ImageGeometryFontsTest.class
+io/quarkus/awt/it/TestUtil.class
+io/quarkus/awt/it/ImageEncodersIT.class
+io/quarkus/awt/it/ImageDecodersTest.class
+io/quarkus/awt/it/ImageGeometryFontsIT.class
+io/quarkus/awt/it/ImageEncodersTest.class

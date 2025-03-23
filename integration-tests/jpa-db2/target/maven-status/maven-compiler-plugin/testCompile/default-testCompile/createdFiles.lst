@@ -1,0 +1,3 @@
+io/quarkus/it/jpa/db2/JPAFunctionalityTest.class
+io/quarkus/it/jpa/db2/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/db2/JPAFunctionalityInGraalITCase.class

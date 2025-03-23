@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/BookCodec.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/BookCodecProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/BookDetail.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/BookResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/BookResourceWithParameterInjection.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-devservices/src/main/java/io/quarkus/it/mongodb/ReactiveBookResource.java

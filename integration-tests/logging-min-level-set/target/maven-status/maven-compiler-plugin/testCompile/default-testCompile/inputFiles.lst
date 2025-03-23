@@ -1,0 +1,15 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/Asserts.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingFilterTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelAboveTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelBelowChildTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelBelowTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelByDefaultTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelPromoteSubTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/LoggingMinLevelPromoteTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelAboveIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelBelowChildIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelBelowIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelByDefaultIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelPromoteIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelPromoteSubIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-set/src/test/java/io/quarkus/it/logging/minlevel/set/SetRuntimeLogLevels.java

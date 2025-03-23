@@ -1,0 +1,10 @@
+io/quarkus/it/jpa/postgresql/otherpu/XmlFormatMapper.class
+io/quarkus/it/jpa/postgresql/defaultpu/Status.class
+io/quarkus/it/jpa/postgresql/otherpu/EntityWithXmlOtherPU.class
+io/quarkus/it/jpa/postgresql/defaultpu/EntityWithXml$LocalDateXmlAdapter.class
+io/quarkus/it/jpa/postgresql/otherpu/EntityWithXmlOtherPU$ToBeSerializedWithDateTime.class
+io/quarkus/it/jpa/postgresql/defaultpu/Person.class
+io/quarkus/it/jpa/postgresql/defaultpu/EntityWithXml.class
+io/quarkus/it/jpa/postgresql/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/postgresql/defaultpu/SequencedAddress.class
+io/quarkus/it/jpa/postgresql/defaultpu/EntityWithXml$ToBeSerializedWithDateTime.class

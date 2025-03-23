@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmConfigTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmGrpcTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmLifecycleTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmReloadTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmResourcesIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmResourcesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmServicesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/LgtmTestHelper.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/support/ConfigEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/observability-lgtm/src/test/java/io/quarkus/observability/test/support/ReloadEndpoint.java

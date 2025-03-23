@@ -1,0 +1,5 @@
+io/quarkus/it/jpa/oracle/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/oracle/procedurecall/ProcedureCallInGraalITCase.class
+io/quarkus/it/jpa/oracle/JPAFunctionalityTest.class
+io/quarkus/it/jpa/oracle/JPAFunctionalityInGraalITCase.class
+io/quarkus/it/jpa/oracle/procedurecall/ProcedureCallTest.class

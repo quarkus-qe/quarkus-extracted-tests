@@ -1,0 +1,9 @@
+org/acme/MyParameterResolver.class
+org/acme/InjectableParameter.class
+org/acme/MyContextProvider.class
+org/acme/CallbackInvokingInterceptor.class
+org/acme/Callback.class
+org/acme/MyContextProvider$1$1.class
+org/acme/MyContextProvider$1.class
+org/acme/AnnotationAddedByExtension.class
+org/acme/AnnotationCountingTestCase.class

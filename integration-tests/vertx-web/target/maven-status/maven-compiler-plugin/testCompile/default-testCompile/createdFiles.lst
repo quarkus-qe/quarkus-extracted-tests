@@ -1,0 +1,4 @@
+io/quarkus/it/vertx/SimpleEndpointIT.class
+io/quarkus/it/vertx/SimpleEndpointTestCase.class
+io/quarkus/it/vertx/StaticResourcesTest.class
+io/quarkus/it/vertx/StaticResourcesIT.class

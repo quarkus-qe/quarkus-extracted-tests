@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/CountResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/Counter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/FailedBasicScheduler.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/FailedJobDefinitionScheduler.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/FailedManualScheduler.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/JobDefinitionCounter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quartz/src/main/java/io/quarkus/it/opentelemetry/quartz/ManualScheduledCounter.java

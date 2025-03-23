@@ -1,0 +1,10 @@
+io/quarkus/it/logging/minlevel/set/promote/LoggingMinLevelPromote.class
+io/quarkus/it/logging/minlevel/set/filter/TestFilter.class
+io/quarkus/it/logging/minlevel/set/above/LoggingMinLevelAbove.class
+io/quarkus/it/logging/minlevel/set/filter/LoggingFilter.class
+io/quarkus/it/logging/minlevel/set/below/child/LoggingMinLevelBelowChild.class
+io/quarkus/it/logging/minlevel/set/LoggingWitness.class
+io/quarkus/it/logging/minlevel/set/promote/sub/LoggingMinLevelPromoteSub.class
+io/quarkus/it/logging/minlevel/set/below/LoggingMinLevelBelow.class
+io/quarkus/it/logging/minlevel/set/LoggingWitness$LoggingWitnessThrowable.class
+io/quarkus/it/logging/minlevel/set/bydefault/LoggingMinLevelByDefault.class
