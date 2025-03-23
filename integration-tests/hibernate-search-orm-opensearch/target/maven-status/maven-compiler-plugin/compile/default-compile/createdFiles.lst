@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/search/orm/opensearch/search/HibernateSearchTestResource.class
+io/quarkus/it/hibernate/search/orm/opensearch/devservices/HibernateSearchDevServicesTestResource.class
+io/quarkus/it/hibernate/search/orm/opensearch/search/Address.class
+io/quarkus/it/hibernate/search/orm/opensearch/devservices/IndexedEntity.class
+io/quarkus/it/hibernate/search/orm/opensearch/search/Person.class
+io/quarkus/it/hibernate/search/orm/opensearch/analysis/BackendAnalysisConfigurer.class

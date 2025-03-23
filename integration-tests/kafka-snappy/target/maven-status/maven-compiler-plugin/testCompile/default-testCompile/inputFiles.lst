@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyCodecITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyCodecTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyConsumerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyConsumerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyProducerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaSnappyProducerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-snappy/src/test/java/io/quarkus/it/kafka/KafkaTestResource.java

@@ -1,0 +1,3 @@
+io/quarkus/it/elasticsearch/java/Fruit.class
+io/quarkus/it/elasticsearch/java/FruitService.class
+io/quarkus/it/elasticsearch/java/FruitResource.class

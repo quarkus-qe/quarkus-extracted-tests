@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/main/java/io/quarkus/funqy/test/Greeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/main/java/io/quarkus/funqy/test/GreetingFunctions.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/main/java/io/quarkus/funqy/test/GreetingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/main/java/io/quarkus/funqy/test/Identity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/main/java/io/quarkus/funqy/test/NoArgFun.java

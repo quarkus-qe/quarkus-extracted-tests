@@ -1,0 +1,14 @@
+io/quarkus/it/smallrye/graphql/GraphQLAndFaultToleranceTest.class
+io/quarkus/it/smallrye/graphql/PayloadCreator.class
+io/quarkus/it/smallrye/graphql/MicrometerMetricsTest$MaxMetricMatcher.class
+io/quarkus/it/smallrye/graphql/GreetingResourceTestIT.class
+io/quarkus/it/smallrye/graphql/ApplicationPropertiesOverrideIT.class
+io/quarkus/it/smallrye/graphql/GreetingsResourceTest.class
+io/quarkus/it/smallrye/graphql/MicrometerMetricsTest$TotalMetricMatcher.class
+io/quarkus/it/smallrye/graphql/GraphQLAndFaultToleranceIT.class
+io/quarkus/it/smallrye/graphql/GreetingResourceTest.class
+io/quarkus/it/smallrye/graphql/MicrometerMetricsIT.class
+io/quarkus/it/smallrye/graphql/MicrometerMetricsTest$MetricMatcher.class
+io/quarkus/it/smallrye/graphql/MicrometerMetricsTest.class
+io/quarkus/it/smallrye/graphql/GreetingsResourceTestIT.class
+io/quarkus/it/smallrye/graphql/ApplicationPropertiesOverrideTest.class
