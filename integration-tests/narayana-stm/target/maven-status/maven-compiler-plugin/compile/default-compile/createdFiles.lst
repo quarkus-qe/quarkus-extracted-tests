@@ -1,0 +1,4 @@
+org/acme/quickstart/stm/FlightService.class
+org/acme/quickstart/stm/FlightResource.class
+org/acme/quickstart/stm/FlightServiceFactory.class
+org/acme/quickstart/stm/FlightServiceImpl.class

@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/DataIdentity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/DialectEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/IdVersionPK.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/JPAFunctionalityTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/NormalPointEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/PointEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/SequencedAddress.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/main/java/io/quarkus/it/jpa/h2/Timeslot.java

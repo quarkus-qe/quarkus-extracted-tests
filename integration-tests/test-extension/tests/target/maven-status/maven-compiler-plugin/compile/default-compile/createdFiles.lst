@@ -1,0 +1,8 @@
+io/quarkus/it/extension/FinalFieldReflectionTestEndpoint.class
+io/quarkus/it/extension/EnvironmentVariableTestEndpoint.class
+io/quarkus/it/extension/ClasspathTestEndpoint.class
+io/quarkus/it/testsupport/commandmode/CdiBean.class
+io/quarkus/it/testsupport/commandmode/DefaultBean.class
+io/quarkus/it/extension/SystemPropertyTestEndpoint.class
+io/quarkus/it/testsupport/commandmode/MainApp.class
+io/quarkus/it/extension/DummyMapping.class

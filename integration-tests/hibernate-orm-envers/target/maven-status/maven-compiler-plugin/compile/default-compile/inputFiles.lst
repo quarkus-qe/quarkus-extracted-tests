@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/CustomOutput.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/InputResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/Message.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/Message2.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/Message2Provider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/MessageProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/Output2Resource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/OutputResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/Project.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/ProjectApplication.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-envers/src/main/java/io/quarkus/it/envers/ProjectResource.java
