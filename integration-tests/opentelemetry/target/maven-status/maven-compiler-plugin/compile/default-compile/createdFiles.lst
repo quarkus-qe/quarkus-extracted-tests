@@ -1,0 +1,14 @@
+io/quarkus/it/opentelemetry/TraceData.class
+io/quarkus/it/opentelemetry/SimpleResource.class
+io/quarkus/it/opentelemetry/output/SpanDataSerializer.class
+io/quarkus/it/opentelemetry/EndUserResource.class
+io/quarkus/it/opentelemetry/PathTemplateResource.class
+io/quarkus/it/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/TracedService.class
+io/quarkus/it/opentelemetry/PingPongResource.class
+io/quarkus/it/opentelemetry/ExporterResource.class
+io/quarkus/it/opentelemetry/PingPongResource$PingPongRestClient.class
+io/quarkus/it/opentelemetry/ExporterResource$InMemoryMetricExporterProducer.class
+io/quarkus/it/opentelemetry/SimpleResource$SimpleClient.class
+io/quarkus/it/opentelemetry/CustomSecurityIdentityAugmentor.class
+io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.class
