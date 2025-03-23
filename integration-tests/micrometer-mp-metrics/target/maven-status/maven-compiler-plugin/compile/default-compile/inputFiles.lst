@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-mp-metrics/src/main/java/io/quarkus/it/micrometer/mpmetrics/CountedInstance.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-mp-metrics/src/main/java/io/quarkus/it/micrometer/mpmetrics/InjectedInstance.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-mp-metrics/src/main/java/io/quarkus/it/micrometer/mpmetrics/MessageResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-mp-metrics/src/main/java/io/quarkus/it/micrometer/mpmetrics/PrimeResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-mp-metrics/src/main/java/io/quarkus/it/micrometer/mpmetrics/RenameMeterFilterProducer.java

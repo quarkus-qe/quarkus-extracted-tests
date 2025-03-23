@@ -1,0 +1,6 @@
+io/quarkus/websockets/ChatIT.class
+io/quarkus/websockets/ChatCodecTest$Client.class
+io/quarkus/websockets/ChatCodecIT.class
+io/quarkus/websockets/ChatTest$Client.class
+io/quarkus/websockets/ChatTest.class
+io/quarkus/websockets/ChatCodecTest.class
