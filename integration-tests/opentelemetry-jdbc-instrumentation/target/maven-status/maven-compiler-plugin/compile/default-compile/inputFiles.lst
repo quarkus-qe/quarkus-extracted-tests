@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/PingPongResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/model/Hit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/model/db2/Db2Hit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/model/mariadb/MariaDbHit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/model/oracle/OracleHit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-jdbc-instrumentation/src/main/java/io/quarkus/it/opentelemetry/model/pg/PgHit.java

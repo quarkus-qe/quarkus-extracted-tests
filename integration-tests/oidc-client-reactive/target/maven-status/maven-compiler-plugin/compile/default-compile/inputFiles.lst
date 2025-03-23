@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/FrontendResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/MisconfiguredClientFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/OidcClientCreator.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/OidcClientRequestCustomFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResourceServiceCustomFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResourceServiceDisabledClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResourceServiceNamedFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResourceServiceReactiveFilter.java

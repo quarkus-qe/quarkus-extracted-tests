@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/main/java/io/quarkus/it/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/main/java/io/quarkus/it/opentelemetry/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataSerializer.java
