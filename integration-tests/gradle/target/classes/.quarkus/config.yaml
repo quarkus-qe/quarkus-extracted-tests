@@ -1,0 +1,7 @@
+---
+debug: true
+registries:
+- test.registry.quarkus.io:
+    maven:
+        repository:
+            url: file:///home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/gradle/target/classes/test-registry-repo

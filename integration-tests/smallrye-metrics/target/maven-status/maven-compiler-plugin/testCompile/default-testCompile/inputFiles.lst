@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsInheritanceITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsInheritanceTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsOnClassITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsOnClassTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/test/java/io/quarkus/it/metrics/MetricsTestCase.java
