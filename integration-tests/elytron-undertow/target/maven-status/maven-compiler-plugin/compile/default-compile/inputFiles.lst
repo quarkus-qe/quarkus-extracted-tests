@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/main/java/io/quarkus/it/undertow/elytron/AnnotationSecurityServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/main/java/io/quarkus/it/undertow/elytron/GreetingServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/main/java/io/quarkus/it/undertow/elytron/OpenApiServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/main/java/io/quarkus/it/undertow/elytron/RootResource.java

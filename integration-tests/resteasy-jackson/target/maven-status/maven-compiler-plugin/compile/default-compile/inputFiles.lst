@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/AbstractResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/BigKeysResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/ConcreteClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/Greeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/MessageResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/generics/BaseClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/generics/ExtendedClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/generics/GenericsResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/main/java/io/quarkus/it/resteasy/jackson/generics/MyData.java
