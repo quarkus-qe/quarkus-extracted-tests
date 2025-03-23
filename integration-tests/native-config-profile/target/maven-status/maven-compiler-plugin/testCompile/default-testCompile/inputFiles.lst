@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/BuiltTimeProfileChangeManualIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/BuiltTimeValueChangeManualIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/DefaultTestProfileIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/DefaultTestProfileTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeProfileChangeIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeProfileChangeTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeValueChangeIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/native-config-profile/src/test/java/io/quarkus/it/nat/test/profile/RuntimeValueChangeTest.java
