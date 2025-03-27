@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/KeycloakRealmResourceManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/OidcTokenPropagationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/OidcTokenPropagationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/SmallRyeJwtGrpcAuthorizationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/SmallRyeJwtGrpcAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-jwt-token-propagation/src/test/java/io/quarkus/it/keycloak/TestSecurityLazyAuthTest.java

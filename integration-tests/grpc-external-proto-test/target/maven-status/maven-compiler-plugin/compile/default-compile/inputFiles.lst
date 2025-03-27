@@ -1,0 +1,16 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/src/main/java/io/quarkus/grpc/external/proto/MyGrpcService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MutinyMyJavaGenericServicesTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MutinyMyTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyJavaGenericServicesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyJavaGenericServicesTestBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyJavaGenericServicesTestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyJavaGenericServicesTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyTestBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyTestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/MyTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/com/test/ProtoWithJavaGenericServices.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/org/acme/protos/base/BASEProtos.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/org/acme/protos/extended/ExtendedProtos.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-external-proto-test/target/generated-sources/grpc/org/acme/protos/role/RoleProtos.java

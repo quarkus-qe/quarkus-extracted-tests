@@ -1,0 +1,3 @@
+io/quarkus/it/keycloak/FrontendExceptionMapper.class
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/ProtectedResource.class

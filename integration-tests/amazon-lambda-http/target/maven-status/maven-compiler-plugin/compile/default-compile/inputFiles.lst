@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/FunqyGreeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/GreetingServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/GreetingVertx.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/SecurityCheckResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/SecurityCheckVertx.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-http/src/main/java/io/quarkus/it/amazon/lambda/SecurityServlet.java

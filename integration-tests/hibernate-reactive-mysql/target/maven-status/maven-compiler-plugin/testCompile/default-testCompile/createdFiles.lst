@@ -1,0 +1,2 @@
+io/quarkus/it/hibernate/reactive/mysql/HibernateReactiveMySQLTest.class
+io/quarkus/it/hibernate/reactive/mysql/HibernateReactiveMySQLInGraalIT.class

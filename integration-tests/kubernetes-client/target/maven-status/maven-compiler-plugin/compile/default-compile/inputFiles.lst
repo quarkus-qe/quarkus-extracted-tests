@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/main/java/io/quarkus/it/kubernetes/client/ConfigMapProperties.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/main/java/io/quarkus/it/kubernetes/client/Pods.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/main/java/io/quarkus/it/kubernetes/client/SecretProperties.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kubernetes-client/src/main/java/io/quarkus/it/kubernetes/client/Version.java

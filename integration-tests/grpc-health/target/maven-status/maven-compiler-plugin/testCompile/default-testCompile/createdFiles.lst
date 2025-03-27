@@ -1,0 +1,4 @@
+io/quarkus/grpc/health/MicroProfileHealthEnabledTest$FakeService.class
+io/quarkus/grpc/health/MicroProfileHealthDisabledTest.class
+io/quarkus/grpc/health/MicroProfileHealthEnabledTest.class
+io/quarkus/grpc/health/MicroProfileHealthEnabledTest$HealthConsumer.class

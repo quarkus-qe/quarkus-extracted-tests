@@ -1,0 +1,12 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/ApplicationPropertiesOverrideIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/ApplicationPropertiesOverrideTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/BigKeysResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/BigKeysResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/GeneratedClassesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/GenericsResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/GenericsResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/GreetingResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/GreetingResourceTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/StaticContentIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/StaticContentTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-jackson/src/test/java/io/quarkus/it/resteasy/jackson/StaticContentWithTestProfileTest.java

@@ -1,0 +1,12 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/src/test/java/io/quarkus/avro/deployment/AvroCodeReloadTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/src/test/java/io/quarkus/avro/deployment/AvroReloadResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avdl/test/Hello.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avdl/test/Level.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avdl/test/Message.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avpr/test/ProtocolPrivacy.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avpr/test/ProtocolTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avpr/test/ProtocolUser.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avsc/test/PrivacyDirectImport.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avsc/test/PrivacyImport.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avsc/test/SchemaPrivacy.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/avro-reload/target/generated-test-sources/avsc/test/SchemaUser.java
