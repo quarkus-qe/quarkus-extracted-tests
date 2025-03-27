@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/websockets/src/main/java/io/quarkus/websockets/ChatCodecServer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/websockets/src/main/java/io/quarkus/websockets/ChatMessageDTO.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/websockets/src/main/java/io/quarkus/websockets/ChatMessageDecoder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/websockets/src/main/java/io/quarkus/websockets/ChatMessageEncoder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/websockets/src/main/java/io/quarkus/websockets/ChatServer.java
