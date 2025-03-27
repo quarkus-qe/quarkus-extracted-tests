@@ -1,0 +1,9 @@
+io/quarkus/it/opentelemetry/model/Hit.class
+io/quarkus/it/opentelemetry/model/db2/Db2Hit.class
+io/quarkus/it/opentelemetry/model/oracle/OracleHit.class
+io/quarkus/it/opentelemetry/model/pg/PgHit.class
+io/quarkus/it/opentelemetry/model/mariadb/MariaDbHit.class
+io/quarkus/it/opentelemetry/model/h2/H2Hit.class
+io/quarkus/it/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/PingPongResource.class
+io/quarkus/it/opentelemetry/ExporterResource.class

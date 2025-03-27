@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/AppResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/IdResponse.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/JfrResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/JfrTestException.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/RequestIdResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jfr-reactive/src/main/java/io/quarkus/jfr/it/TraceIdExceptionMapper.java

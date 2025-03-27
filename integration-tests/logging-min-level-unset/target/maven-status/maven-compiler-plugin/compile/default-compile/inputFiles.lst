@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-unset/src/main/java/io/quarkus/it/logging/minlevel/unset/LoggingWitness.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-unset/src/main/java/io/quarkus/it/logging/minlevel/unset/above/LoggingMinLevelAbove.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-unset/src/main/java/io/quarkus/it/logging/minlevel/unset/bydefault/LoggingMinLevelByDefault.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-min-level-unset/src/main/java/io/quarkus/it/logging/minlevel/unset/promote/LoggingMinLevelPromote.java

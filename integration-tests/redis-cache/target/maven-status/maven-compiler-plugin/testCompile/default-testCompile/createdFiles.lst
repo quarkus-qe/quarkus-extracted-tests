@@ -1,0 +1,3 @@
+io/quarkus/it/cache/redis/RestClientTestCase.class
+io/quarkus/it/cache/redis/CacheTest.class
+io/quarkus/it/cache/redis/CacheIT.class

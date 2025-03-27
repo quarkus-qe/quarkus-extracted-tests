@@ -1,0 +1,5 @@
+io/quarkus/it/logging/minlevel/unset/LoggingWitness$LoggingWitnessThrowable.class
+io/quarkus/it/logging/minlevel/unset/bydefault/LoggingMinLevelByDefault.class
+io/quarkus/it/logging/minlevel/unset/promote/LoggingMinLevelPromote.class
+io/quarkus/it/logging/minlevel/unset/above/LoggingMinLevelAbove.class
+io/quarkus/it/logging/minlevel/unset/LoggingWitness.class

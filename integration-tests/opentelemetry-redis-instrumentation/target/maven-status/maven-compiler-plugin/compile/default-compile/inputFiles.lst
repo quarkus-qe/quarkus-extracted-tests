@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/main/java/io/quarkus/io/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/main/java/io/quarkus/io/opentelemetry/RedisResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/main/java/io/quarkus/io/opentelemetry/jackson/ErrorTypeSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/main/java/io/quarkus/io/opentelemetry/jackson/RegisterCustomModuleCustomizer.java

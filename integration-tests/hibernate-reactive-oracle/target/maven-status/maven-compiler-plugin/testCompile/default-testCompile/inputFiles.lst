@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveFetchLazyInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveFetchLazyTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveJoinedSubclassInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveJoinedSubclassTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-oracle/src/test/java/io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveTest.java

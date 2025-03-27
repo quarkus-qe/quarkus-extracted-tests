@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveFetchLazyTest.class
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveJoinedSubclassTest.class
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveTest.class
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveJoinedSubclassInGraalIT.class
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveInGraalIT.class
+io/quarkus/it/hibernate/reactive/oracle/HibernateReactiveFetchLazyInGraalIT.class

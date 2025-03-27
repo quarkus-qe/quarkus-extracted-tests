@@ -1,0 +1,15 @@
+io/quarkus/extest/deployment/HotReplacementProcessor.class
+io/quarkus/extest/deployment/MapBuildTimeConfigBuildStep.class
+io/quarkus/extest/deployment/TestProcessor$$accessor.class
+io/quarkus/extest/deployment/BuildTimeCustomConfigBuilder.class
+io/quarkus/extest/deployment/TestRecordProcessor.class
+io/quarkus/extest/deployment/TestBeanBuildItem.class
+io/quarkus/extest/deployment/PublicKeyBuildItem.class
+io/quarkus/extest/deployment/ControllerConfigurationBuildStep.class
+io/quarkus/extest/deployment/RuntimeServiceBuildItem.class
+io/quarkus/extest/deployment/PrefixConfigTestProcessor.class
+io/quarkus/extest/deployment/UberJarConfigBuildStep.class
+io/quarkus/extest/deployment/ClasspathEntryRecordingBuildStep.class
+io/quarkus/extest/deployment/TestProcessor.class
+io/quarkus/extest/deployment/TestProcessor$Never.class
+META-INF/quarkus-build-steps.list

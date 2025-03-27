@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-graphql-panache/src/main/java/io/quarkus/it/hibertnate/orm/graphql/panache/Author.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-graphql-panache/src/main/java/io/quarkus/it/hibertnate/orm/graphql/panache/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-graphql-panache/src/main/java/io/quarkus/it/hibertnate/orm/graphql/panache/BookRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-graphql-panache/src/main/java/io/quarkus/it/hibertnate/orm/graphql/panache/GraphQLResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-graphql-panache/src/main/java/io/quarkus/it/hibertnate/orm/graphql/panache/LocalDateJdbcType.java

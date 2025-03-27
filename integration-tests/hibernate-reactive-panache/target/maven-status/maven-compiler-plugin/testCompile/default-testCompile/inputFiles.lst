@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/DefaultPackageWithFastJarPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/PackagelessCat.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/DDLGenerationPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/DuplicateMethodTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/MockPersonRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/NoPagingPMT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/PanacheFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/PanacheFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/PanacheMockingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/TestReactiveTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-panache/src/test/java/io/quarkus/it/panache/reactive/TransactionalUniAsserterTest.java

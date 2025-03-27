@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/AbstractPolicyEnforcerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/AdminClientTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/DynamicTenantConfigPolicyEnforcerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/KeycloakLifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/NativeAdminClientITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/PolicyEnforcerInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/test/java/io/quarkus/it/keycloak/StaticTenantConfigPolicyEnforcerTest.java

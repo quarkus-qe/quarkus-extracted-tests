@@ -1,0 +1,17 @@
+io/quarkus/it/mongodb/BookCodec.class
+io/quarkus/it/mongodb/pojo/Pojo.class
+io/quarkus/it/mongodb/pojo/OptionalPropertyCodecProvider$OptionalCodec.class
+io/quarkus/it/mongodb/discriminator/Moto.class
+io/quarkus/it/mongodb/ReactiveBookResource.class
+io/quarkus/it/mongodb/discriminator/jsonb/VehicleCustomizer.class
+io/quarkus/it/mongodb/Book.class
+io/quarkus/it/mongodb/BookResourceWithParameterInjection.class
+io/quarkus/it/mongodb/BookResource.class
+io/quarkus/it/mongodb/discriminator/Car.class
+io/quarkus/it/mongodb/pojo/PojoResource.class
+io/quarkus/it/mongodb/BookCodecProvider.class
+io/quarkus/it/mongodb/discriminator/VehicleResource.class
+io/quarkus/it/mongodb/BookDetail.class
+io/quarkus/it/mongodb/discriminator/Vehicle.class
+io/quarkus/it/mongodb/pojo/OptionalPropertyCodecProvider.class
+io/quarkus/it/mongodb/discriminator/jsonb/VehicleDeserializer.class
