@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/KafkaSSLTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslJksKafkaConsumerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslJksKafkaConsumerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslKafkaConsumerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslPKCS12KafkaConsumerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslPKCS12KafkaConsumerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslPemKafkaConsumerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-ssl/src/test/java/io/quarkus/it/kafka/SslPemKafkaConsumerTest.java

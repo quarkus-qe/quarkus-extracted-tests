@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-rest-data-panache/src/main/java/io/quarkus/it/hibernate/orm/rest/data/panache/Author.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-rest-data-panache/src/main/java/io/quarkus/it/hibernate/orm/rest/data/panache/AuthorsResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-rest-data-panache/src/main/java/io/quarkus/it/hibernate/orm/rest/data/panache/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-rest-data-panache/src/main/java/io/quarkus/it/hibernate/orm/rest/data/panache/BookRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-rest-data-panache/src/main/java/io/quarkus/it/hibernate/orm/rest/data/panache/BooksResource.java
