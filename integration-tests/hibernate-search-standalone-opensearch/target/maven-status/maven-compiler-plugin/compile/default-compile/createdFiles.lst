@@ -1,0 +1,7 @@
+io/quarkus/it/hibernate/search/standalone/opensearch/search/AddressDTO.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/IndexedEntity.class
+io/quarkus/it/hibernate/search/standalone/opensearch/search/Person.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchDevServicesTestResource.class
+io/quarkus/it/hibernate/search/standalone/opensearch/search/Address.class
+io/quarkus/it/hibernate/search/standalone/opensearch/search/SearchTestResource.class
+io/quarkus/it/hibernate/search/standalone/opensearch/search/PersonDTO.class
