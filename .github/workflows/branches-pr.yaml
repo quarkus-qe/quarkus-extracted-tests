@@ -23,14 +23,14 @@ jobs:
         env:
           DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
         run: |
-          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextension-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dquarkus.build.skip=false -Dextension-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
       - name: Build integration tests managed dependencies
         env:
           DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
         run: |
-          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dintegration-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dquarkus.build.skip=false -Dintegration-tests-managed-modules -Dos.detected.arch=$DETECTED_OS_ARCH
       - name: Build with Maven
         env:
           DETECTED_OS_ARCH: ${{ steps.detect-os-arch.outputs.detected-os-arch }}
         run: |
-          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dextensions -Dintegration-tests -Dos.detected.arch=$DETECTED_OS_ARCH
+          mvn -V -B --no-transfer-progress clean install -DskipTests -DskipITs -Dquarkus.build.skip=false -Dextensions -Dintegration-tests -Dos.detected.arch=$DETECTED_OS_ARCH
