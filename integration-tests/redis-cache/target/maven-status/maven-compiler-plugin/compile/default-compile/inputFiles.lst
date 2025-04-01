@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-cache/src/main/java/io/quarkus/it/cache/redis/ExpensiveResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-cache/src/main/java/io/quarkus/it/cache/redis/RestClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-cache/src/main/java/io/quarkus/it/cache/redis/SunriseRestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-cache/src/main/java/io/quarkus/it/cache/redis/SunriseRestServerResource.java
