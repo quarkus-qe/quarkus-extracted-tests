@@ -1,0 +1,3 @@
+io/quarkus/virtual/mail/RunOnVirtualThreadIT.class
+io/quarkus/virtual/mail/RunOnVirtualThreadTest.class
+io/quarkus/virtual/mail/MailHogResource.class
