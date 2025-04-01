@@ -1,0 +1,3 @@
+io/quarkus/it/infinispan/cache/jpa/InfinispanCacheJPAFunctionalityInGraalITCase.class
+io/quarkus/it/infinispan/cache/jpa/TestResources.class
+io/quarkus/it/infinispan/cache/jpa/InfinispanCacheJPAFunctionalityTest.class

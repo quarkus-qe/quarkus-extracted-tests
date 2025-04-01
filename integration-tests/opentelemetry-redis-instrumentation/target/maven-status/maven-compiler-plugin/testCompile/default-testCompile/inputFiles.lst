@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/test/java/io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisDisabledTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/test/java/io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/test/java/io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-redis-instrumentation/src/test/java/io/quarkus/it/opentelemetry/profile/RedisInstrumentationDisabledProfile.java
