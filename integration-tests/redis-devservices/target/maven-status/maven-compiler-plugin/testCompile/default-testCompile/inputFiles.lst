@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisCustomPortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServiceRedis.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesDisabledProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/utils/SocketKit.java
