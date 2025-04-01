@@ -1,0 +1,3 @@
+com/example/reactivejackson/SimpleEndpoint.class
+com/example/reactivejackson/DisableNullValueSerializationCustomizer.class
+com/example/reactivejackson/Person.class
