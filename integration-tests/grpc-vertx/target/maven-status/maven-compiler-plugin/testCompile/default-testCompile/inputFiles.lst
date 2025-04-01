@@ -1,0 +1,15 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldN2OServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldN2OServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewEndpointTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldO2NServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldO2NServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldVertxServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldVertxServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/N2OHelloWorldNewEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/O2NHelloWorldNewEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-vertx/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldNewEndpointTest.java

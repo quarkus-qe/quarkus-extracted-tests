@@ -1,0 +1,14 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/BusinessException.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Farewell.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/FaultTolerantService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Greeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Greetings.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Hello.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Morning.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Salutation.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/TimeOfDay.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/Welcome.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/metricresources/TestPojo.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/metricresources/TestRandom.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/main/java/io/quarkus/it/smallrye/graphql/metricresources/TestResource.java
