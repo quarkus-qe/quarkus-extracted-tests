@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/test/java/io/quarkus/it/rest/client/multipart/JsonSerializationIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/test/java/io/quarkus/it/rest/client/multipart/JsonSerializationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/test/java/io/quarkus/it/rest/client/multipart/MultipartResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/test/java/io/quarkus/it/rest/client/multipart/MultipartResourceTest.java
