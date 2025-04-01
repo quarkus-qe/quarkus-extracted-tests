@@ -1,0 +1,12 @@
+io/quarkus/it/hibernate/validator/custom/MyOtherBean.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResource$NestedBeanWithoutConstraints.class
+io/quarkus/it/hibernate/validator/custom/MyCustomConstraint$Validator.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResource$ResultBuilder.class
+io/quarkus/it/hibernate/validator/GreetingService.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResourceInterface.class
+io/quarkus/it/hibernate/validator/EnhancedGreetingService.class
+io/quarkus/it/hibernate/validator/TextResource.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResource.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResource$MyBean.class
+io/quarkus/it/hibernate/validator/custom/MyCustomConstraint.class
+io/quarkus/it/hibernate/validator/HibernateValidatorTestResourceGenericInterface.class
