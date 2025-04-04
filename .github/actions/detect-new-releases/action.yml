@@ -21,7 +21,7 @@ runs:
           tag=$(echo $tag | xargs)
           echo 'Found release with tag name' $tag
           # extraction of tests for 3.8.x is not supported
-          if [[ $tag != '3.8.'* ]] && [[ $tag != '3.15.'* ]] && [[ $tag != '3.19.'* ]]; then
+          if [[ $tag != '3.8.'* ]] && [[ $tag != '3.15.'* ]] && [[ $tag != '3.19.'* ]] && [[ $tag != '3.21.'* ]]; then
             if echo "$refs" | grep -q "heads/$tag"; then
               echo "Branch $tag already exists in this project, no test extraction is needed."
             else
