@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/main/java/io/quarkus/gcp/function/test/BackgroundFunctionStorageTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/main/java/io/quarkus/gcp/function/test/CloudEventStorageTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/main/java/io/quarkus/gcp/function/test/HttpFunctionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/main/java/io/quarkus/gcp/function/test/RawBackgroundFunctionPubSubTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/main/java/io/quarkus/gcp/function/test/service/GreetingService.java

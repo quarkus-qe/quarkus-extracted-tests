@@ -1,0 +1,15 @@
+io/quarkus/grpc/examples/hello/HelloWorldNewEndpointTestBase.class
+io/quarkus/grpc/examples/hello/HelloWorldN2OServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldNewServiceIT.class
+io/quarkus/grpc/examples/hello/HelloWorldVertxServiceIT.class
+io/quarkus/grpc/examples/hello/N2OHelloWorldNewEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldVertxServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldNewServiceTestBase.class
+io/quarkus/grpc/examples/hello/HelloWorldN2OServiceIT.class
+io/quarkus/grpc/examples/hello/HelloWorldO2NServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldO2NServiceIT.class
+io/quarkus/grpc/examples/hello/HelloWorldNewEndpointTest.class
+io/quarkus/grpc/examples/hello/O2NHelloWorldNewEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldNewServiceTest.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldNewEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldNewEndpointIT.class

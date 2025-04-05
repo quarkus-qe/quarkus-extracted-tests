@@ -1,0 +1,12 @@
+com/example/grpc/hibernate/BlockingMutinyIT.class
+com/example/grpc/hibernate/VertxBlockingRawIT.class
+com/example/grpc/hibernate/BlockingMutinyTestBase.class
+com/example/grpc/hibernate/VertxBlockingMutinyIT.class
+com/example/grpc/hibernate/BlockingRawIT.class
+com/example/grpc/hibernate/TestResources.class
+com/example/grpc/hibernate/BlockingMutinyTest.class
+com/example/grpc/hibernate/BlockingRawTestBase.class
+com/example/grpc/hibernate/BlockingRawTest.class
+com/example/grpc/hibernate/VertxBlockingRawTest.class
+com/example/grpc/hibernate/GrpcIntegrationTestHelper.class
+com/example/grpc/hibernate/VertxBlockingMutinyTest.class

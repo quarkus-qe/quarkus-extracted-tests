@@ -1,0 +1,7 @@
+io/quarkus/it/envers/OutputResourceTest.class
+io/quarkus/it/envers/OutputResourceIT.class
+io/quarkus/it/envers/JPAEnversTestInGraalITCase.class
+io/quarkus/it/envers/InputResourceTest.class
+io/quarkus/it/envers/TestResources.class
+io/quarkus/it/envers/InputResourceIT.class
+io/quarkus/it/envers/JPAEnversTest.class

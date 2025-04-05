@@ -1,0 +1,10 @@
+io/quarkus/it/mailer/mailpit/MessageSummary.class
+io/quarkus/it/mailer/mailpit/DetailedMessage.class
+io/quarkus/it/mailer/mailpit/Recipient.class
+io/quarkus/it/mailer/MailerTest.class
+io/quarkus/it/mailer/mailpit/MailPitClient.class
+io/quarkus/it/mailer/mailpit/Attachment.class
+io/quarkus/it/mailer/mailpit/Message.class
+io/quarkus/it/mailer/MailerIT.class
+io/quarkus/it/mailer/MailpitFullTlsTestResource.class
+io/quarkus/it/mailer/MailpitTestResource.class

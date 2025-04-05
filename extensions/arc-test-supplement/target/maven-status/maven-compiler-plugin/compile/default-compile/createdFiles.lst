@@ -1,0 +1,3 @@
+io/quarkus/arc/test/supplement/SomeClassInExternalLibrary.class
+io/quarkus/arc/test/supplement/SomeBeanInExternalLibrary.class
+io/quarkus/arc/test/supplement/SomeInterfaceInExternalLibrary.class

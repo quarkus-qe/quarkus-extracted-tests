@@ -1,0 +1,3 @@
+io/quarkus/it/keycloak/OidcTokenPropagationITCase.class
+io/quarkus/it/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/keycloak/OidcTokenPropagationTest.class

@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/rest-client-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rest/Greeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/rest-client-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rest/RestClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/rest-client-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rest/ServiceApi.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/rest-client-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rest/ServiceClient.java
