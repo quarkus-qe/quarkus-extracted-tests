@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-stork/src/test/java/io/quarkus/it/rest/reactive/stork/FastWiremockServer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-stork/src/test/java/io/quarkus/it/rest/reactive/stork/RestClientReactiveStorkIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-stork/src/test/java/io/quarkus/it/rest/reactive/stork/RestClientReactiveStorkTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-stork/src/test/java/io/quarkus/it/rest/reactive/stork/SlowWiremockServer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-stork/src/test/java/io/quarkus/it/rest/reactive/stork/WiremockBase.java

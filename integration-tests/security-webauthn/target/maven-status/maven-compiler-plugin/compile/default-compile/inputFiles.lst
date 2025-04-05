@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/AdminResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/LoginResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/MyWebAuthnSetup.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/PublicResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/User.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/UserResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/WebAuthnCertificate.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/security-webauthn/src/main/java/io/quarkus/it/security/webauthn/WebAuthnCredential.java
