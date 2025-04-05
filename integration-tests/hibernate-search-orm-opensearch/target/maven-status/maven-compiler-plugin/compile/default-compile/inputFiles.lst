@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/analysis/BackendAnalysisConfigurer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/devservices/HibernateSearchDevServicesTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/devservices/IndexedEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/search/Address.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/search/HibernateSearchTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-search-orm-opensearch/src/main/java/io/quarkus/it/hibernate/search/orm/opensearch/search/Person.java

@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/MutinyResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/MyRestService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/Pet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/SomeService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/regression/bug25818/BlockingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/resteasy-mutiny/src/main/java/io/quarkus/it/resteasy/mutiny/regression/bug25818/ReproducerResource.java
