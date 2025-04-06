@@ -1,0 +1,5 @@
+io/quarkus/it/resteasy/reactive/elytron/RootResource.class
+io/quarkus/it/resteasy/reactive/elytron/Fruit.class
+io/quarkus/it/resteasy/reactive/elytron/ManagerPermission.class
+io/quarkus/it/resteasy/reactive/elytron/FruitResource.class
+io/quarkus/it/resteasy/reactive/elytron/AuthenticationFailedExceptionMapper.class
