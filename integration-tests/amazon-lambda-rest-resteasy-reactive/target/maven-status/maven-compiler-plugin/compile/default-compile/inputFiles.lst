@@ -1,0 +1,2 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-rest-resteasy-reactive/src/main/java/io/quarkus/it/amazon/lambda/rest/resteasy/reactive/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda-rest-resteasy-reactive/src/main/java/io/quarkus/it/amazon/lambda/rest/resteasy/reactive/SecurityCheckResource.java
