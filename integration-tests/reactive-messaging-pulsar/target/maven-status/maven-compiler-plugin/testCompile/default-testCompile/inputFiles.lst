@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/JksPulsarConnectorIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/JksPulsarConnectorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PKCS12PulsarConnectorIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PKCS12PulsarConnectorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PemPulsarConnectorIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PemPulsarConnectorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PulsarConnectorIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PulsarConnectorTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PulsarContainer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-pulsar/src/test/java/io/quarkus/it/pulsar/PulsarResource.java
