@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaCodecITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaCodecTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaConsumerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaConsumerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaProducerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka/src/test/java/io/quarkus/it/kafka/KafkaProducerTest.java
