@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/CountResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/Counter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/DisabledMethodResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/DisabledScheduledMethods.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/FixedInstanceIdGenerator.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/FixedInstanceIdResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/ManualScheduledCounter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/quartz/src/main/java/io/quarkus/it/quartz/ProgrammaticJobResource.java

@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/SimpleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/SpanExporterProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/TraceData.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/TracedKafkaConsumer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/TracedKafkaProcessor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/TracedService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-reactive-messaging/src/main/java/io/quarkus/it/opentelemetry/output/SpanDataSerializer.java

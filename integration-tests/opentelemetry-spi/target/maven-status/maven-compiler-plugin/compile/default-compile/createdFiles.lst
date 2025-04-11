@@ -1,0 +1,9 @@
+io/quarkus/it/opentelemetry/spi/CustomSPISamplerProvider.class
+io/quarkus/it/opentelemetry/spi/TracedService.class
+io/quarkus/it/opentelemetry/spi/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/spi/SimpleResource.class
+io/quarkus/it/opentelemetry/spi/ExporterResource.class
+io/quarkus/it/opentelemetry/spi/output/SpanDataSerializer.class
+io/quarkus/it/opentelemetry/spi/output/SpanDataModuleSerializer.class
+io/quarkus/it/opentelemetry/spi/TraceData.class
+io/quarkus/it/opentelemetry/spi/CustomSPISampler.class

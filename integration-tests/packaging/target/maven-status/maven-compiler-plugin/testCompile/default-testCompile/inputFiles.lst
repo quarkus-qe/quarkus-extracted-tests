@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/CustomManifestEntriesThinJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/CustomManifestEntriesUberJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/CustomManifestSectionsThinJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/CustomManifestSectionsUberJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/NoCustomManifestSectionsThinJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/maven/NoCustomManifestSectionsUberJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/removedclasses/AbstractRemovedResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/removedclasses/RemovedResourceFastJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/removedclasses/RemovedResourceLegacyJarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/packaging/src/test/java/io/quarkus/removedclasses/RemovedResourceUberJarTest.java

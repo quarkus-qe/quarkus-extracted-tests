@@ -1,0 +1,5 @@
+io/quarkus/it/oidc/dev/services/BearerAuthenticationOidcDevServicesTest.class
+io/quarkus/it/oidc/dev/services/WebSocketOidcTest.class
+io/quarkus/it/oidc/dev/services/CodeFlowOidcDevServicesTest.class
+io/quarkus/it/oidc/dev/services/CodeFlowOidcDevServicesTest$OidcWebAppTestProfile.class
+io/quarkus/it/oidc/dev/services/BearerAuthenticationOidcDevServicesIT.class

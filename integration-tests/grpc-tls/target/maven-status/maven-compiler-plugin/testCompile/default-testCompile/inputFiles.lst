@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldTlsServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldTlsEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldTlsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-tls/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceTestBase.java

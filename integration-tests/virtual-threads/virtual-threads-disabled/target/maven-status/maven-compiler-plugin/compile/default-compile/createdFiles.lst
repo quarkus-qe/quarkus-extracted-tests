@@ -1,0 +1,5 @@
+io/quarkus/virtual/disabled/FilteredResource.class
+io/quarkus/virtual/disabled/Filters.class
+io/quarkus/virtual/disabled/Counter.class
+io/quarkus/virtual/disabled/MyResource.class
+io/quarkus/virtual/disabled/MyResourceWithVTOnClass.class

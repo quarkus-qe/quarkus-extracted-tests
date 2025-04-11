@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-jpamodelgen/src/test/java/io/quarkus/it/hibernate/jpamodelgen/HibernateJpaModelGenInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-jpamodelgen/src/test/java/io/quarkus/it/hibernate/jpamodelgen/HibernateJpaModelGenTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-jpamodelgen/src/test/java/io/quarkus/it/hibernate/jpamodelgen/PanacheJpaModelGenInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-jpamodelgen/src/test/java/io/quarkus/it/hibernate/jpamodelgen/PanacheJpaModelGenTest.java

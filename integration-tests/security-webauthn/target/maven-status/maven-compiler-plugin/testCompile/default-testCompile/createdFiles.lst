@@ -1,0 +1,4 @@
+io/quarkus/it/security/webauthn/test/NativeWebAuthnResourceIT.class
+io/quarkus/it/security/webauthn/test/WebAuthnResourceTest$User.class
+io/quarkus/it/security/webauthn/test/WebAuthnResourceTest$Endpoint.class
+io/quarkus/it/security/webauthn/test/WebAuthnResourceTest.class

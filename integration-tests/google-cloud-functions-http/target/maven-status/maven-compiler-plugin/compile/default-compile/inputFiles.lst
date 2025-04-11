@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions-http/src/main/java/io/quarkus/it/gcp/functions/http/GreetingFunqy.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions-http/src/main/java/io/quarkus/it/gcp/functions/http/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions-http/src/main/java/io/quarkus/it/gcp/functions/http/GreetingRoutes.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions-http/src/main/java/io/quarkus/it/gcp/functions/http/GreetingServlet.java

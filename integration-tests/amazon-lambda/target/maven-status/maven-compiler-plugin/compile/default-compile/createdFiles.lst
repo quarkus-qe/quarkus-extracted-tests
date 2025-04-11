@@ -1,0 +1,8 @@
+io/quarkus/it/amazon/lambda/Count.class
+io/quarkus/it/amazon/lambda/ProcessingService.class
+io/quarkus/Dummy.class
+io/quarkus/it/amazon/lambda/TestLambda.class
+io/quarkus/it/amazon/lambda/OutputObject.class
+io/quarkus/it/amazon/lambda/InputObject.class
+io/quarkus/it/amazon/lambda/CounterInterceptor.class
+io/quarkus/it/amazon/lambda/UnusedLambda.class

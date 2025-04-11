@@ -1,0 +1,13 @@
+io/quarkus/it/quartz/ManualScheduledCounter$CountingJob.class
+io/quarkus/it/quartz/ProgrammaticJobResource$SyncJob.class
+io/quarkus/it/quartz/CountResource.class
+io/quarkus/it/quartz/ProgrammaticJobResource$AsyncJob.class
+io/quarkus/it/quartz/ProgrammaticJobResource.class
+io/quarkus/it/quartz/ManualScheduledCounter$RegisterForSerializationConfiguration.class
+io/quarkus/it/quartz/FixedInstanceIdResource.class
+io/quarkus/it/quartz/FixedInstanceIdGenerator.class
+io/quarkus/it/quartz/DisabledScheduledMethods.class
+io/quarkus/it/quartz/ManualScheduledCounter.class
+io/quarkus/it/quartz/DisabledMethodResource.class
+io/quarkus/it/quartz/Counter.class
+io/quarkus/it/quartz/ManualScheduledCounter$CounterFireTime.class

@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/virtual-threads-disabled/src/main/java/io/quarkus/virtual/disabled/Counter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/virtual-threads-disabled/src/main/java/io/quarkus/virtual/disabled/FilteredResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/virtual-threads-disabled/src/main/java/io/quarkus/virtual/disabled/Filters.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/virtual-threads-disabled/src/main/java/io/quarkus/virtual/disabled/MyResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/virtual-threads-disabled/src/main/java/io/quarkus/virtual/disabled/MyResourceWithVTOnClass.java

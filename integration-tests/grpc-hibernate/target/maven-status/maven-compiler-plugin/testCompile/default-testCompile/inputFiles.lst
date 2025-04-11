@@ -1,0 +1,12 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingMutinyIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingMutinyTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingMutinyTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingRawIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingRawTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/BlockingRawTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/GrpcIntegrationTestHelper.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/TestResources.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/VertxBlockingMutinyIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/VertxBlockingMutinyTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/VertxBlockingRawIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/test/java/com/example/grpc/hibernate/VertxBlockingRawTest.java

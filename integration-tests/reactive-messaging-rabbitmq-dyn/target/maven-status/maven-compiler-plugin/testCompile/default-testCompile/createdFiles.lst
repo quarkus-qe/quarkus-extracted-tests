@@ -1,0 +1,4 @@
+io/quarkus/it/rabbitmq/RabbitMQConnectorDynCredsTest$1.class
+io/quarkus/it/rabbitmq/RabbitMQConnectorDynCredsTest$RabbitMQResource.class
+io/quarkus/it/rabbitmq/RabbitMQConnectorDynCredsIT.class
+io/quarkus/it/rabbitmq/RabbitMQConnectorDynCredsTest.class
