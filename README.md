@@ -20,3 +20,7 @@ You can trigger this workflow manually or use the Quarkus Test Extractor tool fr
 ### Rules
 
 Don't push extracted tests to the main branch because it is next to impossible to keep it up to date with the Quarkus main branch (and there is no point).
+
+## Regenerate test coverage
+
+If you adjusted the Quarkus Test Extractor tool and need to update tests in certain branch, just delete the branch you need to regenerate and trigger the `daily.yaml` workflow manually.
