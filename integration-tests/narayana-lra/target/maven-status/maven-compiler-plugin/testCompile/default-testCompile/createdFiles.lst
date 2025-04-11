@@ -1,0 +1,4 @@
+org/acme/quickstart/lra/LRAParticipantTestNativeIT.class
+org/acme/quickstart/lra/LRAParticipantTest.class
+org/acme/quickstart/lra/AppTestProfile.class
+org/acme/quickstart/lra/LRAParticipantTestResourceLifecycle.class
