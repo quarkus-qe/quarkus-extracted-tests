@@ -1,0 +1,9 @@
+META-INF/services/io.smallrye.stork.spi.internal.ServiceDiscoveryLoader
+io/quarkus/it/rest/client/reactive/stork/ClientCallingResource.class
+META-INF/services/io.smallrye.stork.spi.internal.LoadBalancerLoader
+io/quarkus/it/rest/client/reactive/stork/MyServiceDiscoveryProvider.class
+io/quarkus/it/rest/client/reactive/stork/MyConfiguration.class
+io/quarkus/it/rest/client/reactive/stork/Client.class
+io/quarkus/it/rest/client/reactive/stork/MyServiceDiscoveryProviderLoader.class
+META-INF/stork-docs/my-sd-attributes.txt
+META-INF/services/io.smallrye.stork.spi.internal.ServiceRegistrarLoader

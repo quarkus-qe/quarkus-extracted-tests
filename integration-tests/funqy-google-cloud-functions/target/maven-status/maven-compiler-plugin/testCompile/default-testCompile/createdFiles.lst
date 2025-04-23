@@ -1,0 +1,3 @@
+io/quarkus/funqy/gcp/functions/test/GreetingFunctionsCloudEventTest.class
+io/quarkus/funqy/gcp/functions/test/GreetingFunctionsPubsubTest.class
+io/quarkus/funqy/gcp/functions/test/GreetingFunctionsStorageTest.class

@@ -1,0 +1,4 @@
+U1KDJYIWi1mzIVdpgmAj43Qs3T18RsBzZ7BcOvlvaxM=
+src/main/kotlin/io/quarkus/it/rest/ValidationResource.kt 2025-04-23T16:35:07.411284136Z
+src/test/kotlin/io/quarkus/it/rest/client/BasicTest.kt 2025-04-23T16:35:07.411284136Z
+src/test/kotlin/io/quarkus/it/rest/client/BasicTestIT.kt 2025-04-23T16:35:07.411284136Z
