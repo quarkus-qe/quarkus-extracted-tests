@@ -1,0 +1,7 @@
+io/quarkus/it/kafka/KafkaSnappyCodecITCase.class
+io/quarkus/it/kafka/KafkaSnappyProducerTest.class
+io/quarkus/it/kafka/KafkaTestResource.class
+io/quarkus/it/kafka/KafkaSnappyCodecTest.class
+io/quarkus/it/kafka/KafkaSnappyConsumerTest.class
+io/quarkus/it/kafka/KafkaSnappyConsumerITCase.class
+io/quarkus/it/kafka/KafkaSnappyProducerITCase.class

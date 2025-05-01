@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/security/test-utils/src/main/java/io/quarkus/security/test/utils/AuthData.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/security/test-utils/src/main/java/io/quarkus/security/test/utils/IdentityMock.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/security/test-utils/src/main/java/io/quarkus/security/test/utils/SecurityTestUtils.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/security/test-utils/src/main/java/io/quarkus/security/test/utils/TestIdentityController.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/extensions/security/test-utils/src/main/java/io/quarkus/security/test/utils/TestIdentityProvider.java

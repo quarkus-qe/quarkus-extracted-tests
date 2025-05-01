@@ -1,0 +1,12 @@
+io/quarkus/it/spring/boot/DefaultProperties.class
+io/quarkus/it/spring/boot/AnotherClass.class
+io/quarkus/it/spring/boot/DefaultPropertiesResource.class
+io/quarkus/it/spring/boot/BeanProperties$InnerClass.class
+io/quarkus/it/spring/boot/InterfaceProperties.class
+io/quarkus/it/spring/boot/ClassProperties.class
+io/quarkus/it/spring/boot/BeanProperties.class
+io/quarkus/it/spring/boot/SampleApplication.class
+io/quarkus/it/spring/boot/Interface.class
+io/quarkus/it/spring/boot/InterfacePropertiesResource.class
+io/quarkus/it/spring/boot/ClassPropertiesResource.class
+io/quarkus/it/spring/boot/BeanPropertiesResource.class

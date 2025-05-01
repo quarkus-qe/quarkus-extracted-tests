@@ -1,0 +1,9 @@
+io/quarkus/it/hibernate/reactive/oracle/resources/HibernateReactiveTestEndpointJoinedSubclass$SpellBook.class
+io/quarkus/it/hibernate/reactive/oracle/resources/HibernateReactiveTestEndpoint.class
+io/quarkus/it/hibernate/reactive/oracle/model/lazy/Author.class
+io/quarkus/it/hibernate/reactive/oracle/model/lazy/Book.class
+io/quarkus/it/hibernate/reactive/oracle/model/FriesianCow.class
+io/quarkus/it/hibernate/reactive/oracle/model/GuineaPig.class
+io/quarkus/it/hibernate/reactive/oracle/resources/HibernateReactiveTestEndpointJoinedSubclass.class
+io/quarkus/it/hibernate/reactive/oracle/resources/HibernateReactiveTestEndpointFetchLazy.class
+io/quarkus/it/hibernate/reactive/oracle/resources/HibernateReactiveTestEndpointJoinedSubclass$Book.class

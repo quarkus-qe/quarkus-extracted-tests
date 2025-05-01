@@ -1,0 +1,8 @@
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.class
+io/quarkus/it/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/keycloak/ServicePublicKeyTestCase.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest$1.class
+io/quarkus/it/keycloak/TestSecurityCombiningAuthMechTest.class
+io/quarkus/it/keycloak/AnnotationBasedTenantTest.class
