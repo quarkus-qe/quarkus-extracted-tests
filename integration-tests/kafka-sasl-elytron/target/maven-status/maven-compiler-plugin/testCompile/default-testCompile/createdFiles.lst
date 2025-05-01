@@ -1,0 +1,6 @@
+io/quarkus/it/kafka/KafkaSaslTest$1.class
+io/quarkus/it/kafka/KafkaSaslTest.class
+io/quarkus/it/kafka/KafkaSaslIT$1.class
+io/quarkus/it/kafka/containers/KerberosContainer.class
+io/quarkus/it/kafka/KafkaSaslIT.class
+io/quarkus/it/kafka/KafkaSaslTestResource.class

@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/FlowerConsumers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/FlowerProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/FlowerReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/FlowerResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/OutgoingInterceptor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/RequestBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/contextual/FlowerContextualResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/contextual/FlowerMutinyResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/contextual/FlowersContextualReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-context-propagation/src/main/java/io/quarkus/it/kafka/contextual/FlowersMutinyReceivers.java

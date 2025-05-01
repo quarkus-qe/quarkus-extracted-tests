@@ -1,0 +1,11 @@
+io/quarkus/grpc/examples/hello/VertxHelloWorldTlsEndpointIT.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointIT.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointTestBase.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsServiceIT.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsServiceTestBase.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceIT.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldTlsServiceTestBase.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldTlsEndpointTest.class

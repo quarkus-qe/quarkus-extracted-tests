@@ -1,0 +1,5 @@
+io/quarkus/io/opentelemetry/jackson/RegisterCustomModuleCustomizer.class
+io/quarkus/io/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/io/opentelemetry/jackson/ErrorTypeSerializer.class
+io/quarkus/io/opentelemetry/ExporterResource.class
+io/quarkus/io/opentelemetry/RedisResource.class

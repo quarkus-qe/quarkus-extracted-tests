@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus.qe.tests</groupId>
+    <artifactId>quarkus-main-tests</artifactId>
+    <version>3.22.1</version>
+    <relativePath>../../</relativePath>
+  </parent>
+  <artifactId>quarkus-integration-test-external-proto</artifactId>
+  <version>3.22.1</version>
+  <name>Quarkus - Integration Tests - Helper project containing packaging a proto file for grpc-external-proto-test</name>
+  <description>Tests extracted from project Quarkus - Integration Tests - Helper project containing packaging a proto file for grpc-external-proto-test</description>
+  <properties>
+    <quarkus.native.builder-image.pull>missing</quarkus.native.builder-image.pull>
+    <quarkus.build.skip>${skipTests}</quarkus.build.skip>
+    <rootDir>../../</rootDir>
+  </properties>
+</project>
