@@ -1,0 +1,5 @@
+io/quarkus/it/compose/devservices/postgres/PostgresEndpoint.class
+io/quarkus/it/compose/devservices/redis/RedisEndpoint.class
+io/quarkus/it/compose/devservices/kafka/KafkaEndpoint.class
+io/quarkus/it/compose/devservices/rabbitmq/AMQPEndpoint.class
+io/quarkus/it/compose/devservices/kafka/KafkaAdminManager.class

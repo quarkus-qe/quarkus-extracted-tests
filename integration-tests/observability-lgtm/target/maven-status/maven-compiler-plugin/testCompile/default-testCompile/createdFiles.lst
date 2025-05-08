@@ -1,0 +1,14 @@
+io/quarkus/observability/test/LgtmResourcesTest.class
+io/quarkus/observability/test/LgtmGrpcTest$GrpcTestProfileOnly.class
+io/quarkus/observability/test/support/ReloadEndpoint.class
+io/quarkus/observability/test/LgtmTestHelper.class
+io/quarkus/observability/test/LgtmGrpcTest.class
+io/quarkus/observability/test/LgtmTestBase.class
+io/quarkus/observability/test/LgtmResourcesTest$DevResourcesTestProfileOnly.class
+io/quarkus/observability/test/support/ConfigEndpoint.class
+io/quarkus/observability/test/LgtmLifecycleTest.class
+io/quarkus/observability/test/LgtmConfigTestBase.class
+io/quarkus/observability/test/LgtmLifecycleTest$TestResourceTestProfileOff.class
+io/quarkus/observability/test/LgtmServicesTest.class
+io/quarkus/observability/test/LgtmResourcesIT.class
+io/quarkus/observability/test/LgtmReloadTest.class

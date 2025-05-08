@@ -1,0 +1,8 @@
+io/quarkus/it/kafka/streams/KafkaStreamsEventCounter.class
+io/quarkus/it/kafka/streams/CustomExceptionHandler.class
+io/quarkus/it/kafka/streams/EnrichedCustomer.class
+io/quarkus/it/kafka/streams/Category.class
+io/quarkus/it/kafka/streams/KafkaStreamsPipeline.class
+io/quarkus/it/kafka/streams/KafkaStreamsEndpoint.class
+io/quarkus/it/kafka/streams/Customer.class
+io/quarkus/it/kafka/streams/KafkaStreamsPipeline$CurrentStateListener.class

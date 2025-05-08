@@ -1,0 +1,15 @@
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainTestBase$Profile.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainIT.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsTest.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainTestBase$Profile.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainTestBase.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerPlainTest.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainTestBase.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsTestBase.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainTest.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsTestBase$Profile.class
+io/quarkus/grpc/examples/hello/RandomPortTestBase.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerPlainIT.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsTestBase.class
+io/quarkus/grpc/examples/hello/RandomPortVertxServerTlsTestBase$Profile.class
+io/quarkus/grpc/examples/hello/RandomPortSeparateServerTlsTest.class

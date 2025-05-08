@@ -1,0 +1,5 @@
+io/quarkus/it/kafka/KafkaContextPropagationTest$ContextNotPropagated.class
+io/quarkus/it/kafka/KafkaContextPropagationTest$MutinyContextPropagated.class
+io/quarkus/it/kafka/KafkaContextPropagationTest$ContextPropagated.class
+io/quarkus/it/kafka/KafkaContextPropagationIT.class
+io/quarkus/it/kafka/KafkaContextPropagationTest.class

@@ -1,0 +1,10 @@
+io/quarkus/it/jpa/db2/Animal.class
+io/quarkus/it/jpa/db2/Person.class
+io/quarkus/it/jpa/db2/Customer.class
+io/quarkus/it/jpa/db2/WorkAddress.class
+io/quarkus/it/jpa/db2/Address.class
+io/quarkus/it/jpa/db2/Status.class
+io/quarkus/it/jpa/db2/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/db2/SequencedAddress.class
+io/quarkus/it/jpa/db2/Human.class
+io/quarkus/it/jpa/db2/NotAnEntityNotReferenced.class

@@ -1,0 +1,5 @@
+io/quarkus/websockets/ChatCodecServer.class
+io/quarkus/websockets/ChatMessageDecoder.class
+io/quarkus/websockets/ChatMessageDTO.class
+io/quarkus/websockets/ChatMessageEncoder.class
+io/quarkus/websockets/ChatServer.class
