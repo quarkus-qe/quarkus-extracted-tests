@@ -1,0 +1,17 @@
+io/quarkus/it/jpa/postgresql/defaultpu/Customer.class
+io/quarkus/it/jpa/postgresql/defaultpu/Status.class
+io/quarkus/it/jpa/postgresql/otherpu/EntityWithJsonOtherPU.class
+io/quarkus/it/jpa/postgresql/otherpu/JsonFormatMapper.class
+io/quarkus/it/jpa/postgresql/defaultpu/Person.class
+io/quarkus/it/jpa/postgresql/defaultpu/MyUUIDEntity.class
+io/quarkus/it/jpa/postgresql/defaultpu/Animal.class
+io/quarkus/it/jpa/postgresql/defaultpu/NotAnEntityNotReferenced.class
+io/quarkus/it/jpa/postgresql/defaultpu/EntityWithJson$ToBeSerializedWithDateTime.class
+io/quarkus/it/jpa/postgresql/defaultpu/Human.class
+io/quarkus/it/jpa/postgresql/defaultpu/Address.class
+io/quarkus/it/jpa/postgresql/defaultpu/EntityWithJson.class
+io/quarkus/it/jpa/postgresql/otherpu/EntityWithJsonOtherPU$ToBeSerializedWithDateTime.class
+io/quarkus/it/jpa/postgresql/JPATestReflectionEndpoint.class
+io/quarkus/it/jpa/postgresql/defaultpu/WorkAddress.class
+io/quarkus/it/jpa/postgresql/defaultpu/SequencedAddress.class
+io/quarkus/it/jpa/postgresql/JPAFunctionalityTestEndpoint.class

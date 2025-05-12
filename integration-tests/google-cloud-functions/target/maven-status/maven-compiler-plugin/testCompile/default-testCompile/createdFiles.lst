@@ -1,0 +1,5 @@
+io/quarkus/gcp/function/test/HttpFunctionTestCase.class
+io/quarkus/gcp/function/test/BackgroundFunctionStorageTestCase.class
+io/quarkus/gcp/function/test/CloudEventStorageTestCase.class
+io/quarkus/gcp/function/test/HttpFunctionRandomPortTestCase.class
+io/quarkus/gcp/function/test/RawBackgroundFunctionPubSubTestCase.class

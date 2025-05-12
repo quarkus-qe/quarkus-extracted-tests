@@ -1,0 +1,12 @@
+io/quarkus/micrometer/opentelemetry/ExporterResource$InMemoryLogRecordExporterProducer.class
+io/quarkus/micrometer/opentelemetry/SimpleResource.class
+io/quarkus/micrometer/opentelemetry/ExporterResource$InMemoryMetricExporterProducer.class
+io/quarkus/micrometer/opentelemetry/services/CountedBean.class
+io/quarkus/micrometer/opentelemetry/SimpleResource$SimpleClient.class
+io/quarkus/micrometer/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/micrometer/opentelemetry/services/ManualHistogram.class
+io/quarkus/micrometer/opentelemetry/services/TraceData.class
+io/quarkus/micrometer/opentelemetry/ExporterResource.class
+io/quarkus/micrometer/opentelemetry/services/TracedService.class
+io/quarkus/micrometer/opentelemetry/AppResource.class
+io/quarkus/micrometer/opentelemetry/services/TestValueResolver.class

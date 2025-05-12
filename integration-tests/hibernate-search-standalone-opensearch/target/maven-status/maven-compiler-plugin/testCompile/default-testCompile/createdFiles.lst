@@ -1,0 +1,8 @@
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesDisabledImplicitlyTest$Profile.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesDisabledImplicitlyTest.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesDisabledExplicitlyTest.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesEnabledImplicitlyTest.class
+io/quarkus/it/hibernate/search/standalone/opensearch/SearchTest.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesDisabledExplicitlyTest$Profile.class
+io/quarkus/it/hibernate/search/standalone/opensearch/devservices/HibernateSearchOpenSearchDevServicesEnabledImplicitlyTest$Profile.class
+io/quarkus/it/hibernate/search/standalone/opensearch/SearchInGraalIT.class

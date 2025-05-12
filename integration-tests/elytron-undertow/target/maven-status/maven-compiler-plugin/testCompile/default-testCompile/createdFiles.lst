@@ -1,0 +1,7 @@
+io/quarkus/it/undertow/elytron/BaseAuthRestTest.class
+io/quarkus/it/undertow/elytron/HttpsSetup.class
+io/quarkus/it/undertow/elytron/BaseAuthIT.class
+io/quarkus/it/undertow/elytron/ServletSecurityAnnotationPermissionsIT.class
+io/quarkus/it/undertow/elytron/BaseAuthTest.class
+io/quarkus/it/undertow/elytron/ServletSecurityAnnotationPermissionsTestCase.class
+io/quarkus/it/undertow/elytron/WebXmlPermissionsTestCase.class

@@ -1,0 +1,11 @@
+io/quarkus/it/micrometer/prometheus/ExemplarTest.class
+io/quarkus/it/micrometer/prometheus/TestResources.class
+io/quarkus/it/micrometer/prometheus/ExampleResourcesIT.class
+io/quarkus/it/micrometer/prometheus/OtelOffProfile.class
+io/quarkus/it/micrometer/prometheus/ExemplarOffTest.class
+io/quarkus/it/micrometer/prometheus/PrometheusMetricsRegistryTest.class
+io/quarkus/it/micrometer/prometheus/ClientRequestTest.class
+io/quarkus/it/micrometer/prometheus/ClientRequestIT.class
+io/quarkus/it/micrometer/prometheus/PrometheusMetricsRegistryIT.class
+io/quarkus/it/micrometer/prometheus/OtelOnProfile.class
+io/quarkus/it/micrometer/prometheus/ExampleResourcesTest.class
