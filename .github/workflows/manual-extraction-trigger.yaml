@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       release_tag:
+        required: true
         description: Quarkus release tag, e.g. 3.20.0
 jobs:
   extract-tests:
