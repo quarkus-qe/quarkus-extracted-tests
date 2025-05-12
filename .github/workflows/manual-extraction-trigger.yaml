@@ -1,0 +1,21 @@
+name: "Extract Quarkus tests for given release tag"
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Quarkus release tag, e.g. 3.20.0
+jobs:
+  extract-tests:
+    name: Extract tests from new Quarkus release ${{ github.event.inputs.release_tag }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 21
+      - uses: ./.github/actions/extract-tests
+        with:
+          tag: ${{ github.event.inputs.release_tag }}
+          gh-token: ${{ secrets.QUARKUS_QE_GH_PUSH_TOKEN }}
