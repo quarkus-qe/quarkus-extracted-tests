@@ -1,0 +1,2 @@
+io/quarkus/it/hibernate/reactive/mariadb/HibernateReactiveMySQLTest.class
+io/quarkus/it/hibernate/reactive/mariadb/HibernateReactiveMySQLInGraalIT.class

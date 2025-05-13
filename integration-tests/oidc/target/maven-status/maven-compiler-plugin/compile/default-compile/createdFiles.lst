@@ -1,0 +1,15 @@
+io/quarkus/it/keycloak/UsersResource$User.class
+io/quarkus/it/keycloak/VertxResource$2.class
+io/quarkus/it/keycloak/HelloResourceBase.class
+io/quarkus/it/keycloak/PermissionResource.class
+io/quarkus/it/keycloak/IHelloResource.class
+io/quarkus/it/keycloak/SecuredHelloWebSocket.class
+io/quarkus/it/keycloak/VertxResource.class
+io/quarkus/it/keycloak/HelloResource.class
+io/quarkus/it/keycloak/VertxResource$1.class
+io/quarkus/it/keycloak/AuthenticationFailureEventListener.class
+io/quarkus/it/keycloak/UsersResource.class
+io/quarkus/it/keycloak/AdminResource.class
+io/quarkus/it/keycloak/AuthenticationEventResource.class
+io/quarkus/it/keycloak/ProtectedJwtResource.class
+io/quarkus/it/keycloak/VertxResource$3.class

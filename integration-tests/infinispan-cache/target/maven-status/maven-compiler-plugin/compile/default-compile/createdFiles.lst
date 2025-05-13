@@ -1,0 +1,11 @@
+io/quarkus/it/cache/infinispan/RestClientResource$2.class
+io/quarkus/it/cache/infinispan/SunriseRestServerResource.class
+io/quarkus/it/cache/infinispan/ExpensiveResponse$___Marshaller_f42ac3a463be92159d27e3e35d23f592ffd5451ed7a612284f122b348d18641f.class
+io/quarkus/it/cache/infinispan/ExpensiveResource$ExpensiveResponse.class
+io/quarkus/it/cache/infinispan/SchemaImpl.class
+io/quarkus/it/cache/infinispan/ExpensiveResource.class
+io/quarkus/it/cache/infinispan/RestClientResource$1.class
+io/quarkus/it/cache/infinispan/ExpensiveResource$Schema.class
+META-INF/services/org.infinispan.protostream.SerializationContextInitializer
+io/quarkus/it/cache/infinispan/SunriseRestClient.class
+io/quarkus/it/cache/infinispan/RestClientResource.class
