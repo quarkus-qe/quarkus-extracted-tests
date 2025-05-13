@@ -1,0 +1,13 @@
+io/quarkus/it/resteasy/jackson/GenericsResourceTest.class
+io/quarkus/it/resteasy/jackson/StaticContentWithTestProfileTest$DummyProfile.class
+io/quarkus/it/resteasy/jackson/StaticContentWithTestProfileTest.class
+io/quarkus/it/resteasy/jackson/GenericsResourceIT.class
+io/quarkus/it/resteasy/jackson/ApplicationPropertiesOverrideIT.class
+io/quarkus/it/resteasy/jackson/GeneratedClassesTest.class
+io/quarkus/it/resteasy/jackson/BigKeysResourceTest.class
+io/quarkus/it/resteasy/jackson/BigKeysResourceIT.class
+io/quarkus/it/resteasy/jackson/GreetingResourceTestIT.class
+io/quarkus/it/resteasy/jackson/StaticContentTest.class
+io/quarkus/it/resteasy/jackson/ApplicationPropertiesOverrideTest.class
+io/quarkus/it/resteasy/jackson/StaticContentIT.class
+io/quarkus/it/resteasy/jackson/GreetingResourceTest.class
