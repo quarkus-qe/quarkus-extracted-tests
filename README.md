@@ -14,13 +14,17 @@ We may and will delete some branches when we don't need them anymore.
 
 ### Extracting new tests
 
-Daily build runs a GitHub workflow that detects new releases and extract tests automatically.
-You can trigger this workflow manually or use the Quarkus Test Extractor tool from your workstation and push tests yourselves.
+There are 3 ways to extract tests:
+- [Daily build](https://github.com/quarkus-qe/quarkus-extracted-tests/actions/workflows/daily.yaml) runs a GitHub workflow that detects new releases and extract tests automatically.
+- You can trigger the [Extract Quarkus tests for given release tag](https://github.com/quarkus-qe/quarkus-extracted-tests/actions/workflows/manual-extraction-trigger.yaml) workflow manually for any Quarkus release tag
+- Use the [Quarkus Test Extractor](https://github.com/quarkus-qe/quarkus-test-extractor) tool from your workstation and push tests yourselves.
 
 ### Rules
 
-Don't push extracted tests to the main branch because it is next to impossible to keep it up to date with the Quarkus main branch (and there is no point).
+Don't push extracted tests to the main branch because it is next to impossible to keep it up to date with the Quarkus main branch (and there is no point to it).
 
 ### Regenerate test coverage
 
 If you adjusted the Quarkus Test Extractor tool and need to update tests in certain branch, just delete the branch you need to regenerate and trigger the `daily.yaml` workflow manually.
+It should be possible to use the [Extract Quarkus tests for given release tag](https://github.com/quarkus-qe/quarkus-extracted-tests/actions/workflows/manual-extraction-trigger.yaml) workflow without deleting respective branch and/or tag.
+The previous tests will be completely replaced by the new ones.
