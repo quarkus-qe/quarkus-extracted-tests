@@ -1,0 +1,11 @@
+io/quarkus/it/envers/Message2.class
+io/quarkus/it/envers/OutputResource.class
+io/quarkus/it/envers/Message2Provider.class
+io/quarkus/it/envers/Project.class
+io/quarkus/it/envers/CustomOutput.class
+io/quarkus/it/envers/MessageProvider.class
+io/quarkus/it/envers/Output2Resource.class
+io/quarkus/it/envers/ProjectApplication.class
+io/quarkus/it/envers/ProjectResource.class
+io/quarkus/it/envers/Message.class
+io/quarkus/it/envers/InputResource.class

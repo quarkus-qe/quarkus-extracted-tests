@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-compatibility-5.6/postgresql/src/main/java/io/quarkus/it/hibernate/compatibility/CompatibilityTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-compatibility-5.6/postgresql/src/main/java/io/quarkus/it/hibernate/compatibility/MyEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-compatibility-5.6/postgresql/src/main/java/io/quarkus/it/hibernate/compatibility/MyEntityWithGenericGeneratorAndDefaultAllocationSize.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-compatibility-5.6/postgresql/src/main/java/io/quarkus/it/hibernate/compatibility/MyEntityWithSequenceGeneratorAndDefaultAllocationSize.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-compatibility-5.6/postgresql/src/main/java/io/quarkus/it/hibernate/compatibility/MyEnum.java
