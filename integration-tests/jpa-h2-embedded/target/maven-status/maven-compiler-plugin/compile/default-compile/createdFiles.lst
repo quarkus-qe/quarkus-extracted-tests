@@ -1,0 +1,4 @@
+io/quarkus/it/jpa/h2/DialectEndpoint.class
+io/quarkus/it/jpa/h2/Person.class
+io/quarkus/it/jpa/h2/SequencedAddress.class
+io/quarkus/it/jpa/h2/JPAFunctionalityTestEndpoint.class

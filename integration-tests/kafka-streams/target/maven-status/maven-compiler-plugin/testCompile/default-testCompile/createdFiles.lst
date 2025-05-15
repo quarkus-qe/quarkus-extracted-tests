@@ -1,0 +1,8 @@
+io/quarkus/it/kafka/streams/KafkaStreamsTest.class
+io/quarkus/it/kafka/streams/KafkaStreamsStartupFailureTest$NonExistingTopicProfile.class
+io/quarkus/it/kafka/streams/KafkaStreamsStartupFailureTest.class
+io/quarkus/it/kafka/streams/KafkaStreamsITCase.class
+io/quarkus/it/kafka/streams/KafkaSSLTestResource.class
+io/quarkus/it/kafka/streams/KafkaStreamsTest$EnrichedCustomerDeserializer.class
+io/quarkus/it/kafka/streams/KafkaStreamsPropertiesTest.class
+io/quarkus/it/kafka/streams/KafkaStreamsCdiEventTest.class
