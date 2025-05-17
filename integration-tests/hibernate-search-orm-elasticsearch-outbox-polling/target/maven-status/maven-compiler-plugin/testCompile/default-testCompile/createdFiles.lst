@@ -1,0 +1,3 @@
+io/quarkus/it/hibernate/search/orm/elasticsearch/coordination/outboxpolling/HibernateSearchOutboxPollingTest.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/coordination/outboxpolling/HibernateSearchOutboxPollingInGraalIT.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/coordination/outboxpolling/TestResources.class
