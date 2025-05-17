@@ -1,0 +1,9 @@
+io/quarkus/it/infinispan/cache/jpa/InfinispanCacheJPAFunctionalityTestEndpoint.class
+io/quarkus/it/infinispan/cache/jpa/Person.class
+io/quarkus/it/infinispan/cache/jpa/Citizen.class
+io/quarkus/it/infinispan/cache/jpa/Trainer.class
+io/quarkus/it/infinispan/cache/jpa/Pokemon.class
+io/quarkus/it/infinispan/cache/jpa/InfinispanCacheJPAFunctionalityTestEndpoint$Counts.class
+io/quarkus/it/infinispan/cache/jpa/Person$Comparator.class
+io/quarkus/it/infinispan/cache/jpa/Item.class
+io/quarkus/it/infinispan/cache/jpa/Country.class

@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/main/java/io/quarkus/it/elytron/KeyFactoryEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/main/java/io/quarkus/it/elytron/X500PrincipalEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/main/java/io/quarkus/it/elytron/X500PrincipalUtilUser.java

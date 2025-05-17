@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/DialectInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/DialectTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/DummyTransactionalService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/JPAFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-h2/src/test/java/io/quarkus/it/jpa/h2/TransactionConfigurationTest.java
