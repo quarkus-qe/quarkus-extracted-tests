@@ -1,0 +1,4 @@
+io/quarkus/narayana/jta/TransactionalResource.class
+io/quarkus/narayana/jta/TransactionBeanWithEvents$1.class
+io/quarkus/narayana/jta/TransactionScopedBean.class
+io/quarkus/narayana/jta/TransactionBeanWithEvents.class

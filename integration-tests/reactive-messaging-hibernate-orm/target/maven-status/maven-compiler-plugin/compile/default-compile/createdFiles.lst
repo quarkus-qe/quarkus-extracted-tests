@@ -1,0 +1,10 @@
+io/quarkus/it/kafka/fruit/Fruit.class
+io/quarkus/it/kafka/fruit/FruitProducer.class
+io/quarkus/it/kafka/people/PeopleProducer.class
+io/quarkus/it/kafka/people/PeopleState.class
+io/quarkus/it/kafka/people/Person.class
+io/quarkus/it/kafka/fruit/FruitDto.class
+io/quarkus/it/kafka/pet/PetProducer.class
+io/quarkus/it/kafka/pet/Pet.class
+io/quarkus/it/kafka/KafkaReceivers.class
+io/quarkus/it/kafka/KafkaEndpoint.class

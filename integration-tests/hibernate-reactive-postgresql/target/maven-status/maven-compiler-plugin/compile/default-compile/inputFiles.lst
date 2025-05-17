@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/FriesianCow.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/GuineaPig.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointFetchLazy.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointJoinedSubclass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/lazy/Author.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-postgresql/src/main/java/io/quarkus/it/hibernate/reactive/postgresql/lazy/Book.java
