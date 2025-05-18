@@ -1,0 +1,7 @@
+io/quarkus/it/micrometer/mpmetrics/InjectedInstance.class
+io/quarkus/it/micrometer/mpmetrics/MessageResource.class
+io/quarkus/it/micrometer/mpmetrics/PrimeResource.class
+io/quarkus/it/micrometer/mpmetrics/RenameMeterFilterProducer$1.class
+io/quarkus/it/micrometer/mpmetrics/CountedInstance.class
+io/quarkus/it/micrometer/mpmetrics/RenameMeterFilterProducer.class
+io/quarkus/it/micrometer/mpmetrics/InjectedInstance$1.class

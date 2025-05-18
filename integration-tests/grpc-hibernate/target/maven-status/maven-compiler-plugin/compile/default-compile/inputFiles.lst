@@ -1,0 +1,17 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/ContextChecker.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/Item.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/ItemDao.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/RawTestService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/RequestScopeBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/src/main/java/com/example/grpc/hibernate/TestService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/MutinyTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/MutinyTestRawGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/Test.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestOuterClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestRaw.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestRawBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestRawClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate/target/generated-sources/grpc/com/example/test/TestRawGrpc.java

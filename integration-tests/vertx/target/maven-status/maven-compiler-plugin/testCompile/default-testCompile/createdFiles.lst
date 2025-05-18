@@ -1,0 +1,12 @@
+io/quarkus/it/vertx/VerticleTest.class
+io/quarkus/it/vertx/JsonWriterIT.class
+io/quarkus/it/vertx/faulttolerance/VertxRetryFallbackTest.class
+io/quarkus/it/vertx/EventBusTest.class
+io/quarkus/it/vertx/VerticleIT.class
+io/quarkus/it/vertx/JsonReaderTest.class
+io/quarkus/it/vertx/VertxProducerResourceTest.class
+io/quarkus/it/vertx/JsonWriterTest.class
+io/quarkus/it/vertx/VertxProducerResourceIT.class
+io/quarkus/it/vertx/VerticleTest$1.class
+io/quarkus/it/vertx/EventBusIT.class
+io/quarkus/it/vertx/JsonReaderIT.class

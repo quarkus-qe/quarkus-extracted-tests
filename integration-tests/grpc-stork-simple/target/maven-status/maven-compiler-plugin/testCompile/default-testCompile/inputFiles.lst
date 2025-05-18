@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldNewServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-simple/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldNewServiceTest.java

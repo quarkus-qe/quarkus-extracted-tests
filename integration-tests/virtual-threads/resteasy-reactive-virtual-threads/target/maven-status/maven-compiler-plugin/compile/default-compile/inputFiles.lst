@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/Counter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/FilteredResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/Filters.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/IResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/IResourceOnClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/MyResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/MyResourceWithVTOnClass.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/ResourceImpl.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/resteasy-reactive-virtual-threads/src/main/java/io/quarkus/virtual/rr/ResourceOnClassImpl.java
