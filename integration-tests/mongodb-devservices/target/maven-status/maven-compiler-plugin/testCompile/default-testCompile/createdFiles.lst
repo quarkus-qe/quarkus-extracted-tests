@@ -1,0 +1,14 @@
+io/quarkus/it/mongodb/Utils$3.class
+io/quarkus/it/mongodb/BookResourceWithParameterInjectionTest.class
+io/quarkus/it/mongodb/NativeBookResourceWithParameterInjectionIT.class
+io/quarkus/it/mongodb/Utils$2.class
+io/quarkus/it/mongodb/Utils$1.class
+io/quarkus/it/mongodb/NativeBookResourceIT.class
+io/quarkus/it/mongodb/OtherProfileBookResourceTest.class
+io/quarkus/it/mongodb/BookResourceTest.class
+io/quarkus/it/mongodb/OtherProfileBookResourceIT.class
+io/quarkus/it/mongodb/Utils$5.class
+io/quarkus/it/mongodb/DummyTestProfile.class
+io/quarkus/it/mongodb/Utils$4.class
+io/quarkus/it/mongodb/DevServicesStartTest.class
+io/quarkus/it/mongodb/Utils.class

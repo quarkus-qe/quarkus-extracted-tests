@@ -1,0 +1,6 @@
+io/quarkus/it/kafka/KafkaProducerITCase.class
+io/quarkus/it/kafka/KafkaCodecTest.class
+io/quarkus/it/kafka/KafkaProducerTest.class
+io/quarkus/it/kafka/KafkaConsumerITCase.class
+io/quarkus/it/kafka/KafkaConsumerTest.class
+io/quarkus/it/kafka/KafkaCodecITCase.class

@@ -1,0 +1,10 @@
+com/example/grpc/exc/LegacyHelloGrpcServiceTestBase.class
+com/example/grpc/exc/VertxSmallryeHelloGrpcServiceTest.class
+com/example/grpc/exc/VertxLegacyHelloGrpcServiceTest.class
+com/example/grpc/exc/LegacyHelloGrpcServiceTest.class
+com/example/grpc/exc/SmallryeHelloGrpcServiceTestBase.class
+com/example/grpc/exc/N2OLegacyHelloGrpcServiceTest.class
+com/example/grpc/exc/O2NLegacyHelloGrpcServiceTest.class
+com/example/grpc/exc/N2OSmallryeHelloGrpcServiceTest.class
+com/example/grpc/exc/SmallryeHelloGrpcServiceTest.class
+com/example/grpc/exc/O2NSmallryeHelloGrpcServiceTest.class
