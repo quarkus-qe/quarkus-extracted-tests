@@ -1,0 +1,11 @@
+io/quarkus/it/opentelemetry/quartz/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/quartz/FailedJobDefinitionScheduler.class
+io/quarkus/it/opentelemetry/quartz/CountResource.class
+io/quarkus/it/opentelemetry/quartz/ExporterResource.class
+io/quarkus/it/opentelemetry/quartz/JobDefinitionCounter.class
+io/quarkus/it/opentelemetry/quartz/FailedManualScheduler.class
+io/quarkus/it/opentelemetry/quartz/FailedBasicScheduler.class
+io/quarkus/it/opentelemetry/quartz/Counter.class
+io/quarkus/it/opentelemetry/quartz/ManualScheduledCounter$CountingJob.class
+io/quarkus/it/opentelemetry/quartz/ManualScheduledCounter.class
+io/quarkus/it/opentelemetry/quartz/FailedManualScheduler$CountingJob.class

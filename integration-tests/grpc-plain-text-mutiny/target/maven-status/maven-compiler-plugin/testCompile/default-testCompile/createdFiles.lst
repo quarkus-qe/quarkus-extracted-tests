@@ -1,0 +1,12 @@
+io/quarkus/grpc/examples/hello/GrpcMockTest$BeanCallingservice.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldServiceTestBase.class
+io/quarkus/grpc/examples/hello/HelloWorldEndpointTestBase.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldEndpointIT.class
+io/quarkus/grpc/examples/hello/HelloWorldServiceIT.class
+io/quarkus/grpc/examples/hello/HelloWorldEndpointIT.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldServiceIT.class
+io/quarkus/grpc/examples/hello/GrpcMockTest.class
+io/quarkus/grpc/examples/hello/HelloWorldServiceTest.class
+io/quarkus/grpc/examples/hello/VertxHelloWorldServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldEndpointTest.class

@@ -1,0 +1,9 @@
+io/quarkus/it/picocli/EntryWithVersionCommand.class
+io/quarkus/it/picocli/ConfigFromParseResult.class
+io/quarkus/it/picocli/GoodbyeCommand.class
+io/quarkus/it/picocli/ExitCodeCommand.class
+io/quarkus/it/picocli/NamedCommand.class
+io/quarkus/it/picocli/VersionProvider.class
+io/quarkus/it/picocli/HelloCommand.class
+io/quarkus/it/picocli/EntryCommand.class
+io/quarkus/it/picocli/ParsedCommand.class

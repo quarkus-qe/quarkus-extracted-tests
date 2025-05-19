@@ -1,0 +1,7 @@
+cmd=""
+if [[ "$DOCKER_HOST" == *podman* ]]; then
+    cmd="podman"
+else
+    cmd="docker"
+fi
+$cmd ps --format "$cmd stop {{.ID}} || true;$cmd rm {{.ID}} || true;" | bash
