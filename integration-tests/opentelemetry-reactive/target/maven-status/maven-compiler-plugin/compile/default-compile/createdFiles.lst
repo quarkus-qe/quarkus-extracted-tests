@@ -1,0 +1,7 @@
+io/quarkus/it/opentelemetry/reactive/ExporterResource.class
+io/quarkus/it/opentelemetry/reactive/EndUserResource.class
+io/quarkus/it/opentelemetry/reactive/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/reactive/ReactiveRestClient.class
+io/quarkus/it/opentelemetry/reactive/ReactiveResource.class
+io/quarkus/it/opentelemetry/reactive/CustomSecurityIdentityAugmentor.class
+io/quarkus/it/opentelemetry/reactive/SecuredResource.class

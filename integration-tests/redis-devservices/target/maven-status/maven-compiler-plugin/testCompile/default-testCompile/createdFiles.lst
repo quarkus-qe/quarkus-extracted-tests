@@ -1,0 +1,6 @@
+io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortProfile.class
+io/quarkus/redis/devservices/it/DevServicesRedisITest.class
+io/quarkus/redis/devservices/it/profiles/DevServiceRedis.class
+io/quarkus/redis/devservices/it/DevServicesRedisCustomPortITest.class
+io/quarkus/redis/devservices/it/utils/SocketKit.class
+io/quarkus/redis/devservices/it/profiles/DevServicesDisabledProfile.class

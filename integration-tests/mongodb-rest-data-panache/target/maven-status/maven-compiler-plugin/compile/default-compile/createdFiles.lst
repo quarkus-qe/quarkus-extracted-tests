@@ -1,0 +1,6 @@
+io/quarkus/it/mongodb/rest/data/panache/BookRepository.class
+io/quarkus/it/mongodb/rest/data/panache/Book.class
+io/quarkus/it/mongodb/rest/data/panache/Author.class
+io/quarkus/it/mongodb/rest/data/panache/AuthorsResource.class
+io/quarkus/it/mongodb/rest/data/panache/TestResource.class
+io/quarkus/it/mongodb/rest/data/panache/BooksResource.class
