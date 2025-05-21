@@ -1,0 +1,7 @@
+io/quarkus/it/jaxb/JaxbResource.class
+io/quarkus/it/jaxb/BookIBANField.class
+io/quarkus/it/jaxb/Response.class
+io/quarkus/it/jaxb/BaseObj.class
+io/quarkus/it/jaxb/BookWithParent.class
+io/quarkus/it/jaxb/ExtensionOfBaseObj.class
+io/quarkus/it/jaxb/Book.class

@@ -1,0 +1,15 @@
+io/quarkus/it/keycloak/UsersResource$ProperCaseFunction.class
+io/quarkus/it/keycloak/ProtectedResource$1.class
+io/quarkus/it/keycloak/ProtectedTenantResource.class
+io/quarkus/it/keycloak/SnakeCaseObjectMapperCustomizer.class
+io/quarkus/it/keycloak/ProtectedScopeResource.class
+io/quarkus/it/keycloak/PublicResource.class
+io/quarkus/it/keycloak/DynamicTenantPolicyConfigResolver.class
+io/quarkus/it/keycloak/UsersResource$User.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/ProtectedScopeResource$2.class
+io/quarkus/it/keycloak/UsersResource.class
+io/quarkus/it/keycloak/ProtectedWebAppTenantResource.class
+io/quarkus/it/keycloak/AdminClientResource.class
+io/quarkus/it/keycloak/ProtectedScopeResource$1.class
+io/quarkus/it/keycloak/ProtectedResource2.class
