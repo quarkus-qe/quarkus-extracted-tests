@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/GenerateAllLogUsages.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/GeneratedBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingInterface.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingWithPanacheDevModeTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingWithPanacheGeneratedTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingWithPanacheTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/LoggingWithoutQuarkusTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/logging-panache/src/test/java/io/quarkus/logging/NoStackTraceTestException.java
