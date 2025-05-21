@@ -1,0 +1,16 @@
+io/quarkus/it/logging/minlevel/set/Asserts.class
+io/quarkus/it/logging/minlevel/set/LoggingFilterTest.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelPromoteSubTest.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelBelowChildIT.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelPromoteSubIT.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelAboveTest.class
+io/quarkus/it/logging/minlevel/set/SetRuntimeLogLevels.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelAboveIT.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelPromoteIT.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelPromoteTest.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelBelowIT.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelByDefaultTest.class
+io/quarkus/it/logging/minlevel/set/Asserts$AssertThrowable.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelBelowTest.class
+io/quarkus/it/logging/minlevel/set/NativeLoggingMinLevelByDefaultIT.class
+io/quarkus/it/logging/minlevel/set/LoggingMinLevelBelowChildTest.class
