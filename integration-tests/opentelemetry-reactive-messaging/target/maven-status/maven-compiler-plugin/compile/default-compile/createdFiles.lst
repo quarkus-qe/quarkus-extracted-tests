@@ -1,0 +1,9 @@
+io/quarkus/it/opentelemetry/SpanExporterProvider.class
+io/quarkus/it/opentelemetry/output/SpanDataSerializer.class
+io/quarkus/it/opentelemetry/TracedKafkaProcessor.class
+io/quarkus/it/opentelemetry/TraceData.class
+io/quarkus/it/opentelemetry/TracedService.class
+io/quarkus/it/opentelemetry/ExporterResource.class
+io/quarkus/it/opentelemetry/TracedKafkaConsumer.class
+io/quarkus/it/opentelemetry/SimpleResource.class
+io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.class

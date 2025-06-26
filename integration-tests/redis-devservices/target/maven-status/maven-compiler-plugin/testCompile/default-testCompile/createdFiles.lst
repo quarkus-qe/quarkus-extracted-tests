@@ -1,0 +1,15 @@
+io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortReusableServiceProfile.class
+io/quarkus/redis/devservices/it/DevServicesRedisNonUniquePortITest.class
+io/quarkus/redis/devservices/it/DevServicesRedisRandomPortITest.class
+io/quarkus/redis/devservices/it/utils/SocketKit.class
+io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortProfile.class
+io/quarkus/redis/devservices/continuoustesting/it/DevServicesRedisContinuousTestingTest.class
+io/quarkus/redis/devservices/it/PlainQuarkusTest.class
+io/quarkus/test/devservices/redis/BundledResource.class
+io/quarkus/redis/devservices/it/DevServicesRedisITest.class
+io/quarkus/redis/devservices/it/profiles/DevServicesNonUniquePortProfile.class
+io/quarkus/redis/devservices/it/profiles/DevServicesDisabledProfile.class
+io/quarkus/redis/devservices/it/profiles/DevServicesRandomPortProfile.class
+io/quarkus/redis/devservices/it/profiles/DevServiceRedis.class
+io/quarkus/redis/devservices/it/DevServicesRedisCustomPortReusableServiceITest.class
+io/quarkus/redis/devservices/it/DevServicesRedisCustomPortITest.class
