@@ -1,0 +1,15 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/continuoustesting/it/DevServicesRedisContinuousTestingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisCustomPortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisCustomPortReusableServiceITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisNonUniquePortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/DevServicesRedisRandomPortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/PlainQuarkusTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServiceRedis.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesCustomPortReusableServiceProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesDisabledProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesNonUniquePortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/profiles/DevServicesRandomPortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/redis/devservices/it/utils/SocketKit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-devservices/src/test/java/io/quarkus/test/devservices/redis/BundledResource.java

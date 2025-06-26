@@ -1,0 +1,5 @@
+io/quarkus/it/jpa/mysql/JPAFunctionalityTest.class
+io/quarkus/it/jpa/mysql/XaConnectionInGraalITCase.class
+io/quarkus/it/jpa/mysql/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/mysql/XaConnectionTest.class
+io/quarkus/it/jpa/mysql/JPAFunctionalityInGraalITCase.class
