@@ -1,0 +1,5 @@
+io/quarkus/it/jpa/mariadb/DialectInGraalITCase.class
+io/quarkus/it/jpa/mariadb/DialectTest.class
+io/quarkus/it/jpa/mariadb/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/mariadb/JPAFunctionalityTest.class
+io/quarkus/it/jpa/mariadb/JPAFunctionalityInGraalITCase.class

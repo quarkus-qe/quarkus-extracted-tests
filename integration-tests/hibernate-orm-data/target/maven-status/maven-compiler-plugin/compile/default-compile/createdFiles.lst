@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/jpamodelgen/data/MyEntity_.class
+io/quarkus/it/hibernate/jpamodelgen/data/MyEntity.class
+io/quarkus/it/hibernate/jpamodelgen/data/_MyEntity.class
+io/quarkus/it/hibernate/jpamodelgen/data/MyRepository_.class
+io/quarkus/it/hibernate/jpamodelgen/data/MyEntityResource.class
+io/quarkus/it/hibernate/jpamodelgen/data/MyRepository.class
