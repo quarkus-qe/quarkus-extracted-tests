@@ -1,0 +1,8 @@
+io/quarkus/jfr/it/JfrTestException.class
+io/quarkus/jfr/it/IdResponse.class
+io/quarkus/jfr/it/JfrResource.class
+io/quarkus/jfr/it/AppResource.class
+io/quarkus/jfr/it/TraceIdExceptionMapper.class
+io/quarkus/jfr/it/RequestIdResource.class
+io/quarkus/jfr/it/JfrResource$RestEvent.class
+io/quarkus/jfr/it/JfrResource$JfrRestEventResponse.class
