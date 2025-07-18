@@ -1,0 +1,13 @@
+io/quarkus/narayana/jta/BaseTransactionTest.class
+io/quarkus/narayana/jta/TransactionalITCase.class
+io/quarkus/narayana/jta/TransactionScopeQuarkusTransactionBeginCommitTest.class
+io/quarkus/narayana/jta/TransactionScopeUserTransactionTest.class
+io/quarkus/narayana/jta/TransactionScopeTransactionalTest.class
+io/quarkus/narayana/jta/JdbcObjectStoreTestProfile.class
+io/quarkus/narayana/jta/TransactionConfPropTest.class
+io/quarkus/narayana/jta/TransactionConfPropTest$2.class
+io/quarkus/narayana/jta/TransactionJdbcObjectStoreTest.class
+io/quarkus/narayana/jta/TransactionConfPropTest$1.class
+io/quarkus/narayana/jta/TransactionScopeQuarkusTransactionRunnerTest.class
+io/quarkus/narayana/jta/TransactionalTestCase.class
+io/quarkus/narayana/jta/TransactionJdbcObjectStoreIT.class

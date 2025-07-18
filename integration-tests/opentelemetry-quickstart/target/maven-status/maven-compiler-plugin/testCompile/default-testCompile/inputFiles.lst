@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/test/java/io/quarkus/it/opentelemetry/BaseTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryDisabledIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryDisabledTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-quickstart/src/test/java/io/quarkus/it/opentelemetry/OpenTelemetryTest.java
