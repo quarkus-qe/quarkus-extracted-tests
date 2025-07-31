@@ -1,0 +1,2 @@
+io/quarkus/it/hibernate/jpamodelgen/data/HibernateOrmDataTest.class
+io/quarkus/it/hibernate/jpamodelgen/data/HibernateOrmDataInGraalIT.class
