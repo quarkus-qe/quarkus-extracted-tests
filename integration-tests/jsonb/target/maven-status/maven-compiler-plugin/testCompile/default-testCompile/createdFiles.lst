@@ -1,0 +1,3 @@
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnFieldResourceTest.class
+io/quarkus/it/jsonb/JsonInStaticBlockTestCase.class
+io/quarkus/it/jsonb/ModelWithSerializerAndDeserializerOnFieldResourceIT.class

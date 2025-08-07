@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/main/java/io/quarkus/it/resteasy/reactive/elytron/AuthenticationFailedExceptionMapper.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/main/java/io/quarkus/it/resteasy/reactive/elytron/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/main/java/io/quarkus/it/resteasy/reactive/elytron/FruitResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/main/java/io/quarkus/it/resteasy/reactive/elytron/ManagerPermission.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/main/java/io/quarkus/it/resteasy/reactive/elytron/RootResource.java

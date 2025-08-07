@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/BeanRegisteringRoute.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/FilterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/HeaderResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/HelloResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/MyCredentialProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/NettyEventLoopResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/NoManagementInterfaceRoute.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/SimpleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/UploadRoute.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx-http/src/main/java/io/quarkus/it/vertx/VertxProducerResource.java

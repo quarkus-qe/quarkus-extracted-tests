@@ -1,0 +1,3 @@
+io/quarkus/grpc/example/streaming/VirtualThreadTestBase.class
+io/quarkus/grpc/example/streaming/VirtualThreadTest.class
+io/quarkus/grpc/example/streaming/VertxVirtualThreadTest.class
