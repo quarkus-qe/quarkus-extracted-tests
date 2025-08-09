@@ -1,0 +1,10 @@
+io/quarkus/it/kafka/FlowerResource.class
+io/quarkus/it/kafka/OutgoingInterceptor.class
+io/quarkus/it/kafka/contextual/FlowerContextualResource.class
+io/quarkus/it/kafka/RequestBean.class
+io/quarkus/it/kafka/contextual/FlowersContextualReceivers.class
+io/quarkus/it/kafka/FlowerReceivers.class
+io/quarkus/it/kafka/contextual/FlowerMutinyResource.class
+io/quarkus/it/kafka/contextual/FlowersMutinyReceivers.class
+io/quarkus/it/kafka/FlowerConsumers.class
+io/quarkus/it/kafka/FlowerProducer.class

@@ -1,0 +1,4 @@
+io/quarkus/it/jpa/derby/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/derby/JPAFunctionalityTest.class
+io/quarkus/it/jpa/derby/JPAFunctionalityInGraalITCase.class
+io/quarkus/it/jpa/derby/TestResources.class
