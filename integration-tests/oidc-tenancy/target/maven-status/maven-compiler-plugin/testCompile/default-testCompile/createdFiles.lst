@@ -1,0 +1,15 @@
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$StepUpAuthClassLevelResource.class
+io/quarkus/it/keycloak/ServicePublicKeyTestCase.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest.class
+io/quarkus/it/keycloak/TestSecurityCombiningAuthMechTest.class
+io/quarkus/it/keycloak/AnnotationBasedTenantTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$StepUpAuthMethodLevelResource.class
+io/quarkus/it/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$TenantAnnotationNoOidcServerStepUpAuthResource.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$TenantAnnotationStepUpAuthResource.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest$1.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$StepUpAuthTestProfile.class
+io/quarkus/it/keycloak/BearerTokenStepUpAuthenticationTest$WebSocketEndpointWithTenantAnnotationAndAuthCtx.class

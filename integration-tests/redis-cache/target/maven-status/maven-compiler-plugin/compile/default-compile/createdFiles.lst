@@ -1,0 +1,7 @@
+io/quarkus/it/cache/redis/ExpensiveResource.class
+io/quarkus/it/cache/redis/ExpensiveResource$ExpensiveResponse.class
+io/quarkus/it/cache/redis/RestClientResource$2.class
+io/quarkus/it/cache/redis/SunriseRestServerResource.class
+io/quarkus/it/cache/redis/RestClientResource$1.class
+io/quarkus/it/cache/redis/SunriseRestClient.class
+io/quarkus/it/cache/redis/RestClientResource.class

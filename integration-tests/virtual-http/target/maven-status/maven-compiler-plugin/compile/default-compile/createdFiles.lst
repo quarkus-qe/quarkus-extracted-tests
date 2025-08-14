@@ -1,0 +1,4 @@
+io/quarkus/it/virtual/GreetingServlet.class
+io/quarkus/it/virtual/GreetingResource.class
+io/quarkus/it/virtual/GreetingVertx.class
+io/quarkus/it/virtual/FunqyGreeting.class

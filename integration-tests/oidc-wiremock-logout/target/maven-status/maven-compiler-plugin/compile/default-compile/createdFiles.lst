@@ -1,0 +1,4 @@
+io/quarkus/it/keycloak/CodeFlowFormPostResource.class
+io/quarkus/it/keycloak/DynamicTenantsCodeFlowFormPostResource.class
+io/quarkus/it/keycloak/SecurityEventListener.class
+io/quarkus/it/keycloak/DynamicTenantConfigResolver.class
