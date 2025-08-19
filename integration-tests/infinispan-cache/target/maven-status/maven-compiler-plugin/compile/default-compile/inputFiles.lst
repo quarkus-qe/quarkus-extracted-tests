@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-cache/src/main/java/io/quarkus/it/cache/infinispan/ExpensiveResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-cache/src/main/java/io/quarkus/it/cache/infinispan/RestClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-cache/src/main/java/io/quarkus/it/cache/infinispan/SunriseRestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-cache/src/main/java/io/quarkus/it/cache/infinispan/SunriseRestServerResource.java

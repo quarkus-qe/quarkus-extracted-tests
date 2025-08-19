@@ -1,0 +1,4 @@
+io/quarkus/io/smallrye/graphql/client/LuckyNumbersClientApiWithConfigKey.class
+io/quarkus/io/smallrye/graphql/client/LuckyNumbersClientApi.class
+io/quarkus/io/smallrye/graphql/client/LuckyNumbersResource.class
+io/quarkus/io/smallrye/graphql/client/GraphQLClientTester.class
