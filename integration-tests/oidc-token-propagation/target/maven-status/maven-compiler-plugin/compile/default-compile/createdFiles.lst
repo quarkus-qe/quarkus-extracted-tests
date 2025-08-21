@@ -1,0 +1,7 @@
+io/quarkus/it/keycloak/CustomAccessTokenRequestFilter.class
+io/quarkus/it/keycloak/ServiceAccountService.class
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/JwtTokenPropagationService.class
+io/quarkus/it/keycloak/AccessTokenPropagationService.class
+io/quarkus/it/keycloak/OidcConfigSource.class
+io/quarkus/it/keycloak/ProtectedResource.class

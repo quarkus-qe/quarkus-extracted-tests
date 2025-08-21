@@ -1,0 +1,5 @@
+io/quarkus/it/rest/reactive/stork/RestClientReactiveStorkTest.class
+io/quarkus/it/rest/reactive/stork/RestClientReactiveStorkIT.class
+io/quarkus/it/rest/reactive/stork/FastWiremockServer.class
+io/quarkus/it/rest/reactive/stork/SlowWiremockServer.class
+io/quarkus/it/rest/reactive/stork/WiremockBase.class
