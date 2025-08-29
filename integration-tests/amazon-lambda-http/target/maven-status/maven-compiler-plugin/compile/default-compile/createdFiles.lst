@@ -1,0 +1,7 @@
+io/quarkus/it/amazon/lambda/FunqyGreeting.class
+io/quarkus/it/amazon/lambda/GreetingVertx.class
+io/quarkus/it/amazon/lambda/GreetingResource.class
+io/quarkus/it/amazon/lambda/SecurityServlet.class
+io/quarkus/it/amazon/lambda/SecurityCheckResource.class
+io/quarkus/it/amazon/lambda/GreetingServlet.class
+io/quarkus/it/amazon/lambda/SecurityCheckVertx.class
