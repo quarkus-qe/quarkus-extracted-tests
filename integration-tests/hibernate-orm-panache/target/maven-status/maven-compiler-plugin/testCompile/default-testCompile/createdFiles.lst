@@ -1,0 +1,17 @@
+DefaultPackageWithFastJarPMT.class
+io/quarkus/it/panache/defaultpu/PanacheMockingTest.class
+io/quarkus/it/panache/defaultpu/MockPersonRepository.class
+PackagelessCat.class
+io/quarkus/it/panache/defaultpu/PanacheRepositoryBaseTest.class
+io/quarkus/it/panache/defaultpu/TestResources.class
+io/quarkus/it/panache/defaultpu/PanacheFunctionalityInGraalITCase.class
+io/quarkus/it/panache/defaultpu/PanacheFunctionalityTest.class
+io/quarkus/it/panache/defaultpu/TestTransactionOnSingleMethodTest.class
+io/quarkus/it/panache/defaultpu/NoPagingPMT.class
+io/quarkus/it/panache/custompu/SmokeTest.class
+io/quarkus/it/panache/defaultpu/DuplicateMethodTest.class
+io/quarkus/it/panache/defaultpu/JacksonTest.class
+io/quarkus/it/panache/defaultpu/DDLGenerationPMT.class
+io/quarkus/it/panache/defaultpu/TransactionalPanacheEntityTest.class
+io/quarkus/it/panache/defaultpu/TestTransactionTest.class
+io/quarkus/it/panache/defaultpu/TransactionalRepositoryTest.class

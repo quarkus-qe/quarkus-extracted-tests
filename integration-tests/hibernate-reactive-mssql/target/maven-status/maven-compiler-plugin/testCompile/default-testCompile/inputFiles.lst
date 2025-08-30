@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-mssql/src/test/java/io/quarkus/it/hibernate/reactive/mssql/DialectInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-mssql/src/test/java/io/quarkus/it/hibernate/reactive/mssql/DialectTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-mssql/src/test/java/io/quarkus/it/hibernate/reactive/mssql/HibernateReactiveMSSQLInGraalIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-reactive-mssql/src/test/java/io/quarkus/it/hibernate/reactive/mssql/HibernateReactiveMSSQLTest.java

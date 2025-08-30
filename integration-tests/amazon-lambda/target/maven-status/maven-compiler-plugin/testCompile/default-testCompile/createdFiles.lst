@@ -1,0 +1,6 @@
+io/quarkus/it/amazon/lambda/AmazonLambdaSimpleIT.class
+io/quarkus/it/amazon/lambda/AmazonLambdaEphemeralPortTestCase.class
+io/quarkus/it/amazon/lambda/AmazonLambdaWithProfileSimpleTestCase.class
+io/quarkus/it/amazon/lambda/AmazonLambdaSimpleTestCase.class
+io/quarkus/it/amazon/lambda/profiles/TrivialProfile.class
+io/quarkus/it/amazon/lambda/profiles/EphemeralPortProfile.class
