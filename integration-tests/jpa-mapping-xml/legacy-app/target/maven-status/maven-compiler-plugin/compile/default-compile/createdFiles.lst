@@ -1,0 +1,3 @@
+io/quarkus/it/jpa/mapping/xml/legacy/app/SchemaUtil.class
+io/quarkus/it/jpa/mapping/xml/legacy/app/LegacyAppResource.class
+io/quarkus/it/jpa/mapping/xml/legacy/app/SmokeTestUtils.class

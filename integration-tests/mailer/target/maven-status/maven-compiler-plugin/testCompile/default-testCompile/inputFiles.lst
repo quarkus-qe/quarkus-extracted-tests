@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailerIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailpitFullTlsTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/MailpitTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/Attachment.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/DetailedMessage.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/MailPitClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/Message.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/MessageSummary.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mailer/src/test/java/io/quarkus/it/mailer/mailpit/Recipient.java

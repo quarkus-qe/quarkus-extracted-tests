@@ -1,0 +1,5 @@
+io/quarkus/it/reactive/pg/client/HealthCheckIT.class
+io/quarkus/it/reactive/pg/client/NativeFruitsEndpointIT.class
+io/quarkus/it/reactive/pg/client/FruitsEndpointTest.class
+io/quarkus/it/reactive/pg/client/HealthCheckTest.class
+io/quarkus/it/reactive/pg/client/HotReloadFruitResource.class
