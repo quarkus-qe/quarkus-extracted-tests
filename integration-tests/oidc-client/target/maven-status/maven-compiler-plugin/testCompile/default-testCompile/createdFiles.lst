@@ -1,0 +1,5 @@
+io/quarkus/it/keycloak/OidcClientTest.class
+io/quarkus/it/keycloak/OidcClientTest$2.class
+io/quarkus/it/keycloak/OidcClientTest$1.class
+io/quarkus/it/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/keycloak/OidcClientInGraalITCase.class

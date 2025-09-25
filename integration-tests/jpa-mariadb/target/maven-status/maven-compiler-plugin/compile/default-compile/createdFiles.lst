@@ -1,0 +1,6 @@
+io/quarkus/it/jpa/mariadb/OfflineDialectDescriptor.class
+io/quarkus/it/jpa/mariadb/Address.class
+io/quarkus/it/jpa/mariadb/Person.class
+io/quarkus/it/jpa/mariadb/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/mariadb/OfflineDialectEndpoint.class
+io/quarkus/it/jpa/mariadb/DialectEndpoint.class
