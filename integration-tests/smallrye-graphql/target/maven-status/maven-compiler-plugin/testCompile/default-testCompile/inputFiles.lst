@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/ApplicationPropertiesOverrideIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/ApplicationPropertiesOverrideTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GraphQLAndFaultToleranceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GraphQLAndFaultToleranceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GreetingResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GreetingResourceTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GreetingsResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/GreetingsResourceTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/MicrometerMetricsIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/MicrometerMetricsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql/src/test/java/io/quarkus/it/smallrye/graphql/PayloadCreator.java

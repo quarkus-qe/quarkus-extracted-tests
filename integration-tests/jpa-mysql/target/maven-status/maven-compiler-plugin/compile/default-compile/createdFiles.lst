@@ -1,0 +1,4 @@
+io/quarkus/it/jpa/mysql/Address.class
+io/quarkus/it/jpa/mysql/XaConnectionsEndpoint.class
+io/quarkus/it/jpa/mysql/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/mysql/Person.class
