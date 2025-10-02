@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/ExceptionMapperTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/FruitResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/FruitResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/RootResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/RootResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy-reactive/src/test/java/io/quarkus/it/resteasy/reactive/elytron/Users.java
