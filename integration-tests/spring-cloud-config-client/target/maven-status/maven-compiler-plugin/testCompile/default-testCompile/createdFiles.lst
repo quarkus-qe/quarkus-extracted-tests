@@ -1,0 +1,5 @@
+io/quarkus/spring/cloud/config/client/runtime/CommonAndTestProfilesTest.class
+io/quarkus/spring/cloud/config/client/runtime/SpringCloudConfigClientIT.class
+io/quarkus/spring/cloud/config/client/runtime/SpringCloudConfigServerResource$SpringCloudConfigServerHandler.class
+io/quarkus/spring/cloud/config/client/runtime/OnlyTestProfileTest.class
+io/quarkus/spring/cloud/config/client/runtime/SpringCloudConfigServerResource.class
