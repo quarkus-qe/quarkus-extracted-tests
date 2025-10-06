@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-code-flow/src/test/java/io/quarkus/it/keycloak/CodeFlowInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-code-flow/src/test/java/io/quarkus/it/keycloak/CodeFlowTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-code-flow/src/test/java/io/quarkus/it/keycloak/KeycloakRealmResourceManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-code-flow/src/test/java/io/quarkus/it/keycloak/TestSecurityLazyAuthTest.java
