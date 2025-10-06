@@ -1,0 +1,3 @@
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpoint.class
+io/quarkus/it/hibernate/reactive/postgresql/FriesianCow.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateORMTestEndpoint.class
