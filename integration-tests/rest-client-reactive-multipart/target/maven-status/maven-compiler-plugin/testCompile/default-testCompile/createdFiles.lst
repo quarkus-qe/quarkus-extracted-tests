@@ -1,0 +1,4 @@
+io/quarkus/it/rest/client/multipart/JsonSerializationIT.class
+io/quarkus/it/rest/client/multipart/JsonSerializationTest.class
+io/quarkus/it/rest/client/multipart/MultipartResourceIT.class
+io/quarkus/it/rest/client/multipart/MultipartResourceTest.class
