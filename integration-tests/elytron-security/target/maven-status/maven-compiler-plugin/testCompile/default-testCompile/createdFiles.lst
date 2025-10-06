@@ -1,0 +1,4 @@
+io/quarkus/it/elytron/X500PrincipalUtilTestCase.class
+io/quarkus/it/elytron/X500PrincipalUtilITCase.class
+io/quarkus/it/elytron/JCATestCase.class
+io/quarkus/it/elytron/JCAITCase.class
