@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ClientRequestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ClientRequestTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ExampleResourcesIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ExampleResourcesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ExemplarOffTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/ExemplarTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/OtelOffProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/OtelOnProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/PrometheusMetricsRegistryIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/PrometheusMetricsRegistryTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-prometheus/src/test/java/io/quarkus/it/micrometer/prometheus/TestResources.java
