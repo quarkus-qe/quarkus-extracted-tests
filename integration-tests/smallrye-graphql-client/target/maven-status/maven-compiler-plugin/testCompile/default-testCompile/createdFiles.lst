@@ -1,0 +1,4 @@
+io/quarkus/it/smallrye/graphql/client/DynamicClientIT.class
+io/quarkus/it/smallrye/graphql/client/TypesafeClientTest.class
+io/quarkus/it/smallrye/graphql/client/DynamicClientTest.class
+io/quarkus/it/smallrye/graphql/client/TypesafeClientIT.class
