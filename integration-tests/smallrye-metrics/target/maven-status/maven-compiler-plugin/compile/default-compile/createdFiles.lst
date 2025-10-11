@@ -1,0 +1,7 @@
+io/quarkus/it/metrics/inheritance/InheritanceMetricsExtended.class
+io/quarkus/it/metrics/inheritance/InheritanceMetricsBase.class
+io/quarkus/it/metrics/MetricsResource.class
+io/quarkus/it/metrics/DummyGaugeNoReflectionAnnotation.class
+io/quarkus/it/metrics/DummyGauge.class
+io/quarkus/it/metrics/MetricsOnClassResource.class
+io/quarkus/it/metrics/inheritance/MetricsInheritanceResource.class

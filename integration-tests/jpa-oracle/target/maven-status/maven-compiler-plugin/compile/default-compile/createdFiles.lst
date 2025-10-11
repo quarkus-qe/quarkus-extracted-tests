@@ -1,0 +1,7 @@
+io/quarkus/example/jpaoracle/Person.class
+io/quarkus/example/jpaoracle/procedurecall/ProcedureCallEntity.class
+io/quarkus/example/jpaoracle/JPAFunctionalityTestEndpoint.class
+io/quarkus/example/jpaoracle/SequencedAddress.class
+io/quarkus/example/jpaoracle/LdapUrlTestEndpoint.class
+io/quarkus/example/jpaoracle/procedurecall/ProcedureCallEndpoint.class
+io/quarkus/example/jpaoracle/SerializationTestEndpoint.class
