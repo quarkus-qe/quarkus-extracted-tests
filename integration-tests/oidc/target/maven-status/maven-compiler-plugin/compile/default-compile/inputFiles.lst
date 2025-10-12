@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/AdminResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/AuthenticationEventResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/AuthenticationFailureEventListener.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/HelloResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/HelloResourceBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/IHelloResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/PermissionResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/ProtectedJwtResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/SecuredHelloWebSocket.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/UsersResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/main/java/io/quarkus/it/keycloak/VertxResource.java

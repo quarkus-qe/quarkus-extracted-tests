@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy/src/test/java/io/quarkus/it/resteasy/elytron/BaseAuthIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy/src/test/java/io/quarkus/it/resteasy/elytron/BaseAuthTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy/src/test/java/io/quarkus/it/resteasy/elytron/HttpPolicyAuthFailedExMapperTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-resteasy/src/test/java/io/quarkus/it/resteasy/elytron/TestSecurityTestCase.java
