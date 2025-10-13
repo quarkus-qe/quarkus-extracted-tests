@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-response-time/src/test/java/io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-response-time/src/test/java/io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-response-time/src/test/java/io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-response-time/src/test/java/io/quarkus/grpc/examples/stork/VertxGrpcStorkResponseTimeCollectionTest.java

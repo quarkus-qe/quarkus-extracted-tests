@@ -1,0 +1,10 @@
+io/quarkus/redis/it/RedisResourceWithNamedClient.class
+io/quarkus/redis/it/CustomCodecResource.class
+io/quarkus/redis/it/RedisWithParameterInjectionResource.class
+io/quarkus/redis/it/RedisResource.class
+io/quarkus/redis/it/RedisWithInstanceInjectionResource.class
+io/quarkus/redis/it/RedisWithProvidedHostsResource.class
+io/quarkus/redis/it/RedisLocalHostProvider.class
+io/quarkus/redis/it/RedisWithNamedClientResource.class
+io/quarkus/redis/it/Person.class
+io/quarkus/redis/it/PersonCodec.class
