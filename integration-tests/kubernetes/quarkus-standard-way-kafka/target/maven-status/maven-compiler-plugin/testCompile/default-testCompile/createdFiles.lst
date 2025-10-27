@@ -1,0 +1,5 @@
+io/quarkus/it/kubernetes/kafka/BasicMinikubeTest.class
+io/quarkus/it/kubernetes/kafka/BasicOpenshiftTest.class
+io/quarkus/it/kubernetes/kafka/BasicOpenshiftDeploymentConfigTest.class
+io/quarkus/it/kubernetes/kafka/DeserializationUtil.class
+io/quarkus/it/kubernetes/kafka/BasicKubernetesTest.class
