@@ -1,0 +1,13 @@
+io/quarkus/grpc/example/interceptors/HelloWorldServiceVertxTest.class
+io/quarkus/grpc/example/interceptors/HelloWorldServiceTestBase$1.class
+io/quarkus/grpc/example/interceptors/N2OHelloWorldEndpointTest.class
+io/quarkus/grpc/example/interceptors/HelloWorldEndpointIT.class
+io/quarkus/grpc/example/interceptors/HelloWorldServiceTest.class
+io/quarkus/grpc/example/interceptors/HelloWorldEndpointTestBase.class
+io/quarkus/grpc/example/interceptors/O2NHelloWorldEndpointTest.class
+io/quarkus/grpc/example/interceptors/VertxHelloWorldEndpointTest.class
+io/quarkus/grpc/example/interceptors/HelloWorldServiceTestBase.class
+io/quarkus/grpc/example/interceptors/HelloWorldEndpointTest.class
+io/quarkus/grpc/example/interceptors/N2OHelloWorldEndpointIT.class
+io/quarkus/grpc/example/interceptors/O2NHelloWorldEndpointIT.class
+io/quarkus/grpc/example/interceptors/VertxHelloWorldEndpointIT.class
