@@ -15,6 +15,7 @@ jobs:
           java-version: 21
           check-latest: true
           cache: 'maven'
+      - uses: ./.github/actions/use-docker-mirror
       - name: Detect OS Architecture
         id: detect-os-arch
         run: |

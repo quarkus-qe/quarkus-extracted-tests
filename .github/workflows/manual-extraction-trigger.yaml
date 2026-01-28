@@ -16,6 +16,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 21
+      - uses: ./.github/actions/use-docker-mirror
       - uses: ./.github/actions/extract-tests
         with:
           tag: ${{ github.event.inputs.release_tag }}
