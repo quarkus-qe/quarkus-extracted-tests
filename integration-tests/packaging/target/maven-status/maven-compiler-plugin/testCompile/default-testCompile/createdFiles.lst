@@ -1,0 +1,10 @@
+io/quarkus/maven/NoCustomManifestSectionsUberJarTest.class
+io/quarkus/removedclasses/RemovedResourceFastJarTest.class
+io/quarkus/maven/CustomManifestSectionsThinJarTest.class
+io/quarkus/removedclasses/AbstractRemovedResourceTest.class
+io/quarkus/maven/CustomManifestEntriesThinJarTest.class
+io/quarkus/removedclasses/RemovedResourceUberJarTest.class
+io/quarkus/removedclasses/RemovedResourceLegacyJarTest.class
+io/quarkus/maven/CustomManifestSectionsUberJarTest.class
+io/quarkus/maven/CustomManifestEntriesUberJarTest.class
+io/quarkus/maven/NoCustomManifestSectionsThinJarTest.class

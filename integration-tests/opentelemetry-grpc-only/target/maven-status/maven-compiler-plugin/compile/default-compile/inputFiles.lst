@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/src/main/java/io/quarkus/it/opentelemetry/grpc/HelloGrpcService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloGrpcBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloGrpcClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloGrpcGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloGrpcProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc-only/target/generated-sources/grpc/org/acme/MutinyHelloGrpcGrpc.java

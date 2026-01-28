@@ -1,0 +1,4 @@
+io/quarkus/it/reactive/mysql/client/FruitsEndpointTest.class
+io/quarkus/it/reactive/mysql/client/NativeFruitsEndpointIT.class
+io/quarkus/it/reactive/mysql/client/HealthCheckTest.class
+io/quarkus/it/reactive/mysql/client/HealthCheckIT.class

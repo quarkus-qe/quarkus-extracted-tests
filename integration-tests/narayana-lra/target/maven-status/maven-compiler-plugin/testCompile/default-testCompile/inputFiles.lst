@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-lra/src/test/java/org/acme/quickstart/lra/AppTestProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-lra/src/test/java/org/acme/quickstart/lra/LRAParticipantTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-lra/src/test/java/org/acme/quickstart/lra/LRAParticipantTestNativeIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-lra/src/test/java/org/acme/quickstart/lra/LRAParticipantTestResourceLifecycle.java

@@ -1,0 +1,4 @@
+io/quarkus/redis/it/HealthCheckIT.class
+io/quarkus/redis/it/HealthCheckTest.class
+io/quarkus/redis/it/QuarkusRedisIT.class
+io/quarkus/redis/it/QuarkusRedisTest.class
