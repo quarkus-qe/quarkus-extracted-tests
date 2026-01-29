@@ -1,0 +1,3 @@
+io/quarkus/it/hibernate/orm/rest/data/panache/TestResources.class
+io/quarkus/it/hibernate/orm/rest/data/panache/HibernateOrmRestDataPanacheTest.class
+io/quarkus/it/hibernate/orm/rest/data/panache/HibernateOrmRestDataPanacheIT.class

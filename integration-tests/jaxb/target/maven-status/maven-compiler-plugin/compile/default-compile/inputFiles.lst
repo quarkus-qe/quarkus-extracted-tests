@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/BaseObj.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/BookIBANField.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/BookWithParent.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/ExtensionOfBaseObj.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/JaxbResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jaxb/src/main/java/io/quarkus/it/jaxb/Response.java
