@@ -8,8 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - name: Install JDK {{ matrix.java }}
-        uses: actions/setup-java@v4
+      - name: Reclaim Disk Space
+        run: .github/ci-prerequisites.sh
+      - name: Install JDK 21
+        uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: 21
@@ -47,9 +49,11 @@ jobs:
                     "integration-tests-24", "integration-tests-25", "integration-tests-26"
         ]
     steps:
-      - uses: actions/checkout@v4
-      - name: Install JDK {{ matrix.java }}
-        uses: actions/setup-java@v4
+      - uses: actions/checkout@v6
+      - name: Reclaim Disk Space
+        run: .github/ci-prerequisites.sh
+      - name: Install JDK 21
+        uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: 21
@@ -69,9 +73,11 @@ jobs:
                     "integration-tests-11", "integration-tests-12", "integration-tests-13", "integration-tests-14", "integration-tests-15", "integration-tests-16", "integration-tests-17", "integration-tests-18", "integration-tests-19", "integration-tests-20", "integration-tests-21", "integration-tests-22",
                     "integration-tests-23", "integration-tests-24", "integration-tests-25", "integration-tests-26", "integration-tests-27", "integration-tests-28", "integration-tests-29", "integration-tests-30", "integration-tests-31", "integration-tests-32"]
     steps:
-      - uses: actions/checkout@v4
-      - name: Install JDK {{ matrix.java }}
-        uses: actions/setup-java@v4
+      - uses: actions/checkout@v6
+      - name: Reclaim Disk Space
+        run: .github/ci-prerequisites.sh
+      - name: Install JDK 21
+        uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: 21
