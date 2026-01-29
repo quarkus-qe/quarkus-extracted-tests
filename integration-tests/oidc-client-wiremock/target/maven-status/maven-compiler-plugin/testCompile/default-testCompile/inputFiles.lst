@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-wiremock/src/test/java/io/quarkus/it/keycloak/CibaAuthDeviceApprovalState.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-wiremock/src/test/java/io/quarkus/it/keycloak/InjectWireMock.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-wiremock/src/test/java/io/quarkus/it/keycloak/KeycloakRealmResourceManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-wiremock/src/test/java/io/quarkus/it/keycloak/OidcClientInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-wiremock/src/test/java/io/quarkus/it/keycloak/OidcClientTest.java
