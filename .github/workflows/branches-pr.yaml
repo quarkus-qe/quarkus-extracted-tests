@@ -4,7 +4,7 @@ on:
 jobs:
   validation:
     name: Builds project without running tests
-    if: ${{ ! contains(github.ref, 'main') }}
+    if: ${{ github.base_ref != 'main' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
