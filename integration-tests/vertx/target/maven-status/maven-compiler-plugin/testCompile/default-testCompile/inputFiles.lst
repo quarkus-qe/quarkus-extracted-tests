@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/EventBusIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/EventBusTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/JsonReaderIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/JsonReaderTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/JsonWriterIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/JsonWriterTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/VerticleIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/VerticleTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/VertxProducerResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/VertxProducerResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/test/java/io/quarkus/it/vertx/faulttolerance/VertxRetryFallbackTest.java
