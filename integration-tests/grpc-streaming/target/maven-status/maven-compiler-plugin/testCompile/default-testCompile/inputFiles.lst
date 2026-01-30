@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/LongStreamTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/LongStreamTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/N2OLongStreamTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/O2NLongStreamTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/StreamingEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/StreamingEndpointTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/StreamingServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/StreamingServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/VertxLongStreamTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/VertxStreamingEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-streaming/src/test/java/io/quarkus/grpc/example/streaming/VertxStreamingServiceTest.java

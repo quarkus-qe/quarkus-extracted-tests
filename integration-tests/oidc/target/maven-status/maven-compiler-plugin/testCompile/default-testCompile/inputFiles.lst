@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/AbstractBearerTokenAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/BearerTokenAuthorizationTlsRegistryTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/HelloResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/HelloResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/KeycloakXTestResourceLifecycleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/TestSecurityLazyAuthTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/TlsRegistryTestProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc/src/test/java/io/quarkus/it/keycloak/WebsocketOidcTestCase.java
