@@ -1,0 +1,7 @@
+io/quarkus/it/kafka/KafkaAvroTest.class
+io/quarkus/it/kafka/KafkaAvroWithKafkaCompanionTest.class
+io/quarkus/it/kafka/KafkaResource.class
+io/quarkus/it/kafka/KafkaAvroTestBase.class
+io/quarkus/it/kafka/KafkaAvroIT.class
+io/quarkus/it/kafka/KafkaAvroMixedVersionTest.class
+io/quarkus/it/kafka/KafkaAvroWithTestResourceTest.class

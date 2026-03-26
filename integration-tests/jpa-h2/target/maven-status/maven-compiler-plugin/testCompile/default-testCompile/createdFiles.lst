@@ -1,0 +1,7 @@
+io/quarkus/it/jpa/h2/DummyTransactionalService.class
+io/quarkus/it/jpa/h2/DialectInGraalITCase.class
+io/quarkus/it/jpa/h2/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/h2/JPAFunctionalityTest.class
+io/quarkus/it/jpa/h2/TransactionConfigurationTest.class
+io/quarkus/it/jpa/h2/DialectTest.class
+io/quarkus/it/jpa/h2/JPAFunctionalityInGraalITCase.class
