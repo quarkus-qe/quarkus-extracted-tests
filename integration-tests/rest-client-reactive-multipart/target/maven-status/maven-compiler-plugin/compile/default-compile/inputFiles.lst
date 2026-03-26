@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/Data.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/FileResponse.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/JsonSerializationResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/MultipartChunksClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/MultipartClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/MultipartResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/model/ContainerDTO.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/model/Dog.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/model/NestedInterface.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/rest-client-reactive-multipart/src/main/java/io/quarkus/it/rest/client/multipart/model/Veterinarian.java
