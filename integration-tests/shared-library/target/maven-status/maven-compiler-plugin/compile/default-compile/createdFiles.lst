@@ -1,0 +1,4 @@
+io/quarkus/it/shared/SharedResource.class
+io/quarkus/it/shared/RemovedResource.class
+io/quarkus/it/shared/SharedProvider.class
+io/quarkus/it/shared/Shared.class

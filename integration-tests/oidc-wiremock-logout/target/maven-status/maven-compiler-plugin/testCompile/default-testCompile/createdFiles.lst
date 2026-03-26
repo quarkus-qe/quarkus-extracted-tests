@@ -1,0 +1,2 @@
+io/quarkus/it/keycloak/CodeFlowAuthorizationTest.class
+io/quarkus/it/keycloak/CodeFlowAuthorizationInGraalITCase.class
