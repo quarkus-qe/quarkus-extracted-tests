@@ -1,0 +1,11 @@
+io/quarkus/it/security/webauthn/AdminResource.class
+io/quarkus/it/security/webauthn/UserService.class
+io/quarkus/it/security/webauthn/LoginResource.class
+io/quarkus/it/security/webauthn/PublicResource.class
+io/quarkus/it/security/webauthn/User.class
+io/quarkus/it/security/webauthn/CustomInterceptor.class
+io/quarkus/it/security/webauthn/WebAuthnCertificate.class
+io/quarkus/it/security/webauthn/CustomInterceptorBinding.class
+io/quarkus/it/security/webauthn/MyWebAuthnSetup.class
+io/quarkus/it/security/webauthn/WebAuthnCredential.class
+io/quarkus/it/security/webauthn/UserResource.class
