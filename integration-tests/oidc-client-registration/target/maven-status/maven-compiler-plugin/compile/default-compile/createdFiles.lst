@@ -1,0 +1,6 @@
+io/quarkus/it/keycloak/ClientRegistrationRequestFilter.class
+io/quarkus/it/keycloak/RegisteredClientResponseFilter.class
+io/quarkus/it/keycloak/ClientAuthWithSignedJwtCreator.class
+io/quarkus/it/keycloak/ClientRegistrationResponseFilter.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/CustomTenantConfigResolver.class
