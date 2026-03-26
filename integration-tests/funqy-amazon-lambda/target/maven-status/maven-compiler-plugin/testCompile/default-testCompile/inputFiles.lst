@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/GreetAsyncTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/GreetSyncTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/GreetTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/NoArgFunTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/UseAsyncGreetExtension.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/UseNoArgFunExtension.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/funqy-amazon-lambda/src/test/java/io/quarkus/funqy/test/UseSyncGreetExtension.java

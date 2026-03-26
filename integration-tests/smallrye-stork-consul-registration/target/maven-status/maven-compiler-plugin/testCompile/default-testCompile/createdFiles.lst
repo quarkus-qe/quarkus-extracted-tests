@@ -1,0 +1,9 @@
+org/acme/CustomExplicitConfigRegistrationTest.class
+org/acme/ImplicitConfigRegistrationTest$ImplicitConfigProfile.class
+org/acme/ImplicitConfigRegistrationTest.class
+org/acme/ConsulContainerWithFixedPortsTestResource.class
+org/acme/MultipleRegistrarsConfigRegistrationTest$MultipleConfigProfile.class
+org/acme/CustomExplicitConfigRegistrationTest$CustomExplicitConfigProfile.class
+org/acme/MultipleRegistrarsConfigRegistrationTest.class
+org/acme/DisabledRegistrationTest.class
+org/acme/DisabledRegistrationTest$DisabledRegistrationConfigProfile.class
