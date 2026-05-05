@@ -1,0 +1,4 @@
+io/quarkus/it/jpa/mariadb/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/mariadb/DialectEndpoint.class
+io/quarkus/it/jpa/mariadb/Address.class
+io/quarkus/it/jpa/mariadb/Person.class

@@ -1,0 +1,2 @@
+io/quarkus/it/jpa/mapping/xml/legacy/app/LegacyAppTest.class
+io/quarkus/it/jpa/mapping/xml/legacy/app/LegacyAppInGraalITCase.class
