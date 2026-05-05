@@ -1,0 +1,5 @@
+io/quarkus/it/resteasy/elytron/BaseAuthIT.class
+io/quarkus/it/resteasy/elytron/BaseAuthTest.class
+io/quarkus/it/resteasy/elytron/TestSecurityTestCase.class
+io/quarkus/it/resteasy/elytron/HttpPolicyAuthFailedExMapperTest$CustomTestProfile.class
+io/quarkus/it/resteasy/elytron/HttpPolicyAuthFailedExMapperTest.class
