@@ -1,0 +1,7 @@
+io/quarkus/it/opentelemetry/scheduler/JobDefinitionCounter.class
+io/quarkus/it/opentelemetry/scheduler/FailedBasicScheduler.class
+io/quarkus/it/opentelemetry/scheduler/CountResource.class
+io/quarkus/it/opentelemetry/scheduler/FailedJobDefinitionScheduler.class
+io/quarkus/it/opentelemetry/scheduler/Counter.class
+io/quarkus/it/opentelemetry/scheduler/ExporterResource.class
+io/quarkus/it/opentelemetry/scheduler/ExporterResource$InMemorySpanExporterProducer.class

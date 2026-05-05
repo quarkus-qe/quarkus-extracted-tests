@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/Author.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/BookService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/BookStoreResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/BookStoreSchema.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/CacheSetup.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/Magazine.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/MagazineMarshaller.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/MarshallerConfiguration.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/TestServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/infinispan-client/src/main/java/io/quarkus/it/infinispan/client/Type.java
