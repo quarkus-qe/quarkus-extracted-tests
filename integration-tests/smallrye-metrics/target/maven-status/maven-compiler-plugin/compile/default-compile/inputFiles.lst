@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/DummyGauge.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/DummyGaugeNoReflectionAnnotation.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/MetricsOnClassResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/MetricsResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/inheritance/InheritanceMetricsBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/inheritance/InheritanceMetricsExtended.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-metrics/src/main/java/io/quarkus/it/metrics/inheritance/MetricsInheritanceResource.java

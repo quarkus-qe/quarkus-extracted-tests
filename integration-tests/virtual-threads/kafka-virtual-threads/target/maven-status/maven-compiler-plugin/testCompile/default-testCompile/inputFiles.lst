@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/kafka-virtual-threads/src/test/java/io/quarkus/it/vthreads/kafka/VirtualThreadITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/kafka-virtual-threads/src/test/java/io/quarkus/it/vthreads/kafka/VirtualThreadTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/kafka-virtual-threads/src/test/java/io/quarkus/it/vthreads/kafka/WireMockExtension.java

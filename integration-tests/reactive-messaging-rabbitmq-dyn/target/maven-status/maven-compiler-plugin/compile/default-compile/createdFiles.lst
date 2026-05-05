@@ -1,0 +1,5 @@
+io/quarkus/it/rabbitmq/RabbitMQEndpoint.class
+io/quarkus/it/rabbitmq/PeopleProducer.class
+io/quarkus/it/rabbitmq/PeopleManager.class
+io/quarkus/it/rabbitmq/TestCredentialsProvider.class
+io/quarkus/it/rabbitmq/Person.class
