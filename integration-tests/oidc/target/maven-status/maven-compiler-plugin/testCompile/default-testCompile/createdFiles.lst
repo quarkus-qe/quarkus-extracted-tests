@@ -1,0 +1,12 @@
+io/quarkus/it/keycloak/BearerTokenAuthorizationTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationTlsRegistryTest.class
+io/quarkus/it/keycloak/BearerTokenAuthorizationInGraalITCase.class
+io/quarkus/it/keycloak/HelloResourceIT.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest.class
+io/quarkus/it/keycloak/AbstractBearerTokenAuthorizationTest.class
+io/quarkus/it/keycloak/WebsocketOidcTestCase$1$1.class
+io/quarkus/it/keycloak/WebsocketOidcTestCase$1.class
+io/quarkus/it/keycloak/WebsocketOidcTestCase.class
+io/quarkus/it/keycloak/KeycloakXTestResourceLifecycleManager.class
+io/quarkus/it/keycloak/HelloResourceTest.class
+io/quarkus/it/keycloak/TlsRegistryTestProfile.class
