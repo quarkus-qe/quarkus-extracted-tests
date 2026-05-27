@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/BookResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/BookResourceWithParameterInjectionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/NativeBookResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/NativeBookResourceWithParameterInjectionIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/NativePojoResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/NativeVehicleResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/PojoResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/Utils.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/test/java/io/quarkus/it/mongodb/VehicleResourceTest.java

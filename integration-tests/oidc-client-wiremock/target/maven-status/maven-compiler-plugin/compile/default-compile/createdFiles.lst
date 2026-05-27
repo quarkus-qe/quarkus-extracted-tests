@@ -1,0 +1,11 @@
+io/quarkus/it/keycloak/OidcClientRequestCustomJwtBearerForceNewTokenFilter.class
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/JwtBearerAuthenticationOidcClient.class
+io/quarkus/it/keycloak/ProtectedResourceServiceOidcClient.class
+io/quarkus/it/keycloak/JwtBearerFileAuthenticationOidcClient.class
+io/quarkus/it/keycloak/JwtBearerAuthenticationOidcClientForceNewToken.class
+io/quarkus/it/keycloak/OidcRequestResponseCustomizer.class
+io/quarkus/it/keycloak/OidcClientRequestCustomFilter.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/ProtectedResourceServiceCrashTestClient.class
+io/quarkus/it/keycloak/ProtectedResourceServiceRefreshIntervalTestClient.class
