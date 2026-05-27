@@ -1,0 +1,17 @@
+test/Hello$Callback.class
+test/ProtocolUser$Builder.class
+test/SchemaUser.class
+test/SchemaPrivacy.class
+test/ProtocolTest$Callback.class
+test/PrivacyDirectImport.class
+test/ProtocolPrivacy.class
+test/Message.class
+test/ProtocolTest.class
+test/Hello.class
+io/quarkus/avro/deployment/AvroReloadResource.class
+test/Message$Builder.class
+io/quarkus/avro/deployment/AvroCodeReloadTest.class
+test/ProtocolUser.class
+test/SchemaUser$Builder.class
+test/Level.class
+test/PrivacyImport.class
