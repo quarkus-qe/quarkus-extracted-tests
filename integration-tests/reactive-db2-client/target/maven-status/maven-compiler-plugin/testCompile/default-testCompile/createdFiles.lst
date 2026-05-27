@@ -1,0 +1,5 @@
+io/quarkus/it/reactive/db2/client/HealthCheckTest.class
+io/quarkus/it/reactive/db2/client/NativeQueryIT.class
+io/quarkus/it/reactive/db2/client/HealthCheckIT.class
+io/quarkus/it/reactive/db2/client/QueryTest.class
+io/quarkus/it/reactive/db2/client/DevServicesDb2LogTest.class

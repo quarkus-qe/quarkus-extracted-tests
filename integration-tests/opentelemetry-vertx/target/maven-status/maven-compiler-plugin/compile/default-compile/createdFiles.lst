@@ -1,0 +1,9 @@
+io/quarkus/it/opentelemetry/vertx/EventBusConsumer.class
+io/quarkus/it/opentelemetry/vertx/HelloRouter$1.class
+io/quarkus/it/opentelemetry/vertx/EventBusSender.class
+io/quarkus/it/opentelemetry/vertx/ExporterRouter.class
+io/quarkus/it/opentelemetry/vertx/ExporterRouter$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/vertx/HelloRouter.class
+io/quarkus/it/opentelemetry/vertx/Person.class
+io/quarkus/it/opentelemetry/vertx/SpanData.class
+io/quarkus/it/opentelemetry/vertx/Pet.class
