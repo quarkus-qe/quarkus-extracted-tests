@@ -1,0 +1,9 @@
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointJoinedSubclass$Book.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointFetchLazy.class
+io/quarkus/it/hibernate/reactive/postgresql/lazy/Author.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointJoinedSubclass$SpellBook.class
+io/quarkus/it/hibernate/reactive/postgresql/GuineaPig.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpointJoinedSubclass.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTestEndpoint.class
+io/quarkus/it/hibernate/reactive/postgresql/FriesianCow.class
+io/quarkus/it/hibernate/reactive/postgresql/lazy/Book.class

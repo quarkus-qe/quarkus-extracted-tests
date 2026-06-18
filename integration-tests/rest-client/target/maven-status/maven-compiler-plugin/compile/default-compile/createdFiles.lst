@@ -1,0 +1,8 @@
+io/quarkus/it/rest/client/MultipartBody.class
+io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedResource.class
+io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedClient.class
+io/quarkus/it/rest/client/server/EchoService.class
+io/quarkus/it/rest/client/wronghost/WrongHostClient.class
+io/quarkus/it/rest/client/MultipartService.class
+io/quarkus/it/rest/client/wronghost/WrongHostResource.class
+io/quarkus/it/rest/client/MultipartClientResource.class

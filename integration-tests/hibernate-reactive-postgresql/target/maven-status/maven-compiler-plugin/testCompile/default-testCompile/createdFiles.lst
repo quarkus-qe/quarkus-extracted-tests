@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveFetchLazyInGraalIT.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveInGraalIT.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveJoinedSubclassInGraalIT.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveJoinedSubclassTest.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveTest.class
+io/quarkus/it/hibernate/reactive/postgresql/HibernateReactiveFetchLazyTest.class
