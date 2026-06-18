@@ -1,0 +1,10 @@
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest$TestSecurityMetaAnnotation.class
+io/quarkus/it/keycloak/CodeFlowTest$3.class
+io/quarkus/it/keycloak/CodeFlowInGraalITCase.class
+io/quarkus/it/keycloak/CodeFlowTest$2.class
+io/quarkus/it/keycloak/CodeFlowTest.class
+io/quarkus/it/keycloak/CodeFlowTest$5.class
+io/quarkus/it/keycloak/KeycloakRealmResourceManager.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest.class
+io/quarkus/it/keycloak/CodeFlowTest$1.class
+io/quarkus/it/keycloak/CodeFlowTest$4.class

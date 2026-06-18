@@ -1,0 +1,11 @@
+io/quarkus/logging/LoggingEndpoint.class
+io/quarkus/logging/LoggingInterface.class
+io/quarkus/logging/LoggingWithoutQuarkusTest.class
+io/quarkus/logging/LoggingWithPanacheTest.class
+io/quarkus/logging/GenerateAllLogUsages.class
+io/quarkus/logging/LoggingBean.class
+io/quarkus/logging/LoggingWithPanacheDevModeTest.class
+io/quarkus/logging/LoggingEntity.class
+io/quarkus/logging/LoggingWithPanacheGeneratedTest.class
+io/quarkus/logging/NoStackTraceTestException.class
+io/quarkus/logging/GeneratedBean.class

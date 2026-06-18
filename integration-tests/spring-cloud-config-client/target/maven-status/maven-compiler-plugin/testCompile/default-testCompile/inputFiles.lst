@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-cloud-config-client/src/test/java/io/quarkus/spring/cloud/config/client/runtime/CommonAndTestProfilesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-cloud-config-client/src/test/java/io/quarkus/spring/cloud/config/client/runtime/OnlyTestProfileTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-cloud-config-client/src/test/java/io/quarkus/spring/cloud/config/client/runtime/SpringCloudConfigClientIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/spring-cloud-config-client/src/test/java/io/quarkus/spring/cloud/config/client/runtime/SpringCloudConfigServerResource.java

@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaSSLTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaStreamsCdiEventTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaStreamsITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaStreamsPropertiesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaStreamsStartupFailureTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-streams/src/test/java/io/quarkus/it/kafka/streams/KafkaStreamsTest.java

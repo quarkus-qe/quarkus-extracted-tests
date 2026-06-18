@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/BaseTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/JdbcObjectStoreTestProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionConfPropTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionJdbcObjectStoreIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionJdbcObjectStoreTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionScopeQuarkusTransactionBeginCommitTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionScopeQuarkusTransactionRunnerTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionScopeTransactionalTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionScopeUserTransactionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/test/java/io/quarkus/narayana/jta/TransactionalTestCase.java

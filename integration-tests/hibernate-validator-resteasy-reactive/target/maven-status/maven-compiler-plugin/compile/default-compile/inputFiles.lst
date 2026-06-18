@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/EnhancedGreetingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/GreetingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/HibernateValidatorTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/HibernateValidatorTestResourceGenericInterface.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/HibernateValidatorTestResourceInterface.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/TextResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/custom/MyCustomConstraint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-validator-resteasy-reactive/src/main/java/io/quarkus/it/hibernate/validator/custom/MyOtherBean.java
