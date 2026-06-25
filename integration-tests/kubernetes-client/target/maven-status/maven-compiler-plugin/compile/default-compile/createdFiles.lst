@@ -1,0 +1,4 @@
+io/quarkus/it/kubernetes/client/Version.class
+io/quarkus/it/kubernetes/client/SecretProperties.class
+io/quarkus/it/kubernetes/client/ConfigMapProperties.class
+io/quarkus/it/kubernetes/client/Pods.class

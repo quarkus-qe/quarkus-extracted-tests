@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/AccessTokenPropagationService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/CustomTenantResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/FrontendResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/IdTokenPropagationService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/IdTokenRequestReactiveFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedJwtResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/ServiceWithoutToken.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation-reactive/src/main/java/io/quarkus/it/keycloak/User.java

@@ -1,0 +1,3 @@
+io/quarkus/tests/simpleextension/deployment/SimpleContainer.class
+io/quarkus/tests/simpleextension/deployment/SimpleDevServicesProcessor.class
+META-INF/quarkus-build-steps.list
