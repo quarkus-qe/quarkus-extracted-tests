@@ -1,0 +1,16 @@
+---
+metadata:
+  built-with-quarkus-core: "3.37.0"
+  requires-quarkus-core: "[3.37,)"
+  minimum-java-version: "17"
+  capabilities:
+    provides:
+    - "io.quarkus.old-model-extension"
+  scm-url: "https://github.com/quarkus-qe/quarkus-extracted-tests"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-core"
+  - "io.quarkus:quarkus-devservices"
+artifact: "io.quarkus:quarkus-integration-test-devservices-old-model-extension::jar:3.37.0"
+name: "quarkus-integration-test-devservices-old-model-extension"
+description: "Build parent to bring in required dependencies"
