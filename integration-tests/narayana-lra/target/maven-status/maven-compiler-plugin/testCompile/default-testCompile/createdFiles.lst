@@ -1,0 +1,4 @@
+io/quarkus/it/lra/LRAParticipantTestNativeIT.class
+io/quarkus/it/lra/LRAParticipantTest.class
+io/quarkus/it/lra/LRAITTestClassOrderer.class
+io/quarkus/it/lra/LRADevServicesStartTest.class
