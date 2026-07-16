@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.quarkus.qe.tests</groupId>
+    <artifactId>quarkus-integration-test-devservices-dependent-extension-parent</artifactId>
+    <version>3.37.3</version>
+  </parent>
+  <artifactId>quarkus-integration-test-devservices-dependent-extension-deployment</artifactId>
+  <version>3.37.3</version>
+  <name>quarkus-integration-test-devservices-dependent-extension-deployment</name>
+  <description>Tests extracted from project quarkus-integration-test-devservices-dependent-extension-deployment</description>
+  <properties>
+    <quarkus.native.builder-image.pull>missing</quarkus.native.builder-image.pull>
+    <quarkus.build.skip>${skipTests}</quarkus.build.skip>
+    <skipSurefireTests>${skipTests}</skipSurefireTests>
+    <forbiddenapis-maven-plugin.phase>none</forbiddenapis-maven-plugin.phase>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>io.quarkus.qe.tests</groupId>
+      <artifactId>quarkus-integration-test-devservices-dependent-extension</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-devservices-deployment</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-junit</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.27.7</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.rest-assured</groupId>
+      <artifactId>rest-assured</artifactId>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <groupId>org.apache.commons</groupId>
+          <artifactId>commons-lang3</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+  </dependencies>
+  <build />
+</project>
