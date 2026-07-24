@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/EventBusIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/EventBusTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/HelloRouterIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/HelloRouterTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/SpanExporterBaseTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-vertx/src/test/java/io/quarkus/it/opentelemetry/vertx/SqlClientTest.java
