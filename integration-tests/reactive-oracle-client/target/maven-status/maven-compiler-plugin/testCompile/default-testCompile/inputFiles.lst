@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-oracle-client/src/test/java/io/quarkus/it/reactive/oracle/client/FruitsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-oracle-client/src/test/java/io/quarkus/it/reactive/oracle/client/HealthCheckIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-oracle-client/src/test/java/io/quarkus/it/reactive/oracle/client/HealthCheckTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-oracle-client/src/test/java/io/quarkus/it/reactive/oracle/client/HotReloadFruitResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-oracle-client/src/test/java/io/quarkus/it/reactive/oracle/client/NativeFruitsEndpointIT.java

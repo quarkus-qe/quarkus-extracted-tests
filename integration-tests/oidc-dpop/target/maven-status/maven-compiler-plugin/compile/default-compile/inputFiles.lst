@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dpop/src/main/java/io/quarkus/it/keycloak/DPoPAuthFailureEventResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dpop/src/main/java/io/quarkus/it/keycloak/DPoPAuthFailureObserver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dpop/src/main/java/io/quarkus/it/keycloak/DummyDPoPNonceProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dpop/src/main/java/io/quarkus/it/keycloak/FrontendResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dpop/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java

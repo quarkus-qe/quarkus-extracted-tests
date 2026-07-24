@@ -1,0 +1,4 @@
+io/quarkus/it/hibertnate/orm/graphql/panache/TestResources.class
+io/quarkus/it/hibertnate/orm/graphql/panache/HibernateOrmGraphQLPanacheTest.class
+io/quarkus/it/hibertnate/orm/graphql/panache/HibernateOrmGraphQLPanacheIT.class
+io/quarkus/it/hibertnate/orm/graphql/panache/PayloadCreator.class

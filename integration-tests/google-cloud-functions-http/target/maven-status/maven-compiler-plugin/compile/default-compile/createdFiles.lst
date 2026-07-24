@@ -1,0 +1,4 @@
+io/quarkus/it/gcp/functions/http/GreetingServlet.class
+io/quarkus/it/gcp/functions/http/GreetingRoutes.class
+io/quarkus/it/gcp/functions/http/GreetingFunqy.class
+io/quarkus/it/gcp/functions/http/GreetingResource.class

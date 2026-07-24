@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/BaseAuthIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/BaseAuthRestTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/BaseAuthTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/HttpsSetup.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/ServletSecurityAnnotationPermissionsIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/ServletSecurityAnnotationPermissionsTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-undertow/src/test/java/io/quarkus/it/undertow/elytron/WebXmlPermissionsTestCase.java

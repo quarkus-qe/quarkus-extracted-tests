@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationCdiTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationItTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationO2OIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationO2OTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationO2VIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationO2VTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationV2OIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationV2OTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationV2VIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-encoding/src/test/java/org/acme/GrpcCompressionInterceptorIntegrationV2VTest.java
