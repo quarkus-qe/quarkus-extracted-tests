@@ -1,0 +1,3 @@
+io/quarkus/it/panache/next/PanacheNextFunctionalityIT.class
+io/quarkus/it/panache/next/PanacheNextInjectMockTest.class
+io/quarkus/it/panache/next/PanacheNextFunctionalityTest.class

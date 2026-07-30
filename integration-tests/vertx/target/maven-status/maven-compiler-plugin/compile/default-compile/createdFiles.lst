@@ -1,0 +1,13 @@
+io/quarkus/it/vertx/verticles/BareVerticle.class
+io/quarkus/it/vertx/verticles/MdcVerticle.class
+io/quarkus/it/vertx/VertxProducerResource.class
+io/quarkus/it/vertx/JsonTestResource.class
+io/quarkus/it/vertx/faulttolerance/NonblockingFaultTolerantService.class
+io/quarkus/it/vertx/Pet.class
+io/quarkus/it/vertx/MyApplication.class
+io/quarkus/it/vertx/EventBusConsumer.class
+io/quarkus/it/vertx/verticles/VerticleEndpoint.class
+io/quarkus/it/vertx/EventBusSender.class
+io/quarkus/it/vertx/verticles/MutinyAsyncVerticle.class
+io/quarkus/it/vertx/verticles/VerticleDeployer.class
+io/quarkus/it/vertx/Person.class
