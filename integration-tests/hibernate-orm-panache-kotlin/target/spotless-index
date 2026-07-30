@@ -1,0 +1,24 @@
+Us/9pU0oBYKtEy4rvJqAep0DWTW9UhQngiR7Y97gOI0=
+src/main/kotlin/io/quarkus/it/panache/kotlin/AbstractRepository.kt 2026-07-30T03:59:24.631916475Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/AccessorEntity.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Address.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/AddressDao.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Bug5274EntityRepository.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Bug5885AbstractRepository.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Bug5885EntityRepository.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Dog.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/DogDao.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/DummyService.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/GenericEntity.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/JAXBEntity.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Person.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/PersonRepository.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/Status.kt 2026-07-30T03:59:24.631974352Z
+src/main/kotlin/io/quarkus/it/panache/kotlin/TestEndpoint.kt 2026-07-30T03:59:24.632059381Z
+src/test/kotlin/io/quarkus/it/panache/KotlinPanacheFunctionalityInGraalITCase.kt 2026-07-30T03:59:24.632698445Z
+src/test/kotlin/io/quarkus/it/panache/KotlinPanacheFunctionalityTest.kt 2026-07-30T04:00:27.684395866Z
+src/test/kotlin/io/quarkus/it/panache/KotlinPanacheFunctionalityWithInjectTest.kt 2026-07-30T03:59:24.632739150Z
+src/test/kotlin/io/quarkus/it/panache/MockPersonRepository.kt 2026-07-30T03:59:24.632739150Z
+src/test/kotlin/io/quarkus/it/panache/ProjectionTest.kt 2026-07-30T03:59:24.632739150Z
+src/test/kotlin/io/quarkus/it/panache/TestEndpointRunner.kt 2026-07-30T03:59:24.632739150Z
+src/test/kotlin/io/quarkus/it/panache/TestResources.kt 2026-07-30T04:00:27.684395866Z

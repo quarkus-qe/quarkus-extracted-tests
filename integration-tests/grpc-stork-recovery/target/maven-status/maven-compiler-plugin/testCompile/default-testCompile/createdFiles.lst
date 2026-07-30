@@ -1,0 +1,3 @@
+io/quarkus/grpc/examples/stork/GrpcStorkRecoveryTest.class
+io/quarkus/grpc/examples/stork/VertxGrpcStorkRecoveryTest.class
+io/quarkus/grpc/examples/stork/GrpcStorkRecoveryTestBase.class

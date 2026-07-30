@@ -1,0 +1,6 @@
+io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisTest$1.class
+io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisIT.class
+io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisDisabledTest$1.class
+io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisDisabledTest.class
+io/quarkus/it/opentelemetry/profile/RedisInstrumentationDisabledProfile.class
+io/quarkus/it/opentelemetry/QuarkusOpenTelemetryRedisTest.class
