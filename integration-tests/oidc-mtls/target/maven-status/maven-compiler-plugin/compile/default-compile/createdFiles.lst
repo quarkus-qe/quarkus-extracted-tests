@@ -1,0 +1,6 @@
+io/quarkus/it/oidc/PathBasedAuthenticationCheckers.class
+io/quarkus/it/oidc/MultipleAuthMechanismsEndpoint.class
+io/quarkus/it/oidc/OidcMtlsEndpoint.class
+io/quarkus/it/oidc/SimpleBasicIdentityProvider.class
+io/quarkus/it/oidc/MtlsBasic.class
+io/quarkus/it/oidc/MtlsJwt.class
