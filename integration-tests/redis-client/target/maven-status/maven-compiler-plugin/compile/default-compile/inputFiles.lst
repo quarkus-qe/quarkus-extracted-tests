@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/CustomCodecResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/PersonCodec.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisLocalHostProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisResourceWithNamedClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisWithInstanceInjectionResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisWithNamedClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisWithParameterInjectionResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/redis-client/src/main/java/io/quarkus/redis/it/RedisWithProvidedHostsResource.java
