@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/CaffeineResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/ExpensiveResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/GetIfPresentResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/RestClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/SunriseRestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/SunriseRestServerResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/Tree.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/cache/src/main/java/io/quarkus/it/cache/TreeResource.java
