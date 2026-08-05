@@ -1,0 +1,6 @@
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest$TestAsUser1Viewer.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest$TestAsUserJwtViewer.class
+io/quarkus/it/keycloak/OidcTokenReactivePropagationTest.class
+io/quarkus/it/keycloak/OidcTokenReactivePropagationITCase.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest.class
+io/quarkus/it/keycloak/TestSecurityLazyAuthTest$TestAsUser1Tester.class
