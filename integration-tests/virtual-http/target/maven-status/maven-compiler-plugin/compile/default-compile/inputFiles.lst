@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-http/src/main/java/io/quarkus/it/virtual/FunqyGreeting.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-http/src/main/java/io/quarkus/it/virtual/GreetingResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-http/src/main/java/io/quarkus/it/virtual/GreetingServlet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-http/src/main/java/io/quarkus/it/virtual/GreetingVertx.java

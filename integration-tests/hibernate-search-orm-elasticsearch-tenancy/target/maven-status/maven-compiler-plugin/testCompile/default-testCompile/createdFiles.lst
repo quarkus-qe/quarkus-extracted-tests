@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/HibernateSearchTenancyReindexFunctionalityTest$1.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/HibernateSearchTenancyReindexFunctionalityTest$Profile.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/HibernateSearchTenancyReindexFunctionalityTest.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/HibernateSearchTenancyFunctionalityTest.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/HibernateSearchTenancyFunctionalityTest$1.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/HibernateSearchTenancyFunctionalityInGraalITCase.class

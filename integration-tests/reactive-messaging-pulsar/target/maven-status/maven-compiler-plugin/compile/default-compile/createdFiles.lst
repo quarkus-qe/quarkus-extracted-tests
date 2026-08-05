@@ -1,0 +1,5 @@
+io/quarkus/it/pulsar/FruitProducer.class
+io/quarkus/it/pulsar/PulsarReceivers.class
+io/quarkus/it/pulsar/PulsarEndpoint.class
+io/quarkus/it/pulsar/HelloServiceImpl.class
+io/quarkus/it/pulsar/GpServiceImpl.class
