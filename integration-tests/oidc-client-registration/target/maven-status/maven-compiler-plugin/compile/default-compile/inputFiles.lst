@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/ClientAuthWithSignedJwtCreator.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/ClientRegistrationRequestFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/ClientRegistrationResponseFilter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/CustomTenantConfigResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-client-registration/src/main/java/io/quarkus/it/keycloak/RegisteredClientResponseFilter.java
