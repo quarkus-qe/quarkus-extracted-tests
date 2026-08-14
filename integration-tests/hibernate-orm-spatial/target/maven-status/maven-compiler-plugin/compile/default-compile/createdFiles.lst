@@ -1,0 +1,10 @@
+io/quarkus/it/spatial/geolatte/GeolatteLineEntity.class
+io/quarkus/it/spatial/jts/JtsLineEntity.class
+io/quarkus/it/spatial/AbstractSpatialResource.class
+io/quarkus/it/spatial/GeolatteResource.class
+io/quarkus/it/spatial/SpatialApplication.class
+io/quarkus/it/spatial/geolatte/GeolattePointEntity.class
+io/quarkus/it/spatial/jts/JtsPolygonEntity.class
+io/quarkus/it/spatial/JtsResource.class
+io/quarkus/it/spatial/geolatte/GeolattePolygonEntity.class
+io/quarkus/it/spatial/jts/JtsPointEntity.class

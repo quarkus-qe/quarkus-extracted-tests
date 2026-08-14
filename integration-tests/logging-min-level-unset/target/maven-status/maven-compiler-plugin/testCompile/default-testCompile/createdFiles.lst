@@ -1,0 +1,11 @@
+io/quarkus/it/logging/minlevel/unset/LoggingMinLevelGlobalTest.class
+io/quarkus/it/logging/minlevel/unset/NativeLoggingMinLevelByDefaultIT.class
+io/quarkus/it/logging/minlevel/unset/LoggingMinLevelByDefaultTest.class
+io/quarkus/it/logging/minlevel/unset/Asserts.class
+io/quarkus/it/logging/minlevel/unset/NativeLoggingMinLevelPromoteIT.class
+io/quarkus/it/logging/minlevel/unset/LoggingMinLevelPromoteTest.class
+io/quarkus/it/logging/minlevel/unset/SetGlobalRuntimeLogLevel.class
+io/quarkus/it/logging/minlevel/unset/SetCategoryRuntimeLogLevels.class
+io/quarkus/it/logging/minlevel/unset/NativeLoggingWarnResourceIT.class
+io/quarkus/it/logging/minlevel/unset/Asserts$AssertThrowable.class
+io/quarkus/it/logging/minlevel/unset/LoggingMinLevelAboveTest.class

@@ -1,0 +1,5 @@
+io/quarkus/signals/it/HelloMessage.class
+io/quarkus/signals/it/HelloName.class
+io/quarkus/signals/it/SignalsResource.class
+io/quarkus/signals/it/HelloMessageLogger.class
+io/quarkus/signals/it/HelloSignals.class

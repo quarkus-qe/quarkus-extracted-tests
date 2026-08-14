@@ -1,0 +1,7 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/AbstractCertificateRoleMappingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleCnMappingIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleCnMappingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleOuMappingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleSanOtherNameMappingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleSanRfc822MappingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mtls-certificates/src/test/java/io/quarkus/it/vertx/CertificateRoleSanUriMappingTest.java
