@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/data-hibernate/src/main/java/io/quarkus/it/panache/next/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/data-hibernate/src/main/java/io/quarkus/it/panache/next/BookResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/data-hibernate/src/main/java/io/quarkus/it/panache/next/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/data-hibernate/src/main/java/io/quarkus/it/panache/next/PersonResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/data-hibernate/src/main/java/io/quarkus/it/panache/next/PersonService.java

@@ -1,0 +1,15 @@
+io/quarkus/it/opentelemetry/BookResourceOffIT.class
+io/quarkus/it/opentelemetry/BookResourceOffTest$OffProfile.class
+io/quarkus/it/opentelemetry/BookResourceOffTest$1.class
+io/quarkus/it/opentelemetry/BookResourceSanitizedTest.class
+io/quarkus/it/opentelemetry/BookResourceSanitizedIT.class
+io/quarkus/it/opentelemetry/BookResourceOffTest$2.class
+io/quarkus/it/opentelemetry/BookResourceTest$ChildSpanData.class
+io/quarkus/it/opentelemetry/BookResourceSanitizedTest$SanitizedProfile.class
+io/quarkus/it/opentelemetry/BookResourceIT.class
+io/quarkus/it/opentelemetry/BookResourceOffTest.class
+io/quarkus/it/opentelemetry/BookResourceSanitizedTest$2.class
+io/quarkus/it/opentelemetry/BookResourceTest$1.class
+io/quarkus/it/opentelemetry/BookResourceTest.class
+io/quarkus/it/opentelemetry/BookResourceSanitizedTest$1.class
+io/quarkus/it/opentelemetry/BookResourceTest$2.class

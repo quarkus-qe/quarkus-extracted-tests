@@ -1,0 +1,10 @@
+io/quarkus/it/compose/devservices/HealthChecksITCase.class
+io/quarkus/it/compose/devservices/redis/RedisTestProfile.class
+io/quarkus/it/compose/devservices/kafka/KafkaServiceTest.class
+io/quarkus/it/compose/devservices/postgres/PostgresTest.class
+io/quarkus/it/compose/devservices/redis/RedisServiceTest.class
+io/quarkus/it/compose/devservices/rabbitmq/RabbitmqTest.class
+io/quarkus/it/compose/devservices/kafka/KafkaTestProfile.class
+io/quarkus/it/compose/devservices/postgres/PostgresITCase.class
+io/quarkus/it/compose/devservices/HealthChecksTest.class
+io/quarkus/it/compose/devservices/rabbitmq/RabbitTestProfile.class
