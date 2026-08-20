@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/ChatWebSocket.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/ExpiredIdentityAugmentor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/ExpiredUpdatedSecurityIdentityWebSocket.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/GraphQLClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/ProtectedGraphQLEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/RolesChangingIdentityAugmentor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/SecuredResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/SecurityIdentityUpdateWebSocket.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/TypesafeGraphQLClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/TypesafeGraphQLClientWithNamedOidcClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-dev-services/src/main/java/io/quarkus/it/oidc/dev/services/UpdatedRoleSecurityIdentityWebSocket.java

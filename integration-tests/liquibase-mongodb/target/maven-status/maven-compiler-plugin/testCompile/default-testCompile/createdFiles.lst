@@ -1,0 +1,9 @@
+io/quarkus/it/liquibase/mongodb/UserResourceTest.class
+io/quarkus/it/liquibase/mongodb/UserResourceTestIT.class
+io/quarkus/it/liquibase/mongodb/NativeFruitResourceTestIT.class
+io/quarkus/it/liquibase/mongodb/FruitResourceTest.class
+io/quarkus/it/liquibase/mongodb/FruitResourceTest$1.class
+io/quarkus/it/liquibase/mongodb/NativeFruitResourceTestIT$1.class
+io/quarkus/it/liquibase/mongodb/MigrationServiceTest.class
+io/quarkus/it/liquibase/mongodb/UserResourceTestIT$1.class
+io/quarkus/it/liquibase/mongodb/UserResourceTest$1.class
