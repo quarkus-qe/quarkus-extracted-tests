@@ -1,0 +1,270 @@
+Test extraction summary:
+
+=== UnmanagedDependencies:
+- Dependency 'io.quarkiverse.artemis:quarkus-test-artemis' is not managed by Quarkus BOM, going to use '3.8.4' version, this dependency is used at:
+  - project 'quarkus-integration-test-virtual-threads-jms' located at 'integration-tests/virtual-threads/jms-virtual-threads'
+
+- Dependency 'org.commonmark:commonmark' is not managed by Quarkus BOM, going to use '0.28.0' version, this dependency is used at:
+  - project 'quarkus-messaging-deployment' located at 'extensions/smallrye-reactive-messaging-deployment'
+
+- Dependency 'io.quarkus:quarkus-devmode-test-utils' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Dependency 'org.eclipse.jgit:org.eclipse.jgit' is not managed by Quarkus BOM, going to use '7.7.0.202606012155-r' version, this dependency is used at:
+  - project 'quarkus-info-deployment' located at 'extensions/info-deployment'
+
+- Dependency 'io.quarkus:quarkus-arc-test-supplement-decorator' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-arc-deployment' located at 'extensions/arc-deployment'
+
+- Dependency 'org.assertj:assertj-core' is not managed by Quarkus BOM, going to use '3.27.7' version, this dependency is used at:
+  - project 'quarkus-integration-test-rest-client-reactive-stork' located at 'integration-tests/rest-client-reactive-stork'
+
+- Dependency 'io.smallrye.certs:smallrye-certificate-generator-junit5' is not managed by Quarkus BOM, going to use '0.9.3' version, this dependency is used at:
+  - project 'quarkus-smallrye-graphql-client-deployment' located at 'extensions/smallrye-graphql-client-deployment'
+
+- Dependency 'org.htmlunit:htmlunit' is not managed by Quarkus BOM, going to use '5.1.0' version, this dependency is used at:
+  - project 'quarkus-rest-client-oidc-token-propagation-deployment' located at 'extensions/oidc-token-propagation-reactive-deployment'
+
+- Dependency 'io.quarkus:quarkus-test-maven' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-integration-test-jpa-postgresql' located at 'integration-tests/jpa-postgresql'
+
+- Dependency 'io.opentelemetry.proto:opentelemetry-proto' is not managed by Quarkus BOM, going to use '1.5.0-alpha' version, this dependency is used at:
+  - project 'quarkus-integration-test-opentelemetry-vertx-exporter' located at 'integration-tests/opentelemetry-vertx-exporter'
+
+- Dependency 'org.junit-pioneer:junit-pioneer' is not managed by Quarkus BOM, going to use '2.3.0' version, this dependency is used at:
+  - project 'quarkus-rest-client-deployment' located at 'extensions/rest-client-deployment'
+
+- Dependency 'io.quarkus:quarkus-reactive-datasource-deployment (test-jar type)' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-reactive-mysql-client-deployment' located at 'extensions/reactive-mysql-client-deployment'
+
+- Dependency 'org.wiremock:wiremock-standalone' is not managed by Quarkus BOM, going to use '3.13.2' version, this dependency is used at:
+  - project 'quarkus-integration-test-rest-client-reactive-stork' located at 'integration-tests/rest-client-reactive-stork'
+
+- Dependency 'io.quarkus:quarkus-rest-deployment (test-jar type)' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-rest-servlet-deployment' located at 'extensions/rest-servlet-deployment'
+
+- Dependency 'io.quarkiverse.artemis:quarkus-artemis-jms' is not managed by Quarkus BOM, going to use '3.8.4' version, this dependency is used at:
+  - project 'quarkus-integration-test-virtual-threads-jms' located at 'integration-tests/virtual-threads/jms-virtual-threads'
+
+- Dependency 'org.bouncycastle:bctls-jdk18on' is not managed by Quarkus BOM, going to use '1.84' version, this dependency is used at:
+  - project 'quarkus-integration-test-bouncycastle-jsse' located at 'integration-tests/bouncycastle-jsse'
+
+- Dependency 'org.apache.activemq:artemis-amqp-protocol' is not managed by Quarkus BOM, going to use '2.55.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-amqp' located at 'integration-tests/reactive-messaging-amqp'
+
+- Dependency 'org.apache.activemq:artemis-server' is not managed by Quarkus BOM, going to use '2.55.0' version, this dependency is used at:
+  - project 'quarkus-integration-test-amqp' located at 'integration-tests/reactive-messaging-amqp'
+
+- Dependency 'io.quarkus:quarkus-arc-test-supplement' is not managed by Quarkus BOM, going to use '${community.quarkus.version}' version, this dependency is used at:
+  - project 'quarkus-arc-deployment' located at 'extensions/arc-deployment'
+
+
+
+=== Projects that have configured a repository in their POM:
+- Repository 'Gradle releases repository' (with id 'gradle' and URL 'https://repo.gradle.org/artifactory/libs-releases') was declared in POM of following projects:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Repository '<<no repository name found>>' (with id 'confluent' and URL 'https://packages.confluent.io/maven/') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kafka-avro-apicurio2' located at 'integration-tests/kafka-avro-apicurio2'
+
+
+
+=== Projects that have configured a plugin repository in their POM:
+- Repository '<<no repository name found>>' (with id 'gradle' and URL 'https://repo.gradle.org/artifactory/libs-releases') was declared in POM of following projects:
+  - project 'quarkus-integration-test-maven' located at 'integration-tests/maven'
+
+
+
+=== Projects that have their own dependency managements
+- project 'quarkus-integration-tests-parent' located at 'integration-tests' manages following dependencies: [io.quarkus:quarkus-bom-test, io.quarkus:quarkus-project-core-extension-codestarts, io.quarkus:quarkus-integration-test-class-transformer, io.quarkus:quarkus-integration-test-class-transformer-deployment]
+- project 'quarkus-integration-test-container-image-invoker' located at 'integration-tests/container-image/maven-invoker-way' manages following dependencies: [com.google.j2objc:j2objc-annotations]
+- project 'quarkus-virtual-threads-integration-tests-parent' located at 'integration-tests/virtual-threads' manages following dependencies: [io.quarkus:quarkus-integration-test-class-transformer, io.quarkus:quarkus-bom-test, io.quarkus:quarkus-integration-test-class-transformer-deployment]
+- project 'quarkus-integration-test-grpc-proto3' located at 'integration-tests/grpc-proto3' manages following dependencies: [com.google.protobuf:protobuf-bom, com.google.protobuf:protoc:exe]
+
+
+=== Test classes with forced dependencies (important because we do some imperfect string manipulations to correct used version)
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/WithKubernetesClientTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithLocalDockerTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithRootAndHealthTest.java
+- /tmp/extracted-tests/extensions/rest-links-deployment/src/test/java/io/quarkus/resteasy/reactive/links/deployment/HalLinksWithJsonbTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithCustomNameTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithFlywayInitTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithRemoteRegistryPushTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsManagementDefaultPortTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithHealthTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithHealthDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsNoAnnotationsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KnativeWithSecretConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithAutoMysqlBindingTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithRemoteImagePushTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KnativeWithExtendedPropertiesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithIngressTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithInternalRegistryTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithAutoPostgresBindingTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithInitContainerResourceLimitsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way-kafka/src/test/java/io/quarkus/it/kubernetes/kafka/BasicMinikubeTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/MinikubeWithApplicationPropertiesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithHealthTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithPartialDeploymentTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithDeploymentResourceTest.java
+- /tmp/extracted-tests/extensions/narayana-jta-deployment/src/test/java/io/quarkus/narayana/quarkus/TransactionRecoveryExplicitlyDisabledTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithRbacAndNamespaceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithStrategyRollingUpdateTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithExistingCronJobResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithImagePushTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithCronJobResourceAndMissingScheduleTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithAppConfigMapTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithCronJobResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsCustomRelativeTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithBaseImageFromInternalRegistryTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithSidecarAndJibTest.java
+- /tmp/extracted-tests/extensions/narayana-jta-deployment/src/test/java/io/quarkus/narayana/quarkus/TransactionRecoveryXaAutoEnableTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithCronJobResourceWithoutSelectorTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithAppSecretTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMicrometerTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithQuarkusAppNameTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithJvmAdditionalArgumentsDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithUberJarTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithHealthUsingManagementInterfaceTest.java
+- /tmp/extracted-tests/extensions/resteasy-links-deployment/src/test/java/io/quarkus/resteasy/links/deployment/HalLinksWithJacksonTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesInitContainersTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithHealthAndJibTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithHealthUsingSecuredManagementInterfaceTest.java
+- /tmp/extracted-tests/extensions/hibernate-orm-rest-data-panache-deployment/src/test/java/io/quarkus/hibernate/orm/rest/data/panache/deployment/openapi/OpenApiIntegrationTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithJobResourceWhenUsingPicocliAndDeploymentTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesConfigWithSecretsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithGitlabLikeImageTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithSemiAutoPostgresBindingTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KnativeWithImagePullSecretTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithDeploymentResourceAndLocalLookupTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithHealthUsingManagementInterfaceDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithHealthUsingManagementInterfaceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithEmptyDirVolumesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithEnvFromConfigMapWithPrefixTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesConfigWithSecretsAndClusterRoleTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsCustomAbsoluteTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithJobResourceWhenUsingPicocliTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesServiceMappingTest.java
+- /tmp/extracted-tests/integration-tests/container-image/quarkus-standard-way/src/test/java/io/quarkus/it/container/image/SingleContainerImageExtensionTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithKubernetesConfigDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithSidecarDeploymentConfigTest.java
+- /tmp/extracted-tests/extensions/hibernate-reactive-rest-data-panache-deployment/src/test/java/io/quarkus/hibernate/reactive/rest/data/panache/deployment/openapi/OpenApiIntegrationTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithBaseImageFromInternalRegistryDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithCronJobResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithUberJarDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithCommonResourcesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithCustomRouteResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithServiceBindingTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/MinikubeWithDefaultsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithJobResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithAutoMongoBindingTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesInitTaskWithCustomWaitForImageTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithJvmArgumentsDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithDockerBuildStrategyTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KnativeWithHealthUsingManagementInterfaceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithSidecarAndProbesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithIdempotentTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithRemoteDebugTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithStartupProbePortTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KnativeWithHealthTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesAndMinikubeWithApplicationPropertiesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithLocalDockerAndDeploymentResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithPvcVolumesTest.java
+- /tmp/extracted-tests/extensions/hibernate-reactive-deployment/src/test/java/io/quarkus/hibernate/reactive/transaction/DisableJTATransactionTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithJobResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsManagementPortTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithRemoteDebugDeploymentConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithJvmArgumentsTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithDockerAndImageTest.java
+- /tmp/extracted-tests/integration-tests/container-image/quarkus-standard-way/src/test/java/io/quarkus/it/container/image/MultipleContainerImageExtensionTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithMetricsAndManagementInterfaceEnabledTest.java
+- /tmp/extracted-tests/extensions/resteasy-links-deployment/src/test/java/io/quarkus/resteasy/links/deployment/HalLinksWithJsonbTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/WithKubernetesClientAndExistingResourcesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithProbePortTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithSpecifiedContainerNameTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithSidecarTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithGrpcProbeEnabledTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithProbePortByNameTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithStatefulSetResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithGrpcProbeTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithHealthUsingSecuredManagementInterfaceAtRuntimeTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/WithKubernetesClientAndRbacDisabledTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithIngressTargetPortTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithJvmAdditionalArgumentsTest.java
+- /tmp/extracted-tests/extensions/rest-links-deployment/src/test/java/io/quarkus/resteasy/reactive/links/deployment/HalLinksWithJacksonTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithIngressRulesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithStatefulSetResourceTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithKubernetesConfigTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithFlywayIntAndCustomServiceAccountTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithSecureIngressTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithInputStatefulSetResourcesTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/OpenshiftWithImageTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithFlywayInitWithJobDisabledTest.java
+- /tmp/extracted-tests/integration-tests/kubernetes/quarkus-standard-way/src/test/java/io/quarkus/it/kubernetes/KubernetesWithServiceBindingTest.java
+
+=== Leaving aside SureFire and Failsafe plugins, following projects contains their own build plugins
+    (please note there probably nothing wrong about that, just revise their setup like
+     version or properties in relation to RHBQ, if not relevant, ignore them;
+     many plugins are specified in profiles and these are not listed here):
+- Build plugin 'maven-source-plugin' (with version '3.4.0') was declared in POM of following projects:
+  - project 'quarkus-parent' located at 'independent-projects/parent'
+
+- Build plugin 'quarkus-maven-plugin' (with version '${quarkus.platform.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-kafka-sasl-elytron' located at 'integration-tests/kafka-sasl-elytron'
+
+- Build plugin 'maven-clean-plugin' (with version '3.5.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-gradle-plugin' located at 'integration-tests/gradle'
+
+- Build plugin 'build-helper-maven-plugin' (with version '3.6.1') was declared in POM of following projects:
+  - project 'quarkus-integration-test-grpc-stork-recovery' located at 'integration-tests/grpc-stork-recovery'
+
+- Build plugin 'maven-install-plugin' (with version '3.1.4') was declared in POM of following projects:
+  - project 'quarkus-virtual-threads-integration-tests-parent' located at 'integration-tests/virtual-threads'
+
+- Build plugin 'properties-maven-plugin' (with version '${properties-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-virtual-threads-integration-tests-parent' located at 'integration-tests/virtual-threads'
+
+- Build plugin 'quarkus-platform-bom-maven-plugin' (with version '0.0.132') was declared in POM of following projects:
+  - project 'quarkus-integration-test-maven' located at 'integration-tests/maven'
+
+- Build plugin 'module-services-plugin' (with version '1.3') was declared in POM of following projects:
+  - project 'quarkus-parent' located at 'independent-projects/parent'
+
+- Build plugin 'quarkus-extension-maven-plugin' (with version '${core.quarkus.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-devservices-dependent-extension' located at 'integration-tests/devservices/dependent-extension/runtime'
+
+- Build plugin 'maven-resources-plugin' (with version '3.5.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-jpa-postgresql' located at 'integration-tests/jpa-postgresql'
+
+- Build plugin 'scala-maven-plugin' (with version '${scala-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-scala' located at 'integration-tests/scala'
+
+- Build plugin 'docker-maven-plugin' (with version '${docker-maven-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-hibernate-orm-compatibility-5.6-postgresql' located at 'integration-tests/hibernate-orm-compatibility-5.6/postgresql'
+
+- Build plugin 'protobuf-maven-plugin' (with version '0.6.1') was declared in POM of following projects:
+  - project 'quarkus-grpc-deployment' located at 'extensions/grpc-deployment'
+
+- Build plugin 'smallrye-certificate-generator-maven-plugin' (with version '${smallrye-certificate-generator.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-oidc' located at 'integration-tests/oidc'
+
+- Build plugin 'maven-invoker-plugin' (with version '${maven-invoker-plugin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-container-image-invoker' located at 'integration-tests/container-image/maven-invoker-way'
+
+- Build plugin 'jandex-maven-plugin' (with version '${jandex.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-jpa-xml-modern-library-b' located at 'integration-tests/jpa-mapping-xml/modern-library-b'
+
+- Build plugin 'maven-jar-plugin' (with version '3.5.0') was declared in POM of following projects:
+  - project 'quarkus-integration-test-vertx-http-compressors-app' located at 'integration-tests/vertx-http-compressors/app'
+
+- Build plugin 'exec-maven-plugin' (with version '3.6.3') was declared in POM of following projects:
+  - project 'quarkus-integration-test-hibernate-orm-compatibility-5.6-postgresql' located at 'integration-tests/hibernate-orm-compatibility-5.6/postgresql'
+
+- Build plugin 'maven-compiler-plugin' (with version '${version.compiler.plugin}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-rest-client-reactive-stork' located at 'integration-tests/rest-client-reactive-stork'
+
+- Build plugin 'kotlin-maven-plugin' (with version '${kotlin.version}') was declared in POM of following projects:
+  - project 'quarkus-integration-test-logging-panache-kotlin' located at 'integration-tests/logging-panache-kotlin'
+
+

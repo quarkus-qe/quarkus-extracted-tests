@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client-keycloak/src/test/java/io/quarkus/it/smallrye/graphql/keycloak/GraphQLAuthExpiryDeferredTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client-keycloak/src/test/java/io/quarkus/it/smallrye/graphql/keycloak/GraphQLAuthExpiryIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client-keycloak/src/test/java/io/quarkus/it/smallrye/graphql/keycloak/GraphQLAuthExpiryTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client-keycloak/src/test/java/io/quarkus/it/smallrye/graphql/keycloak/KeycloakRealmResourceManager.java

@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/main/java/io/quarkus/io/smallrye/graphql/client/GraphQLClientTester.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/main/java/io/quarkus/io/smallrye/graphql/client/LuckyNumbersClientApi.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/main/java/io/quarkus/io/smallrye/graphql/client/LuckyNumbersClientApiWithConfigKey.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/main/java/io/quarkus/io/smallrye/graphql/client/LuckyNumbersResource.java

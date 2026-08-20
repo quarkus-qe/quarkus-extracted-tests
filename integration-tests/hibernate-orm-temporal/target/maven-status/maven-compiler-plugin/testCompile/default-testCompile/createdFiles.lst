@@ -1,0 +1,4 @@
+io/quarkus/it/audit/HibernateOrmAuditTest.class
+io/quarkus/it/audit/HibernateOrmAuditIT.class
+io/quarkus/it/temporal/HibernateOrmTemporalTest.class
+io/quarkus/it/temporal/HibernateOrmTemporalIT.class

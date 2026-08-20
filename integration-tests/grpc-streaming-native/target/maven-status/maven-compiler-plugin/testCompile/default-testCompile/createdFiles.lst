@@ -1,0 +1,4 @@
+io/quarkus/grpc/example/streaming/StreamingEndpointTestBase.class
+io/quarkus/grpc/example/streaming/StreamingEndpointTest.class
+io/quarkus/grpc/example/streaming/StreamingEndpointIT.class
+io/quarkus/grpc/example/streaming/StreamingEndpointTestBase$1.class
