@@ -1,0 +1,5 @@
+io/quarkus/it/opentelemetry/output/SpanDataSerializer.class
+io/quarkus/it/opentelemetry/GreetingResource.class
+io/quarkus/it/opentelemetry/ExporterResource$InMemorySpanExporterProducer.class
+io/quarkus/it/opentelemetry/ExporterResource.class
+io/quarkus/it/opentelemetry/output/SpanDataModuleSerializer.class

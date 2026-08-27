@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/AddItemCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/CliCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/CliRunCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/CliVersionCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/HelloCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/Item.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/ItemService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/main/java/io/quarkus/it/aesh/ListItemsCommand.java
