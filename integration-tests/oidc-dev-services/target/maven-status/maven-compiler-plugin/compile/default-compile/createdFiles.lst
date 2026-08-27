@@ -1,0 +1,15 @@
+io/quarkus/it/oidc/dev/services/SecurityIdentityUpdateWebSocket$RequestDto.class
+io/quarkus/it/oidc/dev/services/TypesafeGraphQLClientWithNamedOidcClient.class
+io/quarkus/it/oidc/dev/services/SecurityIdentityUpdateWebSocket$Metadata.class
+io/quarkus/it/oidc/dev/services/GraphQLClientResource.class
+io/quarkus/it/oidc/dev/services/RolesChangingIdentityAugmentor$1.class
+io/quarkus/it/oidc/dev/services/RolesChangingIdentityAugmentor.class
+io/quarkus/it/oidc/dev/services/ProtectedGraphQLEndpoint.class
+io/quarkus/it/oidc/dev/services/UpdatedRoleSecurityIdentityWebSocket.class
+io/quarkus/it/oidc/dev/services/SecuredResource.class
+io/quarkus/it/oidc/dev/services/SecurityIdentityUpdateWebSocket$ResponseDto.class
+io/quarkus/it/oidc/dev/services/ChatWebSocket.class
+io/quarkus/it/oidc/dev/services/ExpiredUpdatedSecurityIdentityWebSocket.class
+io/quarkus/it/oidc/dev/services/TypesafeGraphQLClient.class
+io/quarkus/it/oidc/dev/services/ExpiredIdentityAugmentor.class
+io/quarkus/it/oidc/dev/services/SecurityIdentityUpdateWebSocket.class

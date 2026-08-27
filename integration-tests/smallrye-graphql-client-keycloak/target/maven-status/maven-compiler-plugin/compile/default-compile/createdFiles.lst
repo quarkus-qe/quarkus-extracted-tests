@@ -1,0 +1,3 @@
+io/quarkus/io/smallrye/graphql/keycloak/SecuredResource$TestResponse.class
+io/quarkus/io/smallrye/graphql/keycloak/SecuredResource.class
+io/quarkus/io/smallrye/graphql/keycloak/GraphQLAuthExpiryTester.class

@@ -1,0 +1,4 @@
+io/quarkus/it/hibernate/jpamodelgen/PanacheJpaModelGenTest.class
+io/quarkus/it/hibernate/jpamodelgen/HibernateJpaModelGenInGraalIT.class
+io/quarkus/it/hibernate/jpamodelgen/PanacheJpaModelGenInGraalIT.class
+io/quarkus/it/hibernate/jpamodelgen/HibernateJpaModelGenTest.class
