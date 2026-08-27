@@ -1,0 +1,7 @@
+io/quarkus/it/kafka/avro/OrderStatus.class
+io/quarkus/it/kafka/avro/Order$Builder.class
+io/quarkus/it/kafka/avro/AvroEndpoint.class
+io/quarkus/it/kafka/avro/AvroKafkaCreator.class
+io/quarkus/it/kafka/avro/Pet$Builder.class
+io/quarkus/it/kafka/avro/Order.class
+io/quarkus/it/kafka/avro/Pet.class

@@ -1,0 +1,16 @@
+io/quarkus/it/nat/test/profile/RuntimeValueChangeTest$CustomTestProfile.class
+io/quarkus/it/nat/test/profile/BuiltTimeProfileChangeManualIT$BuildProfileChange.class
+io/quarkus/it/nat/test/profile/BuiltTimeValueChangeManualIT.class
+io/quarkus/it/nat/test/profile/RuntimeProfileChangeTest.class
+io/quarkus/it/nat/test/profile/DefaultTestProfileTest.class
+io/quarkus/it/nat/test/profile/RuntimeProfileChangeTest$CustomTestProfile.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesTest.class
+io/quarkus/it/nat/test/profile/RuntimeProfileChangeIT.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesIT.class
+io/quarkus/it/nat/test/profile/BuiltTimeProfileChangeManualIT.class
+io/quarkus/it/nat/test/profile/BuiltTimeValueChangeManualIT$BuildTimeValueChangeTestProfile.class
+io/quarkus/it/nat/test/profile/DefaultTestProfileIT.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesTest$CustomTestProfile.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeFromTestResourcesTest$DummyTestResource.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeTest.class
+io/quarkus/it/nat/test/profile/RuntimeValueChangeIT.class
