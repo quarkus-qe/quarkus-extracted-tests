@@ -1,0 +1,3 @@
+io/quarkus/signals/it/cmd/SignalsApp.class
+io/quarkus/signals/it/cmd/CmdReceivers.class
+io/quarkus/signals/it/cmd/Cmd.class

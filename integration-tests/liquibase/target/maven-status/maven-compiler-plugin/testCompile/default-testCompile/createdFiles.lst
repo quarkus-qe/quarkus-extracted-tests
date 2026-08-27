@@ -1,0 +1,6 @@
+io/quarkus/it/liquibase/LiquibaseTestResources.class
+io/quarkus/it/liquibase/LiquibaseLogicalFilePathNativeIT.class
+io/quarkus/it/liquibase/LiquibaseFunctionalityNativeIT.class
+io/quarkus/it/liquibase/LiquibaseLogicalFilePathTest.class
+io/quarkus/it/liquibase/LiquibaseFunctionalityPMT.class
+io/quarkus/it/liquibase/LiquibaseFunctionalityTest.class
