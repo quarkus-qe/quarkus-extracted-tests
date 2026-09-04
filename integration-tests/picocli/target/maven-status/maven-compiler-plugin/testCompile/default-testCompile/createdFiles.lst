@@ -1,0 +1,10 @@
+io/quarkus/it/picocli/TestOneCommand.class
+io/quarkus/it/picocli/TestExitCode.class
+io/quarkus/it/picocli/TestUtils.class
+io/quarkus/it/picocli/TestVersion.class
+io/quarkus/it/picocli/TestOneCommand$EventListener.class
+io/quarkus/it/picocli/TestTopCommand.class
+io/quarkus/it/picocli/TestNamedCommand.class
+io/quarkus/it/picocli/TestTopCommandProperty.class
+io/quarkus/it/picocli/TestParsedCommand$ConfigProducer.class
+io/quarkus/it/picocli/TestParsedCommand.class
