@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/AeshReplTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/AeshReplWithHibernateTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/AeshTestUtils.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestConsoleMode.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestMultipleCommands.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestMultipleCommandsCalc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestMultipleCommandsInfo.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestParentCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestParentCommandVerbose.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh/src/test/java/io/quarkus/it/aesh/TestSingleCommand.java

@@ -1,0 +1,6 @@
+io/quarkus/it/resteasy/mutiny/MyRestService.class
+io/quarkus/it/resteasy/mutiny/regression/bug25818/ReproducerResource.class
+io/quarkus/it/resteasy/mutiny/MutinyResource.class
+io/quarkus/it/resteasy/mutiny/SomeService.class
+io/quarkus/it/resteasy/mutiny/regression/bug25818/BlockingService.class
+io/quarkus/it/resteasy/mutiny/Pet.class
