@@ -1,0 +1,17 @@
+io/quarkus/it/kafka/DevServicesKafkaCustomPortITest.class
+io/quarkus/it/kafka/devservices/profiles/DevServicesCustomPortReusableServiceProfile.class
+io/quarkus/it/kafka/continuoustesting/DevServicesDevModeTest.class
+io/quarkus/it/kafka/devservices/profiles/DevServicesDisabledProfile.class
+io/quarkus/it/kafka/continuoustesting/DevServicesKafkaContinuousTestingTest.class
+io/quarkus/it/kafka/BundledEndpoint.class
+io/quarkus/it/kafka/continuoustesting/BaseDevServiceTest.class
+io/quarkus/it/kafka/KafkaAdminITCase.class
+io/quarkus/it/kafka/devservices/profiles/DevServiceKafka.class
+io/quarkus/it/kafka/DevServicesKafkaNonUniquePortITest.class
+io/quarkus/it/kafka/devservices/profiles/DevServicesRandomPortProfile.class
+io/quarkus/it/kafka/continuoustesting/DevServicesContainerSharingTest.class
+io/quarkus/it/kafka/devservices/profiles/DevServicesNonUniquePortProfile.class
+io/quarkus/it/kafka/DevServicesKafkaCustomPortReusableServiceITest.class
+io/quarkus/it/kafka/DevServicesKafkaNonUniquePortSecondTest.class
+io/quarkus/it/kafka/devservices/profiles/DevServicesCustomPortProfile.class
+io/quarkus/it/kafka/KafkaAdminTest.class

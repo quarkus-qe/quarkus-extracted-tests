@@ -1,0 +1,12 @@
+io/quarkus/it/aesh/ssh/CdiGreetCommand_AeshMetadata$Accessor.class
+META-INF/services/org.aesh.command.metadata.MetadataRegistry
+META-INF/native-image/org.aesh/aesh-generated/resource-config.json
+io/quarkus/it/aesh/ssh/HelloCommand_AeshMetadata$Accessor.class
+io/quarkus/it/aesh/ssh/HelloCommand_AeshMetadata.class
+io/quarkus/it/aesh/ssh/CdiGreetCommand_AeshMetadata.class
+io/quarkus/it/aesh/ssh/HelloCommand.class
+io/quarkus/it/aesh/ssh/GreetingService.class
+META-INF/aesh/registry
+io/quarkus/it/aesh/ssh/CdiGreetCommand.class
+META-INF/native-image/org.aesh/aesh-generated/reflect-config.json
+io/quarkus/it/aesh/ssh/_AeshMetadataRegistry.class
