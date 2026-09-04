@@ -1,0 +1,4 @@
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityInGraalITCase.class
+io/quarkus/it/hibernate/validator/TextResourceTest.class
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityTest.class
+io/quarkus/it/hibernate/validator/RestClientTest.class

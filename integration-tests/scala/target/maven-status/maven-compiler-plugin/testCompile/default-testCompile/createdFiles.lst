@@ -1,0 +1,3 @@
+io/quarkus/scala/maven/it/ScalaRemoteDevModeIT.class
+io/quarkus/scala/maven/it/ScalaCreateMavenProjectIT.class
+io/quarkus/scala/maven/it/ScalaDevModeIT.class
