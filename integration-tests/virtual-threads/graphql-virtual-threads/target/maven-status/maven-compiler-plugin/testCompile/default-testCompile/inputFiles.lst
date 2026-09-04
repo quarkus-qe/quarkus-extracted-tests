@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/graphql-virtual-threads/src/test/java/io/quarkus/virtual/graphql/AbstractGraphQLTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/graphql-virtual-threads/src/test/java/io/quarkus/virtual/graphql/GraphQLThreadTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/graphql-virtual-threads/src/test/java/io/quarkus/virtual/graphql/RunOnVirtualThreadIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/graphql-virtual-threads/src/test/java/io/quarkus/virtual/graphql/RunOnVirtualThreadTest.java

@@ -1,0 +1,11 @@
+io/quarkus/it/keycloak/MisconfiguredClientFilter.class
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/ProtectedResourceServiceDisabledClient.class
+io/quarkus/it/keycloak/FrontendResource$1.class
+io/quarkus/it/keycloak/ProtectedResourceServiceReactiveFilter.class
+io/quarkus/it/keycloak/ProtectedResourceServiceCustomFilter.class
+io/quarkus/it/keycloak/OidcClientCreator.class
+io/quarkus/it/keycloak/ProtectedResourceServiceNamedFilter.class
+io/quarkus/it/keycloak/OidcClientRequestCustomFilter.class
+io/quarkus/it/keycloak/TokenEndpointResponseFilter.class

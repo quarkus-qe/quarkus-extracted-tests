@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestExitCode.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestNamedCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestOneCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestParsedCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestTopCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestTopCommandProperty.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestUtils.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/test/java/io/quarkus/it/picocli/TestVersion.java

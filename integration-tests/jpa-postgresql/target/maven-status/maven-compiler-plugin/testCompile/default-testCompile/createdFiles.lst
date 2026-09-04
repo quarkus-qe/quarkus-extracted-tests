@@ -1,0 +1,5 @@
+io/quarkus/it/jpa/postgresql/JPAFunctionalityTest.class
+io/quarkus/it/jpa/postgresql/JPAFunctionalityInGraalITCase.class
+io/quarkus/it/jpa/postgresql/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/postgresql/OverrideJdbcUrlBuildTimeConfigSource.class
+io/quarkus/it/jpa/postgresql/JPAReflectionInGraalITCase.class
