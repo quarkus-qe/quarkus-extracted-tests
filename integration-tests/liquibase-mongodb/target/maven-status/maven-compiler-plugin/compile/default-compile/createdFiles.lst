@@ -1,0 +1,5 @@
+io/quarkus/it/liquibase/mongodb/FruitResource.class
+io/quarkus/it/liquibase/mongodb/User.class
+io/quarkus/it/liquibase/mongodb/UserResource.class
+io/quarkus/it/liquibase/mongodb/MigrationService.class
+io/quarkus/it/liquibase/mongodb/Fruit.class

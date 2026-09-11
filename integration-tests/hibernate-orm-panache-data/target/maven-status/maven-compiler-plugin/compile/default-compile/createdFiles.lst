@@ -1,0 +1,13 @@
+io/quarkus/it/hibernate/processor/data/pudefault/_MyEntity.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredHqlMethodRepository.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyEntity.class
+io/quarkus/it/hibernate/processor/data/pudefault/UnaccessibleFindMethodRepository.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyEntity_.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyRepository.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredSqlMethodRepository.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredSqlMethodRepository_.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyRepository_.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredFindMethodRepository_.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredHqlMethodRepository_.class
+io/quarkus/it/hibernate/processor/data/pudefault/UnaccessibleFindMethodRepository_.class
+io/quarkus/it/hibernate/processor/data/pudefault/SecuredFindMethodRepository.class

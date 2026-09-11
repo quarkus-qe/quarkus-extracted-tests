@@ -1,0 +1,4 @@
+io/quarkus/it/kafka/KafkaJsonSchemaTest.class
+io/quarkus/it/kafka/KafkaJsonSchemaTestBase.class
+io/quarkus/it/kafka/KafkaJsonSchemaIT.class
+io/quarkus/it/kafka/KafkaResource.class

@@ -1,0 +1,12 @@
+io/quarkus/it/vertx/SimpleResource.class
+io/quarkus/it/vertx/HeaderResource.class
+io/quarkus/it/vertx/NoManagementInterfaceRoute.class
+io/quarkus/it/vertx/NettyEventLoopResource.class
+io/quarkus/it/vertx/VertxProducerResource.class
+io/quarkus/it/vertx/FilterResource.class
+io/quarkus/it/vertx/UploadRoute.class
+io/quarkus/it/vertx/HelloResource.class
+io/quarkus/it/vertx/BeanRegisteringRoute$1.class
+io/quarkus/it/vertx/BeanRegisteringRoute.class
+io/quarkus/it/vertx/UploadRoute$UploadHandler.class
+io/quarkus/it/vertx/MyCredentialProvider.class

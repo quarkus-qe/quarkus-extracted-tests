@@ -1,0 +1,3 @@
+io/quarkus/it/spring/tx/TransactionalResource.class
+io/quarkus/it/spring/tx/ClassLevelTransactionalService.class
+io/quarkus/it/spring/tx/TransactionalService.class
