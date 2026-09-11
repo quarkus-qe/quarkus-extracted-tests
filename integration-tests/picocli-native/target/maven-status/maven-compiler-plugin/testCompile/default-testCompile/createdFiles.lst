@@ -1,0 +1,8 @@
+org/acme/NestedLaunchTest$Nested3.class
+org/acme/NestedLaunchTest$Nested2.class
+io/quarkus/it/picocli/PicocliTest$TestResource.class
+io/quarkus/it/picocli/PicocliTest.class
+org/acme/NestedLaunchTest.class
+org/acme/NestedLaunchTest$Nested1.class
+io/quarkus/it/picocli/BeforeEachLaunchTest.class
+io/quarkus/it/picocli/PicocliIT.class

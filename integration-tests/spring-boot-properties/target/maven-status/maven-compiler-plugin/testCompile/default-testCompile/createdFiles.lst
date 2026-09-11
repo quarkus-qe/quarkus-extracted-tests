@@ -1,0 +1,8 @@
+io/quarkus/it/spring/boot/BeanPropertiesIT.class
+io/quarkus/it/spring/boot/InterfacePropertiesIT.class
+io/quarkus/it/spring/boot/DefaultPropertiesTest.class
+io/quarkus/it/spring/boot/ClassPropertiesTest.class
+io/quarkus/it/spring/boot/DefaultPropertiesIT.class
+io/quarkus/it/spring/boot/InterfacePropertiesTest.class
+io/quarkus/it/spring/boot/BeanPropertiesTest.class
+io/quarkus/it/spring/boot/ClassPropertiesIT.class

@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/test/java/io/quarkus/it/keycloak/KeycloakRealmResourceManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/test/java/io/quarkus/it/keycloak/OidcTokenPropagationITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/oidc-token-propagation/src/test/java/io/quarkus/it/keycloak/OidcTokenPropagationTest.java

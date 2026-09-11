@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/ConsulContainerWithFixedPortsTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/CustomExplicitConfigRegistrationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/DisabledRegistrationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/ImplicitConfigRegistrationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/MixedStorkServicesConfigIsolationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/MultipleRegistrarsConfigRegistrationTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/RegistrarConfigDoesNotLeakBetweenServicesTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-stork-consul-registration/src/test/java/org/acme/SingleServiceWithDiscoveryAndRegistrarConfigTest.java

@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/test/java/io/quarkus/it/elytron/JCAITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/test/java/io/quarkus/it/elytron/JCATestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/test/java/io/quarkus/it/elytron/X500PrincipalUtilITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/elytron-security/src/test/java/io/quarkus/it/elytron/X500PrincipalUtilTestCase.java

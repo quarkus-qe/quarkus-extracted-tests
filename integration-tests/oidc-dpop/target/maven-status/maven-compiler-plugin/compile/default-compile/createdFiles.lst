@@ -1,0 +1,5 @@
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/DPoPAuthFailureObserver.class
+io/quarkus/it/keycloak/DummyDPoPNonceProvider.class
+io/quarkus/it/keycloak/DPoPAuthFailureEventResource.class
+io/quarkus/it/keycloak/ProtectedResource.class
