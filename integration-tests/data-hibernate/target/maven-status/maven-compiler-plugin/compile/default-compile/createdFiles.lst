@@ -1,0 +1,15 @@
+io/quarkus/it/data/hibernate/Book_$Repository_.class
+io/quarkus/it/data/hibernate/BookResource.class
+io/quarkus/it/data/hibernate/Book_.class
+io/quarkus/it/data/hibernate/Book$Repository.class
+io/quarkus/it/data/hibernate/_Person.class
+io/quarkus/it/data/hibernate/Book.class
+io/quarkus/it/data/hibernate/Person_$PanacheStatelessBlockingRepository_.class
+io/quarkus/it/data/hibernate/_Book.class
+io/quarkus/it/data/hibernate/Book_$PanacheStatelessBlockingRepository_.class
+io/quarkus/it/data/hibernate/Person$Repository.class
+io/quarkus/it/data/hibernate/Person_.class
+io/quarkus/it/data/hibernate/PersonService.class
+io/quarkus/it/data/hibernate/Person_$Repository_.class
+io/quarkus/it/data/hibernate/Person.class
+io/quarkus/it/data/hibernate/PersonResource.class

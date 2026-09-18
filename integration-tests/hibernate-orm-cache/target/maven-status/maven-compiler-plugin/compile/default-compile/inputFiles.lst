@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Citizen.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Country.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/DataBlob.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/DataBlobWeigher.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/HibernateOrmCacheTestEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Item.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Pokemon.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-cache/src/main/java/io/quarkus/it/hibernate/orm/cache/Trainer.java

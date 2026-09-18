@@ -1,0 +1,9 @@
+io/quarkus/it/rest/data/hibernate/Fruit.class
+io/quarkus/it/rest/data/hibernate/ParamEchoResource.class
+io/quarkus/it/rest/data/hibernate/FruitRepository_.class
+io/quarkus/it/rest/data/hibernate/Fruit_.class
+io/quarkus/it/rest/data/hibernate/FruitResource.class
+io/quarkus/it/rest/data/hibernate/_Fruit.class
+io/quarkus/it/rest/data/hibernate/ParamEchoResource$AnnotatedItem.class
+io/quarkus/it/rest/data/hibernate/FruitRepository.class
+io/quarkus/it/rest/data/hibernate/ParamEchoResource$Item.class

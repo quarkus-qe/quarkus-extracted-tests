@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase-mongodb/src/test/java/io/quarkus/it/liquibase/mongodb/FruitResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase-mongodb/src/test/java/io/quarkus/it/liquibase/mongodb/MigrationServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase-mongodb/src/test/java/io/quarkus/it/liquibase/mongodb/NativeFruitResourceTestIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase-mongodb/src/test/java/io/quarkus/it/liquibase/mongodb/UserResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/liquibase-mongodb/src/test/java/io/quarkus/it/liquibase/mongodb/UserResourceTestIT.java

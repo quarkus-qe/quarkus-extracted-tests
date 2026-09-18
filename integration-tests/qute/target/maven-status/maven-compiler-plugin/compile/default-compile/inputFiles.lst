@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/Beer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/BeerResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/Brewery.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/DefaultMethodResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/HelloResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/HelloRoutes.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/JsonResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/qute/src/main/java/io/quarkus/it/qute/NotFoundExceptionMapper.java

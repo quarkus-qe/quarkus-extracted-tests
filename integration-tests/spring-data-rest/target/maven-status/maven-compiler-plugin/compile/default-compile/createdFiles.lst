@@ -1,0 +1,7 @@
+io/quarkus/it/spring/data/rest/AuthorsRepository.class
+io/quarkus/it/spring/data/rest/Author.class
+io/quarkus/it/spring/data/rest/BooksRepository.class
+io/quarkus/it/spring/data/rest/Library.class
+io/quarkus/it/spring/data/rest/Book.class
+io/quarkus/it/spring/data/rest/ArticleJpaRepository.class
+io/quarkus/it/spring/data/rest/Article.class

@@ -1,0 +1,4 @@
+META-INF/stork-docs/delayed-sd-attributes.txt
+META-INF/services/io.smallrye.stork.spi.internal.ServiceDiscoveryLoader
+META-INF/services/io.smallrye.stork.spi.internal.LoadBalancerLoader
+META-INF/services/io.smallrye.stork.spi.internal.ServiceRegistrarLoader

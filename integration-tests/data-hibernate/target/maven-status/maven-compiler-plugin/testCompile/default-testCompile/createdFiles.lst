@@ -1,0 +1,3 @@
+io/quarkus/it/data/hibernate/QuarkusDataHibernateFunctionalityIT.class
+io/quarkus/it/data/hibernate/QuarkusDataHibernateFunctionalityTest.class
+io/quarkus/it/data/hibernate/QuarkusDataHibernateInjectMockTest.class

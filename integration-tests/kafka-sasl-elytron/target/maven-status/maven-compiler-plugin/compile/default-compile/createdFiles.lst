@@ -1,0 +1,3 @@
+io/quarkus/it/kafka/sasl/KafkaResource.class
+io/quarkus/it/kafka/sasl/KafkaProducer.class
+io/quarkus/it/kafka/sasl/KafkaConsumer.class
