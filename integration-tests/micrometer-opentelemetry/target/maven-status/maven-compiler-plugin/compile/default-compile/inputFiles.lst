@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/AppResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/SimpleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/services/CountedBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/services/ManualHistogram.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/services/TestValueResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/services/TraceData.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/micrometer-opentelemetry/src/main/java/io/quarkus/micrometer/opentelemetry/services/TracedService.java

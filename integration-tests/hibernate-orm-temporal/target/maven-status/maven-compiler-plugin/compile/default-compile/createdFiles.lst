@@ -1,0 +1,5 @@
+io/quarkus/it/temporal/TemporalProduct.class
+io/quarkus/it/audit/RevisionInfo.class
+io/quarkus/it/audit/AuditedOrder.class
+io/quarkus/it/audit/AuditResource.class
+io/quarkus/it/temporal/TemporalResource.class

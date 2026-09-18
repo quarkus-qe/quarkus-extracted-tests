@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/AdminClientResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/DynamicTenantPolicyConfigResolver.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/ProtectedResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/ProtectedResource2.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/ProtectedScopeResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/ProtectedTenantResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/ProtectedWebAppTenantResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/PublicResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/SnakeCaseObjectMapperCustomizer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/keycloak-authorization/src/main/java/io/quarkus/it/keycloak/UsersResource.java

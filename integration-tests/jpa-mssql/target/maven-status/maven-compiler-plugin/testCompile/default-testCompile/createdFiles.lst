@@ -1,0 +1,5 @@
+io/quarkus/it/jpa/mssql/DialectTest.class
+io/quarkus/it/jpa/mssql/DialectInGraalITCase.class
+io/quarkus/it/jpa/mssql/JPAFunctionalityInGraalITCase.class
+io/quarkus/it/jpa/mssql/HibernateOrmNoWarningsTest.class
+io/quarkus/it/jpa/mssql/JPAFunctionalityTest.class

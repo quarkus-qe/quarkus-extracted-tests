@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/AbstractSpatialResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/GeolatteResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/JtsResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/SpatialApplication.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/geolatte/GeolatteLineEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/geolatte/GeolattePointEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/geolatte/GeolattePolygonEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/jts/JtsLineEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/jts/JtsPointEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-spatial/src/main/java/io/quarkus/it/spatial/jts/JtsPolygonEntity.java
