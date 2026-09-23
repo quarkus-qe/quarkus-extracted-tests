@@ -1,0 +1,4 @@
+io/quarkus/it/hibernate/reactive/mssql/HibernateReactiveMSSQLTest.class
+io/quarkus/it/hibernate/reactive/mssql/HibernateReactiveMSSQLInGraalIT.class
+io/quarkus/it/hibernate/reactive/mssql/DialectInGraalITCase.class
+io/quarkus/it/hibernate/reactive/mssql/DialectTest.class

@@ -1,0 +1,5 @@
+io/quarkus/it/oidc/OidcMtlsTest.class
+io/quarkus/it/oidc/OidcMtlsBasicAuthTest$LaxInclusiveModeProfile.class
+io/quarkus/it/oidc/KeycloakTestResourceLifecycleManager.class
+io/quarkus/it/oidc/OidcMtlsIT.class
+io/quarkus/it/oidc/OidcMtlsBasicAuthTest.class

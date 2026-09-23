@@ -1,0 +1,5 @@
+io/quarkus/it/amqp/AmqpBroker.class
+io/quarkus/it/amqp/AmqpBroker$1.class
+io/quarkus/it/amqp/AmqpConnectorIT.class
+io/quarkus/it/amqp/AmqpConnectorTest.class
+io/quarkus/it/amqp/AmqpConnectorTest$1.class

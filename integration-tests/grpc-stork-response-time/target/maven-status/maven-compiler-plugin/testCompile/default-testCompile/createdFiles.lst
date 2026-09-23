@@ -1,0 +1,4 @@
+io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionIT.class
+io/quarkus/grpc/examples/stork/VertxGrpcStorkResponseTimeCollectionTest.class
+io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionTestBase.class
+io/quarkus/grpc/examples/stork/GrpcStorkResponseTimeCollectionTest.class

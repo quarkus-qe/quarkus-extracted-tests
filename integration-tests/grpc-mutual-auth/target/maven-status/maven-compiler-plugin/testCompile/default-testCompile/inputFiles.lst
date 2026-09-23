@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldMutualTlsEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldMutualTlsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldMutualTlsServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldMutualTlsServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/HelloWorldMutualTlsServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldMutualTlsEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldMutualTlsEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldMutualTlsEndpointTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldMutualTlsServiceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-mutual-auth/src/test/java/io/quarkus/grpc/examples/hello/VertxHelloWorldMutualTlsServiceTest.java

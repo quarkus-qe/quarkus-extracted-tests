@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/Dummy.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/Count.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/CounterInterceptor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/InputObject.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/OutputObject.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/ProcessingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/TestLambda.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/main/java/io/quarkus/it/amazon/lambda/UnusedLambda.java

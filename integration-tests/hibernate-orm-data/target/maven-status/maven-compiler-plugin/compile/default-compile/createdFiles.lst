@@ -1,0 +1,12 @@
+io/quarkus/it/hibernate/processor/data/pudefault/_MyEntity.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyEntity.class
+io/quarkus/it/hibernate/processor/data/puother/_MyOtherEntity.class
+io/quarkus/it/hibernate/processor/data/puother/MyOtherEntity.class
+io/quarkus/it/hibernate/processor/data/puother/MyOtherEntity_.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyEntity_.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyRepository.class
+io/quarkus/it/hibernate/processor/data/puother/MyOtherRepository.class
+io/quarkus/it/hibernate/processor/data/MyEntityResource.class
+io/quarkus/it/hibernate/processor/data/MyOtherEntityResource.class
+io/quarkus/it/hibernate/processor/data/pudefault/MyRepository_.class
+io/quarkus/it/hibernate/processor/data/puother/MyOtherRepository_.class
