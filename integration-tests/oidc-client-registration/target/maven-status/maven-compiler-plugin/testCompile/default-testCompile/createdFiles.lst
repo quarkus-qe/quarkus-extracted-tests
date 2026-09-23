@@ -1,0 +1,3 @@
+io/quarkus/it/keycloak/OidcClientRegistrationTest.class
+io/quarkus/it/keycloak/OidcClientRegistrationInGraalITCase.class
+io/quarkus/it/keycloak/OidcClientRegistrationTest$1.class

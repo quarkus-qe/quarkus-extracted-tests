@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-rabbitmq/src/main/java/io/quarkus/it/rabbitmq/PeopleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-rabbitmq/src/main/java/io/quarkus/it/rabbitmq/PeopleProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-rabbitmq/src/main/java/io/quarkus/it/rabbitmq/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-rabbitmq/src/main/java/io/quarkus/it/rabbitmq/RabbitMQEndpoint.java

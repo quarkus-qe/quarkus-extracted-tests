@@ -1,0 +1,2 @@
+io/quarkus/it/kafka/ssl/CertificateFormat.class
+io/quarkus/it/kafka/ssl/SslKafkaEndpoint.class

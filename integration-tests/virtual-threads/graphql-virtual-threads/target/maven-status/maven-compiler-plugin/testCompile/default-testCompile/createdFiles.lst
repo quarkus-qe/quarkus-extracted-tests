@@ -1,0 +1,7 @@
+io/quarkus/virtual/graphql/GraphQLThreadTest$TestThreadResource.class
+io/quarkus/virtual/graphql/AbstractGraphQLTest$TestThread.class
+io/quarkus/virtual/graphql/RunOnVirtualThreadTest.class
+io/quarkus/virtual/graphql/RunOnVirtualThreadIT.class
+io/quarkus/virtual/graphql/RunOnVirtualThreadTest$RunOnVirtualThreadObjectTestThreadResource.class
+io/quarkus/virtual/graphql/GraphQLThreadTest.class
+io/quarkus/virtual/graphql/AbstractGraphQLTest.class

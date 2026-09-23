@@ -1,0 +1,17 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/DataForKeyedProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/DataWithMetadataProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/Fruit.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/FruitProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/FruitSplitProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/KafkaEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/KafkaReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/KafkaRepeatableReceivers.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/KafkaRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/MyPayloadExtractor.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/PeopleProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/PersonDeserializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/PersonSerializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/Pet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/PetProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-kafka/src/main/java/io/quarkus/it/kafka/PricesRepeatableProducers.java
