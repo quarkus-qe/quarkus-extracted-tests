@@ -1,0 +1,3 @@
+io/quarkus/elytron/security/jdbc/it/ElytronSecurityJdbcIT.class
+io/quarkus/elytron/security/jdbc/it/ElytronSecurityJdbcTest.class
+io/quarkus/elytron/security/jdbc/it/ElytronJdbcExtensionTestResources.class

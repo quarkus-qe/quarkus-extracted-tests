@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/src/main/java/com/example/reactive/ContextChecker.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/src/main/java/com/example/reactive/Item.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/src/main/java/com/example/reactive/ReactiveService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/src/main/java/com/example/reactive/RequestScopeBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/MutinyReactiveTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/ReactiveTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/ReactiveTestBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/ReactiveTestClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/ReactiveTestGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-hibernate-reactive/target/generated-sources/grpc/com/example/reactive/Test.java

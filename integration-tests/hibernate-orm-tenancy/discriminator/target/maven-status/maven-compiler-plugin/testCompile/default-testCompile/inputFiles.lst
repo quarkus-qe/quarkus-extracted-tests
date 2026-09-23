@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/test/java/io/quarkus/it/hibernate/multitenancy/fruit/HibernateTenancyFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/test/java/io/quarkus/it/hibernate/multitenancy/fruit/HibernateTenancyFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/test/java/io/quarkus/it/hibernate/multitenancy/inventory/HibernateNamedPersistenceUnitTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-tenancy/discriminator/src/test/java/io/quarkus/it/hibernate/multitenancy/inventory/HibernateNamedPersistenceUnitTestInGraalITCase.java

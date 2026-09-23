@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/HealthChecksITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/HealthChecksTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/kafka/KafkaServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/kafka/KafkaTestProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/postgres/PostgresITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/postgres/PostgresTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/rabbitmq/RabbitTestProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/rabbitmq/RabbitmqTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/redis/RedisServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/test/java/io/quarkus/it/compose/devservices/redis/RedisTestProfile.java

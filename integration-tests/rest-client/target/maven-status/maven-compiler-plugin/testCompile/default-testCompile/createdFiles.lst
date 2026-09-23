@@ -1,0 +1,15 @@
+io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllTestResource.class
+io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingHostnameVerifierIT.class
+io/quarkus/it/rest/client/trustall/BadHostServiceTestResource.class
+io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllIT.class
+io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingVerifyHostTestCase.class
+io/quarkus/it/rest/client/MultipartResourceTest.class
+io/quarkus/it/rest/client/wronghost/BaseExternalWrongHostTestCase.class
+io/quarkus/it/rest/client/wronghost/ExternalWrongHostTestResourceUsingVerifyHost.class
+io/quarkus/it/rest/client/wronghost/ExternalWrongHostUsingHostnameVerifierTestCase.class
+io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedITCase.class
+io/quarkus/it/rest/client/trustall/ExternalTlsTrustAllTestCase.class
+io/quarkus/it/rest/client/selfsigned/SelfSignedServiceTestResource.class
+io/quarkus/it/rest/client/MultipartResourceIT.class
+io/quarkus/it/rest/client/wronghost/ExternalWrongHostTestResourceUsingHostnameVerifier.class
+io/quarkus/it/rest/client/selfsigned/ExternalSelfSignedTestCase.class

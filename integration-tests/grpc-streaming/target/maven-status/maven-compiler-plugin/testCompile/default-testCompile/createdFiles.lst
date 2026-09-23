@@ -1,0 +1,12 @@
+io/quarkus/grpc/example/streaming/VertxStreamingEndpointTest.class
+io/quarkus/grpc/example/streaming/LongStreamTest.class
+io/quarkus/grpc/example/streaming/StreamingEndpointTestBase.class
+io/quarkus/grpc/example/streaming/StreamingServiceTest.class
+io/quarkus/grpc/example/streaming/VertxStreamingServiceTest.class
+io/quarkus/grpc/example/streaming/O2NLongStreamTest.class
+io/quarkus/grpc/example/streaming/StreamingEndpointTest.class
+io/quarkus/grpc/example/streaming/LongStreamTestBase.class
+io/quarkus/grpc/example/streaming/N2OLongStreamTest.class
+io/quarkus/grpc/example/streaming/VertxLongStreamTest.class
+io/quarkus/grpc/example/streaming/StreamingServiceTestBase.class
+io/quarkus/grpc/example/streaming/StreamingEndpointTestBase$1.class

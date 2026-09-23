@@ -1,0 +1,4 @@
+io/quarkus/it/keycloak/OidcDPopNonceTest.class
+io/quarkus/it/keycloak/OidcDPopNonceTest$UseDPoPNonceProvider.class
+io/quarkus/it/keycloak/OidcDPopTest.class
+io/quarkus/it/keycloak/OidcDPopInGraalITCase.class
