@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/FruitResource.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/Fruit.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/BookTenantResolver.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/Book.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/fruit/CustomTenantResolver.class
+io/quarkus/it/hibernate/search/orm/elasticsearch/multitenancy/book/BookResource.class

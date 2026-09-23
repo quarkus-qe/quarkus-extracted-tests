@@ -1,0 +1,5 @@
+io/quarkus/it/hibernate/compatibility/CompatibilityTestResource.class
+io/quarkus/it/hibernate/compatibility/MyEntityWithGenericGeneratorAndDefaultAllocationSize.class
+io/quarkus/it/hibernate/compatibility/MyEntityWithSequenceGeneratorAndDefaultAllocationSize.class
+io/quarkus/it/hibernate/compatibility/MyEntity.class
+io/quarkus/it/hibernate/compatibility/MyEnum.class

@@ -1,0 +1,16 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/Book.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/BookCodec.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/BookCodecProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/BookDetail.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/BookResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/BookResourceWithParameterInjection.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/ReactiveBookResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/Car.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/Moto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/Vehicle.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/VehicleResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/jsonb/VehicleCustomizer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/discriminator/jsonb/VehicleDeserializer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/pojo/OptionalPropertyCodecProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/pojo/Pojo.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/mongodb-client/src/main/java/io/quarkus/it/mongodb/pojo/PojoResource.java
