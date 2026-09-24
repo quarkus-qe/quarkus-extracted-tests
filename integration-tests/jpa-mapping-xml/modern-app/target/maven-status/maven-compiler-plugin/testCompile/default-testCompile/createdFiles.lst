@@ -1,0 +1,8 @@
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyAttributeConverterTest.class
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyEntityListenerITCase.class
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyEntityListenerTest.class
+io/quarkus/it/jpa/mapping/xml/modern/app/ModernAppInGraalITCase.class
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyAttributeConverterITCase.class
+io/quarkus/it/jpa/mapping/xml/modern/app/ModernAppTest.class
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyDirtyCheckingInGraalITCase.class
+io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyDirtyCheckingTest.class

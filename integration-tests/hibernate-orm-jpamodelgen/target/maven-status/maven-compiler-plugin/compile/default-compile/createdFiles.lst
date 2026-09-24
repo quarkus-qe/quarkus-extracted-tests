@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/jpamodelgen/MyStaticMetamodelEntity.class
+io/quarkus/it/hibernate/jpamodelgen/MyPanacheStaticMetamodelEntity.class
+io/quarkus/it/hibernate/jpamodelgen/MyPanacheStaticMetamodelEntity_.class
+io/quarkus/it/hibernate/jpamodelgen/MyStaticMetamodelResource.class
+io/quarkus/it/hibernate/jpamodelgen/MyStaticMetamodelEntity_.class
+io/quarkus/it/hibernate/jpamodelgen/MyPanacheStaticMetamodelResource.class

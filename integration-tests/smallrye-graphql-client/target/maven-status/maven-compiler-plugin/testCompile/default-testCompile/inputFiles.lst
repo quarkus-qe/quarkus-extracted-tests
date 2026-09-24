@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/test/java/io/quarkus/it/smallrye/graphql/client/DynamicClientIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/test/java/io/quarkus/it/smallrye/graphql/client/DynamicClientTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/test/java/io/quarkus/it/smallrye/graphql/client/TypesafeClientIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/smallrye-graphql-client/src/test/java/io/quarkus/it/smallrye/graphql/client/TypesafeClientTest.java

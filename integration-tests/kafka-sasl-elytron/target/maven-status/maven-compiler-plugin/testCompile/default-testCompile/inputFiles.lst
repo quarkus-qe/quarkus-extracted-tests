@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-sasl-elytron/src/test/java/io/quarkus/it/kafka/KafkaSaslIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-sasl-elytron/src/test/java/io/quarkus/it/kafka/KafkaSaslTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-sasl-elytron/src/test/java/io/quarkus/it/kafka/KafkaSaslTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-sasl-elytron/src/test/java/io/quarkus/it/kafka/containers/KerberosContainer.java
