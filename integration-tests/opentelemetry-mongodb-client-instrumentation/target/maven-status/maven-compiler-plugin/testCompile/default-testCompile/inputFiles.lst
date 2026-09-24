@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceOffIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceOffTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceSanitizedIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceSanitizedTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-mongodb-client-instrumentation/src/test/java/io/quarkus/it/opentelemetry/BookResourceTest.java

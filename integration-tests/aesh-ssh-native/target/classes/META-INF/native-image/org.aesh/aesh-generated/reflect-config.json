@@ -1,0 +1,6 @@
+[
+  {
+    "name": "io.quarkus.it.aesh.ssh._AeshMetadataRegistry",
+    "methods": [{"name": "<init>", "parameterTypes": []}]
+  }
+]

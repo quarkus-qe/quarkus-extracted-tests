@@ -1,0 +1,16 @@
+io/quarkus/security/test/utils/TestIdentityController$TestIdentity.class
+io/quarkus/security/test/utils/TestIdentityController.class
+io/quarkus/security/test/utils/SecurityTestUtils$3.class
+io/quarkus/security/test/utils/SecurityTestUtils$2.class
+io/quarkus/security/test/utils/TestIdentityController$Builder.class
+io/quarkus/security/test/utils/TestIdentityProvider.class
+io/quarkus/security/test/utils/TestIdentityController$TestIdentity$1.class
+io/quarkus/security/test/utils/IdentityMock.class
+io/quarkus/security/test/utils/IdentityMock$IdentityAssociationMock.class
+io/quarkus/security/test/utils/IdentityMock$1.class
+io/quarkus/security/test/utils/IdentityMock$IdentityMockAuthenticationRequest.class
+io/quarkus/security/test/utils/SecurityTestUtils$4.class
+io/quarkus/security/test/utils/SecurityTestUtils$1.class
+io/quarkus/security/test/utils/AuthData.class
+io/quarkus/security/test/utils/SecurityTestUtils.class
+io/quarkus/security/test/utils/IdentityMock$IdentityMockProvider.class

@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/src/main/java/io/quarkus/grpc/example/streaming/Endpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/src/main/java/io/quarkus/grpc/example/streaming/TestServiceImpl.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/com/google/protobuf/EmptyProtos.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/Messages.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/MutinyTestServiceGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/Test.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/TestService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/TestServiceBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/TestServiceClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/virtual-threads/grpc-virtual-threads/target/generated-sources/grpc/io/grpc/testing/integration/TestServiceGrpc.java

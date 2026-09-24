@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/HibernateOrmNoWarningsTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/JPAFunctionalityInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/JPAFunctionalityTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/OfflineInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/OfflineTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mariadb/src/test/java/io/quarkus/it/jpa/mariadb/StorageEngineTest.java
