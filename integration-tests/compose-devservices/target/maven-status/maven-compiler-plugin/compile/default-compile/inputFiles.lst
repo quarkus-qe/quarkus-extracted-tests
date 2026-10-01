@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/main/java/io/quarkus/it/compose/devservices/kafka/KafkaAdminManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/main/java/io/quarkus/it/compose/devservices/kafka/KafkaEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/main/java/io/quarkus/it/compose/devservices/postgres/PostgresEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/main/java/io/quarkus/it/compose/devservices/rabbitmq/AMQPEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/compose-devservices/src/main/java/io/quarkus/it/compose/devservices/redis/RedisEndpoint.java

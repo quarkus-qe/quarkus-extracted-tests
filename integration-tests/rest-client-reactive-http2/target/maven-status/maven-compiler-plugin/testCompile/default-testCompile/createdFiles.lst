@@ -1,0 +1,9 @@
+io/quarkus/it/rest/client/http2/multipart/MultipartResourceTest.class
+io/quarkus/it/rest/client/http2/RestMethodInAbstractPMT$Resource1.class
+io/quarkus/it/rest/client/http2/ResourceIT.class
+io/quarkus/it/rest/client/http2/ResourceTest.class
+io/quarkus/it/rest/client/http2/GreetingResourceTest.class
+io/quarkus/it/rest/client/http2/RestMethodInAbstractPMT$BaseResource.class
+io/quarkus/it/rest/client/http2/multipart/MultipartResourceIT.class
+io/quarkus/it/rest/client/http2/RestMethodInAbstractPMT.class
+io/quarkus/it/rest/client/http2/RestMethodInAbstractPMT$Resource2.class
