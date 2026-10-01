@@ -1,0 +1,6 @@
+[
+  {
+    "name": "io.quarkus.it.aesh.websocket._AeshMetadataRegistry",
+    "methods": [{"name": "<init>", "parameterTypes": []}]
+  }
+]

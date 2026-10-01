@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/AmazonLambdaEphemeralPortTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/AmazonLambdaSimpleIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/AmazonLambdaSimpleTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/AmazonLambdaWithProfileSimpleTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/profiles/EphemeralPortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/amazon-lambda/src/test/java/io/quarkus/it/amazon/lambda/profiles/TrivialProfile.java

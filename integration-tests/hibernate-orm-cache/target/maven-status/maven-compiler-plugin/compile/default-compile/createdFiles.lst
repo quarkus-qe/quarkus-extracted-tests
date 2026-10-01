@@ -1,0 +1,11 @@
+io/quarkus/it/hibernate/orm/cache/DataBlobWeigher.class
+io/quarkus/it/hibernate/orm/cache/HibernateOrmCacheTestEndpoint$Counts.class
+io/quarkus/it/hibernate/orm/cache/Pokemon.class
+io/quarkus/it/hibernate/orm/cache/Citizen.class
+io/quarkus/it/hibernate/orm/cache/Person$Comparator.class
+io/quarkus/it/hibernate/orm/cache/Person.class
+io/quarkus/it/hibernate/orm/cache/HibernateOrmCacheTestEndpoint.class
+io/quarkus/it/hibernate/orm/cache/Country.class
+io/quarkus/it/hibernate/orm/cache/DataBlob.class
+io/quarkus/it/hibernate/orm/cache/Trainer.class
+io/quarkus/it/hibernate/orm/cache/Item.class

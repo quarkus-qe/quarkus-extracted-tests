@@ -1,0 +1,9 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/ConfigFromParseResult.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/EntryCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/EntryWithVersionCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/ExitCodeCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/GoodbyeCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/HelloCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/NamedCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/ParsedCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/picocli/src/main/java/io/quarkus/it/picocli/VersionProvider.java

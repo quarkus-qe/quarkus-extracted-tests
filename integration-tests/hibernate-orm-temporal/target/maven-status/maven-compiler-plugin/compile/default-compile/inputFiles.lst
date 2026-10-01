@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-temporal/src/main/java/io/quarkus/it/audit/AuditResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-temporal/src/main/java/io/quarkus/it/audit/AuditedOrder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-temporal/src/main/java/io/quarkus/it/audit/RevisionInfo.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-temporal/src/main/java/io/quarkus/it/temporal/TemporalProduct.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-temporal/src/main/java/io/quarkus/it/temporal/TemporalResource.java
