@@ -1,0 +1,9 @@
+io/quarkus/it/keycloak/FrontendResource.class
+io/quarkus/it/keycloak/IdTokenPropagationService.class
+io/quarkus/it/keycloak/ProtectedJwtResource.class
+io/quarkus/it/keycloak/IdTokenRequestReactiveFilter.class
+io/quarkus/it/keycloak/User.class
+io/quarkus/it/keycloak/ServiceWithoutToken.class
+io/quarkus/it/keycloak/ProtectedResource.class
+io/quarkus/it/keycloak/AccessTokenPropagationService.class
+io/quarkus/it/keycloak/CustomTenantResolver.class

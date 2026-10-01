@@ -1,0 +1,8 @@
+io/quarkus/it/keycloak/StaticTenantConfigPolicyEnforcerTest.class
+io/quarkus/it/keycloak/NativeAdminClientITCase.class
+io/quarkus/it/keycloak/DynamicTenantConfigPolicyEnforcerTest$DynamicTenantConfigResolverProfile.class
+io/quarkus/it/keycloak/KeycloakLifecycleManager.class
+io/quarkus/it/keycloak/PolicyEnforcerInGraalITCase.class
+io/quarkus/it/keycloak/AdminClientTestCase.class
+io/quarkus/it/keycloak/AbstractPolicyEnforcerTest.class
+io/quarkus/it/keycloak/DynamicTenantConfigPolicyEnforcerTest.class
