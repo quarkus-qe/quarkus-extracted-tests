@@ -1,0 +1,10 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/LegacyHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/LegacyHelloGrpcServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/N2OLegacyHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/N2OSmallryeHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/O2NLegacyHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/O2NSmallryeHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/SmallryeHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/SmallryeHelloGrpcServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/VertxLegacyHelloGrpcServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/test/java/com/example/grpc/exc/VertxSmallryeHelloGrpcServiceTest.java

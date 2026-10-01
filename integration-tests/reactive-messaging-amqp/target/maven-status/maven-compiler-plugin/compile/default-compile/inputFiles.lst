@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-amqp/src/main/java/io/quarkus/it/amqp/AmqpEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-amqp/src/main/java/io/quarkus/it/amqp/PeopleManager.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-amqp/src/main/java/io/quarkus/it/amqp/PeopleProducer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/reactive-messaging-amqp/src/main/java/io/quarkus/it/amqp/Person.java

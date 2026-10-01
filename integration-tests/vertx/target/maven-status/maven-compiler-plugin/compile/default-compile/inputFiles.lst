@@ -1,0 +1,13 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/EventBusConsumer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/EventBusSender.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/JsonTestResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/MyApplication.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/Person.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/Pet.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/VertxProducerResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/faulttolerance/NonblockingFaultTolerantService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/verticles/BareVerticle.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/verticles/MdcVerticle.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/verticles/MutinyAsyncVerticle.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/verticles/VerticleDeployer.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/vertx/src/main/java/io/quarkus/it/vertx/verticles/VerticleEndpoint.java
