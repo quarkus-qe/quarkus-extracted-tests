@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/MyEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/MyRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/SecuredFindMethodRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/SecuredHqlMethodRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/SecuredSqlMethodRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-panache-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/UnaccessibleFindMethodRepository.java

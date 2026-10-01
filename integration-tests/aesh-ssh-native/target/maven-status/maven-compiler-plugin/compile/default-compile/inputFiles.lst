@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-ssh-native/src/main/java/io/quarkus/it/aesh/ssh/CdiGreetCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-ssh-native/src/main/java/io/quarkus/it/aesh/ssh/GreetingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-ssh-native/src/main/java/io/quarkus/it/aesh/ssh/HelloCommand.java

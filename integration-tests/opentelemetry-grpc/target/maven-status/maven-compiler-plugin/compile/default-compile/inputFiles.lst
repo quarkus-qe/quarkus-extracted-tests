@@ -1,0 +1,13 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/src/main/java/io/quarkus/it/opentelemetry/grpc/ExporterResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/src/main/java/io/quarkus/it/opentelemetry/grpc/HelloResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/src/main/java/io/quarkus/it/opentelemetry/grpc/HelloService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/Greeter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/GreeterBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/GreeterClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/GreeterGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/HelloProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-grpc/target/generated-sources/grpc/io/quarkus/it/opentelemetry/grpc/MutinyGreeterGrpc.java

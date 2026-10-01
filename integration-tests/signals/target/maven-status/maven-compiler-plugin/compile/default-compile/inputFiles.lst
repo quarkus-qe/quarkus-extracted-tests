@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/signals/src/main/java/io/quarkus/signals/it/HelloMessage.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/signals/src/main/java/io/quarkus/signals/it/HelloMessageLogger.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/signals/src/main/java/io/quarkus/signals/it/HelloName.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/signals/src/main/java/io/quarkus/signals/it/HelloSignals.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/signals/src/main/java/io/quarkus/signals/it/SignalsResource.java

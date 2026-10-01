@@ -1,0 +1,8 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/ModernAppInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/ModernAppTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyAttributeConverterITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyAttributeConverterTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyDirtyCheckingInGraalITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyDirtyCheckingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyEntityListenerITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/jpa-mapping-xml/modern-app/src/test/java/io/quarkus/it/jpa/mapping/xml/modern/app/XmlMappingOnlyEntityListenerTest.java
