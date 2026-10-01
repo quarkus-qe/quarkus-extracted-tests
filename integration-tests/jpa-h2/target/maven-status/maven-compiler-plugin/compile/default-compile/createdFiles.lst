@@ -1,0 +1,9 @@
+io/quarkus/it/jpa/h2/Timeslot.class
+io/quarkus/it/jpa/h2/IdVersionPK.class
+io/quarkus/it/jpa/h2/DialectEndpoint.class
+io/quarkus/it/jpa/h2/SequencedAddress.class
+io/quarkus/it/jpa/h2/PointEntity.class
+io/quarkus/it/jpa/h2/DataIdentity.class
+io/quarkus/it/jpa/h2/NormalPointEntity.class
+io/quarkus/it/jpa/h2/JPAFunctionalityTestEndpoint.class
+io/quarkus/it/jpa/h2/Person.class

@@ -1,0 +1,6 @@
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityInGraalITCase.class
+io/quarkus/hibernate/validator/runtime/ArcProxyBeanMetaDataClassNormalizerTest$SecondSubclass.class
+io/quarkus/hibernate/validator/runtime/ArcProxyBeanMetaDataClassNormalizerTest$FirstSubclass.class
+io/quarkus/hibernate/validator/runtime/ArcProxyBeanMetaDataClassNormalizerTest$Original.class
+io/quarkus/hibernate/validator/runtime/ArcProxyBeanMetaDataClassNormalizerTest.class
+io/quarkus/it/hibernate/validator/HibernateValidatorFunctionalityTest.class

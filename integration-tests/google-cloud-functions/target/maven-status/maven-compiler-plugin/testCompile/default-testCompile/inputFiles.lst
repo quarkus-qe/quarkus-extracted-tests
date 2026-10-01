@@ -1,0 +1,5 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/test/java/io/quarkus/gcp/function/test/BackgroundFunctionStorageTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/test/java/io/quarkus/gcp/function/test/CloudEventStorageTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/test/java/io/quarkus/gcp/function/test/HttpFunctionRandomPortTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/test/java/io/quarkus/gcp/function/test/HttpFunctionTestCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/google-cloud-functions/src/test/java/io/quarkus/gcp/function/test/RawBackgroundFunctionPubSubTestCase.java

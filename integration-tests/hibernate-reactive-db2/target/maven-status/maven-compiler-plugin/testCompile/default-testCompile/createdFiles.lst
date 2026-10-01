@@ -1,0 +1,2 @@
+io/quarkus/it/hibernate/reactive/db2/HibernateReactiveDB2InGraalIT.class
+io/quarkus/it/hibernate/reactive/db2/HibernateReactiveDB2Test.class

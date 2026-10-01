@@ -1,0 +1,7 @@
+io/quarkus/funqy/test/GreetAsyncTest.class
+io/quarkus/funqy/test/GreetTestBase.class
+io/quarkus/funqy/test/UseAsyncGreetExtension.class
+io/quarkus/funqy/test/NoArgFunTest.class
+io/quarkus/funqy/test/UseSyncGreetExtension.class
+io/quarkus/funqy/test/UseNoArgFunExtension.class
+io/quarkus/funqy/test/GreetSyncTest.class

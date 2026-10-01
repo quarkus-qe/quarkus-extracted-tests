@@ -1,0 +1,7 @@
+io/quarkus/it/mongodb/BookResource.class
+io/quarkus/it/mongodb/BookCodec.class
+io/quarkus/it/mongodb/ReactiveBookResource.class
+io/quarkus/it/mongodb/BookCodecProvider.class
+io/quarkus/it/mongodb/BookDetail.class
+io/quarkus/it/mongodb/Book.class
+io/quarkus/it/mongodb/BookResourceWithParameterInjection.class
