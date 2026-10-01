@@ -1,0 +1,7 @@
+io/quarkus/it/opentelemetry/OpenTelemetryTest.class
+io/quarkus/it/opentelemetry/OpenTelemetryDisabledTest.class
+io/quarkus/it/opentelemetry/OpenTelemetryIT.class
+io/quarkus/it/opentelemetry/OpenTelemetryDisabledIT.class
+io/quarkus/it/opentelemetry/BaseTest.class
+io/quarkus/it/opentelemetry/OpenTelemetryDisabledTest$MyProfile.class
+io/quarkus/it/opentelemetry/BaseTest$1.class

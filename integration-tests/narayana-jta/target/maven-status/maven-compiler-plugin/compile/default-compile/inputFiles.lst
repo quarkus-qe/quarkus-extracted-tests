@@ -1,0 +1,3 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/main/java/io/quarkus/narayana/jta/TransactionBeanWithEvents.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/main/java/io/quarkus/narayana/jta/TransactionScopedBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/narayana-jta/src/main/java/io/quarkus/narayana/jta/TransactionalResource.java

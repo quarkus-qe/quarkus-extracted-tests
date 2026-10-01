@@ -1,0 +1,3 @@
+io/quarkus/grpc/examples/hello/HelloWorldTlsServiceTest.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointTest.class
+io/quarkus/grpc/examples/hello/HelloWorldTlsEndpointIT.class

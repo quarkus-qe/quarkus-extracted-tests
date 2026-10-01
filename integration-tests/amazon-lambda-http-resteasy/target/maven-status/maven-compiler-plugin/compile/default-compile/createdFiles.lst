@@ -1,0 +1,3 @@
+io/quarkus/it/amazon/lambda/CustomSecurityProvider.class
+io/quarkus/it/amazon/lambda/GreetingResource.class
+io/quarkus/it/amazon/lambda/SecurityCheckResource.class

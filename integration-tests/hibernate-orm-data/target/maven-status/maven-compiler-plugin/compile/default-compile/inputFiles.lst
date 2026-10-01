@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/MyEntityResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/MyOtherEntityResource.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/MyEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/pudefault/MyRepository.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/puother/MyOtherEntity.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/hibernate-orm-data/src/main/java/io/quarkus/it/hibernate/processor/data/puother/MyOtherRepository.java

@@ -1,0 +1,6 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaAvroIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaAvroTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaAvroTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaAvroWithKafkaCompanionTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaAvroWithTestResourceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-avro-apicurio2/src/test/java/io/quarkus/it/kafka/KafkaResource.java

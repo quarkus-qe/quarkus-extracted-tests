@@ -1,0 +1,2 @@
+io/quarkus/it/hibernate/processor/data/HibernateOrmDataInGraalIT.class
+io/quarkus/it/hibernate/processor/data/HibernateOrmDataTest.class
