@@ -1,0 +1,14 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/src/main/java/io/quarkus/grpc/examples/stork/DelayedServiceDiscoveryProvider.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/src/main/java/io/quarkus/grpc/examples/stork/HelloWorldService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/Greeter.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/GreeterBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/GreeterClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/GreeterGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/HelloWorldProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-sources/grpc/examples/MutinyGreeterGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-stork-sources/io/quarkus/grpc/examples/stork/DelayedConfiguration.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-stork-recovery/target/generated-stork-sources/io/quarkus/grpc/examples/stork/DelayedServiceDiscoveryProviderLoader.java

@@ -1,0 +1,4 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/test/java/io/quarkus/it/opentelemetry/spi/OTelSpiIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/test/java/io/quarkus/it/opentelemetry/spi/OTelSpiTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/test/java/io/quarkus/it/opentelemetry/spi/propagation/OpenTelemetryPropagatorsIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/opentelemetry-spi/src/test/java/io/quarkus/it/opentelemetry/spi/propagation/OpenTelemetryPropagatorsTest.java

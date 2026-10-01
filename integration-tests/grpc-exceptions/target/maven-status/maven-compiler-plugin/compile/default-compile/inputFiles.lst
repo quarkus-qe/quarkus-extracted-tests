@@ -1,0 +1,17 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/main/java/com/example/grpc/exc/LegacyHelloGrpcService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/src/main/java/com/example/grpc/exc/SmallryeHelloGrpcService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloGrpcBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloGrpcClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloGrpcGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloGrpcProto.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloReply.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloReplyOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloRequest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/HelloRequestOrBuilder.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/LegacyHelloGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/LegacyHelloGrpcBean.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/LegacyHelloGrpcClient.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/LegacyHelloGrpcGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/MutinyHelloGrpcGrpc.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-exceptions/target/generated-sources/grpc/com/example/grpc/exc/MutinyLegacyHelloGrpcGrpc.java

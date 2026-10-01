@@ -1,0 +1,11 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/CdiGreetCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/ExplodingCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/FailCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/GreetingService.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/HelloCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/ListOptionsCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/MetadataCheckCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/MultiArgsCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/RunCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/TopAeshCommand.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/aesh-native/src/main/java/io/quarkus/it/aesh/VersionCommand.java

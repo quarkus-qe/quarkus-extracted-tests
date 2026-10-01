@@ -1,0 +1,2 @@
+io/quarkus/it/micrometer/security/SecuredResource.class
+io/quarkus/it/micrometer/security/SecuredResourceOverlapping.class

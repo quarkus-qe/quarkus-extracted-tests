@@ -1,0 +1,17 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/BundledEndpoint.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/DevServicesKafkaCustomPortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/DevServicesKafkaCustomPortReusableServiceITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/DevServicesKafkaNonUniquePortITest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/DevServicesKafkaNonUniquePortSecondTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/KafkaAdminITCase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/KafkaAdminTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/continuoustesting/BaseDevServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/continuoustesting/DevServicesContainerSharingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/continuoustesting/DevServicesDevModeTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/continuoustesting/DevServicesKafkaContinuousTestingTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServiceKafka.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServicesCustomPortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServicesCustomPortReusableServiceProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServicesDisabledProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServicesNonUniquePortProfile.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/kafka-devservices/src/test/java/io/quarkus/it/kafka/devservices/profiles/DevServicesRandomPortProfile.java

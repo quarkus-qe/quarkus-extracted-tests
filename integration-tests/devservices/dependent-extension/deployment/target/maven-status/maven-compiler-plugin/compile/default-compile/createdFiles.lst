@@ -1,0 +1,4 @@
+io/quarkus/tests/dependentextension/deployment/DependentContainer.class
+io/quarkus/tests/dependentextension/deployment/DependentDevServicesProcessor.class
+io/quarkus/tests/dependentextension/deployment/OptionallyDependentContainer.class
+META-INF/quarkus-build-steps.list

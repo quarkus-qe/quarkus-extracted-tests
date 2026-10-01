@@ -1,0 +1,12 @@
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldEndpointTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldServiceTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldServiceTestBase.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/HelloWorldServiceVertxTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/N2OHelloWorldEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/N2OHelloWorldEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/O2NHelloWorldEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/O2NHelloWorldEndpointTest.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/VertxHelloWorldEndpointIT.java
+/home/runner/work/quarkus-extracted-tests/quarkus-extracted-tests/quarkus/integration-tests/grpc-interceptors/src/test/java/io/quarkus/grpc/example/interceptors/VertxHelloWorldEndpointTest.java
